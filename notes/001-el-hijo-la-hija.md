@@ -1,4 +1,5 @@
 ﻿# Masculinos, femeninos (1)
+阳性，阴性名词(1)
 
 > El hijo, el padre son nombres masculinos. 儿子、父亲是阳性名词。
 > <br>
@@ -11,6 +12,8 @@
 masculino | femenino | 释义
 --- | --- | ---
 el hijo <br> el padre <br> el camarero <br> el doctor <br> el estudiante <br> el taxista | la hija <br> la madre <br> la camarera <br> la doctora <br> la estudiante <br> la taxista | 儿子/女儿 <br> 父亲/母亲 <br> 男/女服务员 <br> 男/女医生 <br> 男/女学生 <br> 男/女出租司机
+
+---
 
 * 阴性变化规则
   * 大多数名词根据结尾的不同来变换词性（见下表）
@@ -38,3 +41,17 @@ masculino | femenino | 例外
 * 修饰名词的词也随名词词性变化而变化
   * **aquel** chico **rubio** - **aquela** chica **rubia**
   * **un** hombre **alto** - **una** mujer **alta**
+
+----
+
+相关单元：
+- 阳性，阴性名次(2)
+  - [002. Masculinos, femeninos (2)](notes/002-el-libro-la-mesa.md)
+- 不定冠词
+  - [004. El artículo indeterminado](notes/004-un-una-unos-unas.md)
+- 定冠词
+  - [006. El artículo determinado](notes/006-el-la-los-las.md)
+- 定性的形容词
+  - [013. Adjetivos calificativos](notes/013-un-coche-pequeño.md)
+- 表示国籍的形容词
+  - [014. Adjetivos de nacionalidad](notes/014-una-amiga-chilena.md)

@@ -1,4 +1,5 @@
 # Masculinos, femeninos (2)
+阳性，阴性名词(2)
 
 > El libro, el teléfono son nombres masculinos. 书、电话是阳性名词。
 > <br>
@@ -20,6 +21,9 @@
       * 以 **-ción, -sión** 结尾的名词：la can**ción**, la habita**ción**, la televi**sión**
       * 以 **-dad, -tad** 结尾的名词：la ciu**dad**, la universi**dad**, la liber**tad**...
       * 其他：la clas**e**, la lech**e**, la sa**l**, la flo**r**, la lu**z**...
+
+---
+
 * 大部分表示动物的名词
   * 只是阳性
     * el pez, el pájaro, el ratón, el conejo...
@@ -35,3 +39,17 @@ el león | la leona | 狮子
 el caballo | la yegua | 马
 el toro | la vaca | 牛
 el gallo | la gallina | 鸡  
+
+----
+
+相关单元：
+- 阴性，阳性名词(1)
+  - [001. Masculinos, femeninos (1)](notes/001-el-hijo-la-hija.md)
+- 不定冠词
+  - [004. El artículo indeterminado](notes/004-un-una-unos-unas.md)
+- 定冠词
+  - [006. El artículo determinado](notes/006-el-la-los-las.md)
+- 定性的形容词
+  - [013. Adjetivos calificativos](notes/013-un-coche-pequeño.md)
+- 表示国籍的形容词
+  - [014. Adjetivos de nacionalidad](notes/014-una-amiga-chilena.md)

@@ -1,4 +1,5 @@
 # El artículo indeterminado
+不定冠词
 
 > -¿Qué es esto? -Es **un reloj**. 这是什么？是一块表。
 > <br>
@@ -8,8 +9,8 @@
 
 |masculino|femenino
 --- | --- | ---
-singular|**un** <br> **un** chico, **un** abrigo | **una** <br> **una** chica, **una** casa
-plural|**unos** <br> **unos** chicos, **unos** abrigos | **unas**　<br> **unas** chicas, **unas** casas
+**singular** | **un** <br> **un** chico, **un** abrigo | **una** <br> **una** chica, **una** casa
+**plural** | **unos** <br> **unos** chicos, **unos** abrigos | **unas**　<br> **unas** chicas, **unas** casas
 
 * 对于以 **a(á), ha(á)** 开头的单数阴性名词，使用 **un**
   * **un á**guila, **un a**ula, **un ha**cha
@@ -18,10 +19,14 @@ plural|**unos** <br> **unos** chicos, **unos** abrigos | **unas**　<br> **unas*
   * 有形容词修饰时，用 **una**
     * **una** buena aula, **una** pequeña hacha
 
+----
+
 * 使用不定冠词表示人和事是某一类或某个团体的一部分
   * -¿Qué es esto? -Es **un reloj**.
-  * -¿Quién es Chayanne? -Es **un cantante**.
+  * -¿Quién es _Chayanne_? -Es **un cantante**.
   * La papaya es **una fruta**.  
+
+----
 
 * 使用不定冠词表示数量
   * **un, una** + 单数可数名词
@@ -33,3 +38,11 @@ plural|**unos** <br> **unos** chicos, **unos** abrigos | **unas**　<br> **unas*
   * **unos, unas** + 复数可数名词 = **algunos, algunas (3,4,5...)**
     * Me han regalado **unas** flores.
     * He comprado **unos** libros.
+
+-----
+
+相关单元：
+- 零冠词
+  - [005. Ausencia de artículo](notes/005-un-coche-coche.md)
+- 定冠词和不定冠词的比较
+  - [007. Contraste entre el artículo determinado y el indeterminado](notes/007-un-perro-el-perro.md)

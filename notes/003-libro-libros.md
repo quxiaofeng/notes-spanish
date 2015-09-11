@@ -1,4 +1,5 @@
 # Singular, plural
+单数，复数名词
 
 > Se usa el **singular** para hablar de una sola persona, animal o cosa: niño, gato, mesa. 在描述单一的人，动物或者事物时使用单数。
 > <br>
@@ -17,6 +18,8 @@ singular | plural | ejemplos
   * autobús - autobuses
   * televisión - televisiones
 
+----
+
 * 有些词用复数形式表示单复数
 
 singular | plural | 释义
@@ -26,7 +29,21 @@ gafas | gafas | 眼镜
 pantalones | pantalones | 裤子
 vaqueros | vaqueros | 牛仔裤
 
+----
+
 * 阳性 + 阴性 = 阳性复数
   * padre + madre = padres
   * hijo(s) + hija(s) = hijos
   * rey + reina = reyes
+
+----
+
+相关单元：
+- 不定冠词
+  - [004. El artículo indeterminado](notes/004-un-una-unos-unas.md)
+- 定冠词
+  - [006. El artículo determinado](notes/006-el-la-los-las.md)
+- 定性的形容词
+  - [013. Adjetivos calificativos](notes/013-un-coche-pequeño.md)
+- 表示国籍的形容词
+  - [014. Adjetivos de nacionalidad](notes/014-una-amiga-chilena.md)
