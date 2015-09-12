@@ -41,11 +41,11 @@ vaqueros | vaqueros | 牛仔裤
 ----
 
 ## 相关单元：
-- 不定冠词
-  - [004. El artículo indeterminado](notes/004-un-una-unos-unas.md)
-- 定冠词
-  - [006. El artículo determinado](notes/006-el-la-los-las.md)
-- 定性的形容词
-  - [013. Adjetivos calificativos](notes/013-un-coche-pequeño.md)
-- 表示国籍的形容词
-  - [014. Adjetivos de nacionalidad](notes/014-una-amiga-chilena.md)
+- [004. El artículo indeterminado](notes/004-un-una-unos-unas.md)
+  - 不定冠词
+- [006. El artículo determinado](notes/006-el-la-los-las.md)
+  - 定冠词
+- [013. Adjetivos calificativos](notes/013-un-coche-pequeño.md)
+  - 定性的形容词
+- [014. Adjetivos de nacionalidad](notes/014-una-amiga-chilena.md)
+  - 表示国籍的形容词
