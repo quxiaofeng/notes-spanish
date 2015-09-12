@@ -30,6 +30,8 @@ _Gramática de uso del español_ 一书的中文笔记。
   - [007. Contraste entre el artículo determinado y el indeterminado](notes/007-un-perro-el-perro.md)
 - 定冠词和专有名词
   - [008. El artículo determinado con nombres propios](notes/008-el-señor-alonso-la-calle-mayor.md)
+- 定冠词和表示时间数量的短语
+  - [009. El artículo determinado con expresiones de tiempo y de cantidad](notes/009-el-seis-de-enero.md)
 - 定冠词的其他用法
   - [010. Otros usos del artículo determinado](notes/010-tocar-la-guitarra.md)
 - 定性的形容词

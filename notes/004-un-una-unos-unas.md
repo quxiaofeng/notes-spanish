@@ -1,6 +1,8 @@
 # El artículo indeterminado
 不定冠词
 
+-----
+
 > -¿Qué es esto? -Es **un reloj**. 这是什么？是一块表。
 > <br>
 > **Una entrada**, por favor. 请给我一张门票。
@@ -41,7 +43,7 @@
 
 -----
 
-相关单元：
+## 相关单元：
 - 零冠词
   - [005. Ausencia de artículo](notes/005-un-coche-coche.md)
 - 定冠词和不定冠词的比较

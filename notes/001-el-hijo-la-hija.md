@@ -1,6 +1,8 @@
 ﻿# Masculinos, femeninos (1)
 阳性，阴性名词(1)
 
+-----
+
 > El hijo, el padre son nombres masculinos. 儿子、父亲是阳性名词。
 > <br>
 > La hija, la madre son nombres femeninos. 女儿、妈妈是阴性名词。
@@ -44,7 +46,7 @@ masculino | femenino | 例外
 
 ----
 
-相关单元：
+## 相关单元：
 - 阳性，阴性名次(2)
   - [002. Masculinos, femeninos (2)](notes/002-el-libro-la-mesa.md)
 - 不定冠词

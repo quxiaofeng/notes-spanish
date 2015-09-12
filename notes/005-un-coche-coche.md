@@ -1,6 +1,8 @@
 # Ausencia de artículo
 零冠词
 
+----
+
 > Alberto **se ha hecho budista**. Alberto变成佛教徒了。
 > <br>
 > Es **una actriz muy famosa**. 她是一个很有名的演员。
@@ -13,12 +15,12 @@
   * **Soy estudiante**.
   * _Chantal_ **es francesa**. **Es abogada**.
   * _Lenin_ y _Stalin_ **eran comunistas**.
-  * 但在以下情况下要使用不定冠词
-    * 名词后面有定性的修饰词
-      * _Chantal_ es **una francesa muy simpática**
-      * Es **un médico extraordinario**.
-    * 用职业来确定某人的身份
-      * -¿Quiénes son _las Hijas de Sol_? -Son **unas cantantes**.
+* <font color="red">例外</font>：但在以下情况下要使用不定冠词
+  * 名词后面有定性的修饰词
+    * _Chantal_ es **una francesa muy simpática**
+    * Es **un médico extraordinario**.
+  * 用职业来确定某人的身份
+    * -¿Quiénes son _las Hijas de Sol_? -Son **unas cantantes**.
 
 no se usa | se usa
 --- | ---
@@ -36,7 +38,7 @@ La hermana de _Rosa_ es **profesora** de español. <br> _Almodóvar_ es **direct
   * _Ernesto_ no come **carne**.
   * ¿Hay **pan**?
   * _Tomás_ canta **flamenco**.
-* 但是，在以下情况下需要使用不定冠词：
+* <font color="red">例外</font>：但是，在以下情况下需要使用不定冠词：
   * 表示数量：
     * La novia de _José Alfonso_ ha publicado **una novela**. (= 1)
     * Me han regelado **unos sellos**. (= algunos sellos)
@@ -50,6 +52,6 @@ _Antonio_ vende **coches**. <br> Necesito **gafas**. <br> ¿Tienes **hermanos**?
 
 -----
 
-相关单元
+## 相关单元
 - 一般现在时 haber
   - [046. Presente de indicativo de haber impersonal](047-hay-un-vaso-en-la-mesa.md)

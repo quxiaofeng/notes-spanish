@@ -1,6 +1,8 @@
 # Singular, plural
 单数，复数名词
 
+----
+
 > Se usa el **singular** para hablar de una sola persona, animal o cosa: niño, gato, mesa. 在描述单一的人，动物或者事物时使用单数。
 > <br>
 > Se usa el **plural** para hablar de más de una persona, animal, o cosa: niños, gatos, mesas. 在描述超过一个的人，动物或者事物时使用复数。
@@ -38,7 +40,7 @@ vaqueros | vaqueros | 牛仔裤
 
 ----
 
-相关单元：
+## 相关单元：
 - 不定冠词
   - [004. El artículo indeterminado](notes/004-un-una-unos-unas.md)
 - 定冠词

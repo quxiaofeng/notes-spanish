@@ -1,8 +1,10 @@
 # El artículo determinado
 定冠词
 
+----
+
 > Mira, la madre de _Antonio_. 看，Antonio 的妈妈。<br>
-> ¿Pudedo ver al director? 我能看到负责人吗？<br>
+> ¿Pudedo ver al director? 我能见见负责人吗？<br>
 > Las rosas son mis flores preferidas. 玫瑰是我最喜欢的花
 
 - 定冠词的形式
@@ -40,7 +42,7 @@
 
 ----
 
-相关单元：
+## 相关单元：
 - 定冠词和不定冠词的比较
   - [007. Contraste entre el artículo determinado y el indeterminado](notes/007-un-perro-el-perro.md)
 - 定冠词和专有名词
