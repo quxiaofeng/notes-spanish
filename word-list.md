@@ -51,7 +51,7 @@ la pera | f. | 梨
 la piña | f. | 菠萝
 la margarita | f. | 珍珠
 **Unidad 8** ||
-propio/a | adj. | 专门的
+propio, a | adj. | 专门的
 amable | adj. | 可爱的
 autómano/a | adj. | 自治的，自主的
 **Unidad 9** ||
@@ -60,3 +60,24 @@ la fecha | f. | 日期
 la medida | f. | 计量单位
 nacer <br> nací | v. | 出生<br> 第一人称单数一般过去时变位
 casarse | v. | 结婚
+la madrugada | f. | 黎明
+el camión | m. | 卡车
+la basura | f. | 垃圾
+el aceite | m. | 油
+la oliva | f. | 橄榄
+subir<br> ha subido | v. | 上升 <br> 第三人称现在完成时变位
+el plátano | m. | 香蕉
+**Unidad 10** ||
+el caso | m. | 情形，场合
+el ajedrez | m. | 国际象棋
+el griego | m. | 希腊语
+la natación | f. | 游泳
+el alpinismo | m. | 登山
+sonoro, a | adj. | 好听的
+la asignatura | f. | 课程
+ingresar | v. | 加入
+la filosofía | f. | 哲学
+el paquete | m. | 包裹
+la cárcel | f. | 监狱
+proteger | v. | 保护
+sano, a | adj. | 安全的

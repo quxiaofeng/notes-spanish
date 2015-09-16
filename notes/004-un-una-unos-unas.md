@@ -31,7 +31,7 @@
 ----
 
 * 使用不定冠词表示数量
-  * **un, una** + 单数可数名词
+  1. **un, una** + 单数可数名词
     * Necesito **un** lápiz.
     * **Una** entrada, por favor.
   * **unos, unas** + 单复数同型的单数名词

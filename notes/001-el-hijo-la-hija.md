@@ -18,7 +18,7 @@ el hijo <br> el padre <br> el camarero <br> el doctor <br> el estudiante <br> el
 ---
 
 * 阴性变化规则
-  * 大多数名词根据结尾的不同来变换词性（见下表）
+  1. 大多数名词根据结尾的不同来变换词性（见下表）
   * 以 **-ante, -ista** 结尾的名词的阴阳性形式一样。
     * el estudi**ante** - la estudi**ante**
     * el pian**ista** - la pian**ista**

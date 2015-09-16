@@ -28,7 +28,7 @@
 ---
 
 - 使用定冠词的场合
-  - 提到一个独特的人或物
+  1. 提到一个独特的人或物
     - **La madre** de _Antonio_ es policía. (Antonio 只有一个妈妈)
     - _Buenos Aires_ es **el capital** de _Argentina_. (阿根廷只有一个首都)
     - ¿Quién es **el presidente** de _Brasil_? (巴西只有一个总统)
