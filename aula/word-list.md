@@ -2,7 +2,9 @@
 
 ----
 
-- **AULA 1 Unidad 1 Nosotros**
+**AULA 1**
+
+- **Unidad 1 Nosotros**
 
 单词 | 词性 | 释义 | 英文
 ----|:----:|-----|----
@@ -29,3 +31,21 @@ la quinceañera | f. | 十五岁仪式 | fifteen years old
 el estilo | m. | 方式，风格 | style
 ampliar | v. | 扩展，放大 | amplify
 la melancolía | f. | 忧郁 | melancholy
+comentar | v. | 讨论，注释 | comment
+
+- **Unidad 2 Quiero Aprender Español**
+
+单词 | 词性 | 释义 | 英文
+----|:----:|-----|----
+el sujeto | m. | 主语 | subject
+la excursión | f. | 远足 | excursion
+el intercambio | m. | 交换 | interchange
+la pantalla | f. | 屏幕 | screen
+el taller | m. | 研究会 | workshop
+la telenovela | m. | 肥皂剧 | soap opera
+Sudamérica | | 南美 | south America
+aprobar | v. | 赞成，通过 | approve
+el currículum | m. | 履历 | curriculum
+el cuaderno | m. | 笔记本 | cuaderno
+el dibujo | m. | 绘画 | drawing
+faltar | v. | 没有，缺少 | be missing

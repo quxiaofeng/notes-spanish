@@ -1,8 +1,4 @@
-# i-love-spanish
-
-> 西班牙语笔记 <br>
-> 作者：李金 <br>
-> Email：lijinwithyou@gmail.com
+# 语法笔记
 
 ---
 

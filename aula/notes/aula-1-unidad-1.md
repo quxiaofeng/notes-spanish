@@ -1,11 +1,12 @@
-# AULA 1 Unidad 1 Nosotros
+# AULA 1
+## Unidad 1 Nosotros
 
 -----
 
 - 字母表 Abecedario
 
 字母|读音|字母|读音|字母|读音|字母|读音
----|---|---|---
+---|---|---|---|---|---|---|---
 A | a | H | hache | Ñ | eñe | U | u
 B | be | I |i | O |o | V | uve
 C | ce | J |jota | P |pe | W |uve
@@ -63,7 +64,7 @@ G |ge | N |ene | T |te | Z | ceta
 ----
 　　
 - 招呼和告别 Saludar y Despedirse
-  - 招呼
+  1. 招呼
     - Buenos días.
     - Buenas tardes.
     - Buenas noches.
