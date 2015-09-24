@@ -23,7 +23,7 @@
 (A mí) | me |
 (A ti) | te |
 (A él/ella/usted) | se | interes**a el curso** de gramática.
-(A nosotros/nosotras) | nos | interes**an los cureos** de cocina.
+(A nosotros/nosotras) | nos | interes**an los cursos** de cocina.
 (A vosotros/vosotras) | os |
 (A ellos/ellas/ustedes) | les |
 
@@ -70,3 +70,57 @@ Por qué + verbo conjugado <br> ¿**Por qué** estudias español?| Para + infini
 ------
 
 - 动词和介词 Verbos y Preposiciones
+- 动词的直接宾语如果是人，需要在前面加上介词 **a**
+  - Quiero conocer **a tu hermano**.
+- **al = a + el**
+
+|动词|宾语
+---|---|---
+| visitar | Barcelona.
+Quiero| **conocer** | México.
+ | **aprender** | otras lenguas.
+ | **practicar** | español.
+ | **estudiar** | fotografía.
+ | **hacer** | muchas fotos.
+ | **descubrir** | lugares nuevos.
+Quiero | **ir** | **a** la playa / **al** cine / **a** bailar / **de** compras.
+ | **salir** | **con** mis compañeros / **de** noche.
+
+------------
+
+- 定冠词 El Artículo Determinado
+
+|singular|plural
+--- | --- | ---
+**masculino** | **el** puebl**o** <br> **el** muse**o** <br> **el** curs**o** | **los** puebl**os** <br> **los** muse**os** <br> **los** curs**os**
+**femenino** | **la** play**a** <br> **la** fiest**a** <br> **la** discotec**a** | **las** play**as** <br> **las** fiest**as** <br> **las** discotec**as**
+
+- 一般来说以 **-o** 结尾的名词是阳性的，以 **-a** 结尾的名词是阴性的
+  - 例外情况：**el** idiom**a**, **la** man**o**, **la** mot**o**...
+- 以 **-e** 结尾的可能是阳性，也可能是阴性，还可以都是
+  - **la** gent**e**, **el/la** estudiant**e**
+- 以 **a** 发音开头的阴性名词单数使用阳性定冠词 **el**
+  - **el a**ula, **el a**ve
+
+-----
+
+- 熟练程度
+  - **muy bien**
+  - **bastante bien**
+  - **regular (un poco de)**
+  - **muy mal**
+
+--------------
+
+## 文化小知识
+
+西班牙语是世界上使用人数第三多的语言（仅次于汉语和英语），同时也是21个国家的官方语言，除此之外，
+还在美国，菲律宾等国家被使用。
+
+西班牙语是网络上使用第二多的语言，同时也是使用语言的地区面积第四大的语言。
+
+很多西班牙语中的美食词汇都在别的语言中被使用：tortilla, paella, jamón...
+
+其它类型的词汇有：siesta, fiesta, macho, amigo...
+
+hasta la vista, hola, adiós 在美国也是很常用的词汇。

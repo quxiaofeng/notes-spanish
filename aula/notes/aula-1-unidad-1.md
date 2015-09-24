@@ -21,21 +21,21 @@ G |ge | N |ene | T |te | Z | ceta
 
 提问|回答
 ---|----
-**¿Cómo te llamas/se llama?** | **(Me llamo)** Katia Vigny
-**¿Cuál es tu/su nombre?** | Katia.
-**¿Cuál es tu/su apellido?** | Vigny.
+**¿Cómo te llamas / se llama?** | **(Me llamo)** Katia Vigny
+**¿Cuál es tu / su nombre?** | Katia.
+**¿Cuál es tu / su apellido?** | Vigny.
 **¿De dónde eres?** | **Soy** alemán/alemania.
  | **(Soy) de** Berlín.
 **¿Eres/Es francesa?** | **No, soy** italiano/a.
  | **Sí, (soy) de** París.
 **¿Cuántos años tienes/tiene?** | 23.
  | **Tengo** 23 **años**
-**¿En qué trabajas/trabaja?** | **Soy** profesor/a.
- | **Trabajo en** un banco.
+**¿En qué trabajas / trabaja?** | **Soy** profesor/a.
+**¿A qué te dedicas / se dedica?** | **Trabajo en** un banco.
  | **Trabajo de** camarero/a.
 **¿Cuál es tu número de teléfono?** | **(Es el)** 93 555689.
-**¿Tienes/tiene móvil?** | **Sí, es el** 627629047
-**¿Tienes/tiene correo electrónico?** | **Sí**, predo86@aula.com
+**¿Tienes / tiene móvil?** | **Sí, es el** 627629047
+**¿Tienes / tiene correo electrónico?** | **Sí**, predo86@aula.com
 
 ----
 
@@ -124,3 +124,13 @@ estudi**ar**<br>cant**ar**<br>cocin**ar** | le**er**<br>ten**er**<br>s**er** | e
 不过对于一些常见的姓氏如：Pérez, Lopéz, Martínez... 可能使用两个姓氏方便区分。
 
 将名字与姓连在一起也是一种常见的用法。
+
+## 不同国家的差异
+
+País | Saludos | Despedidas
+----|-----|-----
+Argentina | Hola, ¿qué tal? ¿Todo bien? | Chau, nos vemos
+Venezuela | Hola, ¿comó están? | Chao y hasta la próxima.
+Cuba | Hola, ¿qué tal? | Hasta luego.
+Espana | | Adiós, hasta luego.
+Mexico | ¿Qué ondá? ¿Comó estás? |

@@ -8,6 +8,6 @@
 
 # 目录
 
-1. Aula 1
-  1. [Unidad 1 Nosotros](notes/aula-1-unidad-1.md)
-  - [Unidad 2 Quiero Aprender Español](notes/aula-1-unidad-2.md)
+**Aula 1**
+1. [Unidad 1 Nosotros](notes/aula-1-unidad-1.md)
+- [Unidad 2 Quiero Aprender Español](notes/aula-1-unidad-2.md)

@@ -4,7 +4,7 @@
 
 **AULA 1**
 
-- **Unidad 1 Nosotros**
+1. **Unidad 1 Nosotros**
 
 单词 | 词性 | 释义 | 英文
 ----|:----:|-----|----
@@ -46,6 +46,7 @@ el bastón | m. | 拐杖 | cane
 el globito | m. | 气球 | balloon
 el cordel | m. | 细绳 | string
 atar | v. | 系，绑 | tie
+el albañil | m. | 建筑工人 | builder
 
 - **Unidad 2 Quiero Aprender Español**
 
@@ -55,7 +56,7 @@ el sujeto | m. | 主语 | subject
 la excursión | f. | 远足 | excursion
 el intercambio | m. | 交换 | interchange
 la pantalla | f. | 屏幕 | screen
-el taller | m. | 研究会 | workshop
+el   | m. | 研究会 | workshop
 la telenovela | m. | 肥皂剧 | soap opera
 Sudamérica | | 南美 | south America
 aprobar | v. | 赞成，通过 | approve
@@ -63,3 +64,23 @@ el currículum | m. | 履历 | curriculum
 el cuaderno | m. | 笔记本 | cuaderno
 el dibujo | m. | 绘画 | drawing
 faltar | v. | 没有，缺少 | be missing
+el complemento | 补语 | complement
+el ave | f. | 鸟 | bird
+nocturno/a | adj. | 夜间的 | nocturnal
+la artesanía | f. | 手工艺 | craftwork
+averiguar | v. | 查明，发现 | figure out
+la grabación | f. | 录音 | recording
+traducir | v. | 翻译 | translate
+el traductor | m. | 翻译 | translator
+el pueblo | m. | 村镇 | village
+la moda | f. | 风尚 | style
+la previsión | f. | 预测 | prediction
+la extensión | f. | 面积，范围 | aera
+estar de moda | | 流行中 | be in fashion
+de hecho | | 事实上 | in fact
+el éxito | m. | 成功 | success
+la gastronomía | f. | 烹饪术 | gastronomy
+la paella | f. | 海鲜饭 | paella
+la siesta | f. | 午睡 | siesta
+destacado/a | adj. | 杰出的 | noted
+anglófono/a | adj. | 讲英语的 | english-speaker
