@@ -32,6 +32,20 @@ el estilo | m. | 方式，风格 | style
 ampliar | v. | 扩展，放大 | amplify
 la melancolía | f. | 忧郁 | melancholy
 comentar | v. | 讨论，注释 | comment
+la antología | f. | 选集 | anthology
+la entrevista | f. | 采访 | interview
+acercarse | v. | 接近 | get close
+la viñeta | f. | 漫画 | cartoon
+el tratamiento | m. | 称呼 | treatment
+pichurri | interj. | 亲爱的 | darling
+cotidiano/a | adj. | 日常的 | daily
+la oreja | f. | 耳朵 | ear
+la sillita | f. | 椅子 | chair
+la guindilla | f.| 辣椒 | pepper
+el bastón | m. | 拐杖 | cane
+el globito | m. | 气球 | balloon
+el cordel | m. | 细绳 | string
+atar | v. | 系，绑 | tie
 
 - **Unidad 2 Quiero Aprender Español**
 

@@ -111,5 +111,16 @@ estudi**ar**<br>cant**ar**<br>cocin**ar** | le**er**<br>ten**er**<br>s**er** | e
 (vosotros/vosotras) | sois | tenéis | os llamáis
 (ellos/ellas/ustedes) | son | tienen | se llaman
 　　
-　　
-　　
+------
+
+## 文化小知识
+
+在大多数说西语的国家，人们有两个姓氏：第一个是父亲的第一姓氏，第二个是母亲的第一姓氏。
+已婚的女人会保留自己的姓（包括在护照身份证等正式文件中）。
+
+例如 García Márquez, 表示父亲的第一姓氏为 García，母亲的第一姓氏为 Márquez。
+
+日常生活中，大多数人只用第一个姓氏进行称呼，而在正式文件中使用两个姓氏。
+不过对于一些常见的姓氏如：Pérez, Lopéz, Martínez... 可能使用两个姓氏方便区分。
+
+将名字与姓连在一起也是一种常见的用法。
