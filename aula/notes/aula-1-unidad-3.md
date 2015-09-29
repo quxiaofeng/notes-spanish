@@ -21,7 +21,8 @@ estar 的变位
 - La Giralda **está** en Sevilla.
 - Las islas Cíes **están** en Galicia.
 
-| estar
+
+ | estar |
 ---|---
 (yo) | estoy
 (tú) | estás
@@ -84,5 +85,5 @@ estar 的变位
 ---|---|---|---|---|---|---|---|---
 Chile | Santiago |北部干燥<br>中部温和<br>南部寒冷| 铜 | 智利馅饼<br>la empanada | 1500 万 | 智利比索 | 西班牙语 | 安第斯山脉<br>复活节岛
 Ecuador | Quido | 沿海热带<br>内陆寒冷 | 可可 | 洛克罗<br>el locro | 1180 万 | 美元 | 西班牙语<br>奇楚瓦语 | 加拉帕戈斯群岛<br>印加古城 Ingapirca
-Costa Rica | San José | 热带 | 咖啡 | el gallopinto | 390 万 | 克朗 | Arenal 火山
+Costa Rica | San José | 热带 | 咖啡 | el gallopinto | 390 万 | 克朗 | 西班牙语 | Arenal 火山
 España | Madrid | 温和 | 油 | 菜饭<br>la paella | 4000 万 | 欧元 | 西班牙语<br>加泰罗尼亚语<br>巴斯克语<br>加利西亚语 | 加那利群岛<br>安达卢西亚<br>加泰罗尼亚<br>巴利阿里群岛

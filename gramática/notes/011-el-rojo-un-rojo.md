@@ -25,3 +25,10 @@
 - **el, la, los, las** + **de** + **nombre** 表示 **posesión, situación, materia**
   - Mi coche es peor que **el de mi hermano**. (el coche de mi hermano)
   - ¿Quién es *Alicia*? **La del vestido blanco**. (la chica del vestido blanco)
+  - Esas gafas no me gustan. Prefiero **las de la derecha**. (las gafas que están a la derecha)
+  - ¿Qué pendientes te vas a poner? **Los de oro**. (los pendientes de oro)
+- **lo** + **adjetivo masculino singular** = la cosa, las cosas.
+  - **Lo bueno** de verano son las vacaciones. (la cosa buena de verano)
+  - **Lo mejor** de Perú es la gente. (la mejor cosa de Perú)
+  - Me gusta **lo salado**. (las cosas saladas)
+  - **Lo más bonito de la vida** son los amigos. (la cosa más bonita)

@@ -82,3 +82,4 @@ la cárcel | f. | 监狱 | prison
 proteger | v. | 保护 | protect
 sano/a | adj. | 安全的 | safe
 el ladrón | m. | 小偷 | thief
+salado/a | adj. | 咸的 | salty
