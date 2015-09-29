@@ -22,14 +22,14 @@ estar 的变位
 - Las islas Cíes **están** en Galicia.
 
 
- | estar |
----|---
-(yo) | estoy
-(tú) | estás
-(él/ella/usted) | está
-(nosotros/nosotras) | estamos
-(vosotros/vosotras) | estáis
-(ellos/ellas/ustedes) | está
+| verbo| estar |
+|---|---
+|(yo) | estoy
+|(tú) | estás
+|(él/ella/usted) | está
+|(nosotros/nosotras) | estamos
+|(vosotros/vosotras) | estáis
+|(ellos/ellas/ustedes) | está
 
 注意：
 
