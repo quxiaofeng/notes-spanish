@@ -136,3 +136,4 @@ el acueducto | m. | 沟渠 | aqueduct
 lindo/a | adj. | 漂亮的，好看的 | beautiful, cute
 biólogo/a | m./f. | 生物学家 | biologist
 el petróleo | m. | 石油 | petroleum
+la delincuencia | f. | 犯罪 | delinquency

@@ -57,27 +57,27 @@ G |ge | N |ene | T |te | Z | ceta
 16 | dieciséis | 100 |cien
 
 ###  招呼和告别 Saludar y Despedirse
-1. 招呼
-  - Buenos días.
-  - Buenas tardes.
-  - Buenas noches.
-- 招呼
-  - ¡Hola!
-  - Hola, ¿qué tal?
-- 告别
-  - ¡Adiós!
-  - ¡Hasta luego!
+招呼
+- Buenos días.
+- Buenas tardes.
+- Buenas noches.
+招呼
+- ¡Hola!
+- Hola, ¿qué tal?
+告别
+- ¡Adiós!
+- ¡Hasta luego!
 
 ### 词性 El género
 
-- 国籍
+国籍
 
 阳性|阴性|阴阳性一致
 ---|---|---
 **-o** <br> italian**o** <br> turc**o** | **-a** <br> italian**a** <br> turc**a** | belg**a** <br> marroqu**í** <br> estadounid**ense**
 **-consonante** <br> alemán <br> francés| **-consonante + a** <br> aleman**a** <br> frances**a**|
 
-- 职业
+职业
 
 阳性|阴性|阴阳性一致
 ---|---|---
@@ -89,7 +89,7 @@ camarer**o**<br>cociner**o**<br>secretari**o** | camarer**a**<br>cociner**a**<br
 ----|----|----
 estudi**ar**<br>cant**ar**<br>cocin**ar** | le**er**<br>ten**er**<br>s**er** | escrib**ir**<br>**ir**<br>viv**ir**　　
 
-- ser, tener, llamarse 的变位
+ser, tener, llamarse 的变位
 
 | ser | tener | llamarse
 ---|---|---|---

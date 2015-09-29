@@ -59,8 +59,10 @@ Por qué + verbo conjugado <br> ¿**Por qué** estudias español?| Para + infini
 - -ir : vivir, descubrir, ...
 
 ### 动词和介词 Verbos y Preposiciones
-- 动词的直接宾语如果是人，需要在前面加上介词 **a**
-  - Quiero conocer **a tu hermano**.
+
+动词的直接宾语如果是人，需要在前面加上介词 **a**
+
+- Quiero conocer **a tu hermano**.
 - **al = a + el**
 
 |动词|宾语
@@ -90,10 +92,13 @@ Quiero | **ir** | **a** la playa / **al** cine / **a** bailar / **de** compras.
   - **el a**ula, **el a**ve
 
 ### 熟练程度
-  - **muy bien**
-  - **bastante bien**
-  - **regular (un poco de)**
-  - **muy mal**
+
+熟练程度从高到低
+
+- **muy bien**
+- **bastante bien**
+- **regular (un poco de)**
+- **muy mal**
 
 ###  文化小知识
 
