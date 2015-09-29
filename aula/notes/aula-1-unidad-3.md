@@ -4,7 +4,8 @@
 
 ### 表达存在 Expresar Existencia
 
-使用动词 **hay**
+使用动词 **hay** 表示存在。
+
 - En Asturias **hay muchas** montañas.
 - En España **hay cuatro** lenguas oficiales.
 - En La Rioja **hay unos** vinos muy buenos.
