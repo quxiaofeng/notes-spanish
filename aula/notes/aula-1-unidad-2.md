@@ -1,9 +1,8 @@
-# AULA 2
+# AULA 1
+
 ## Unidad 2 Quiero Aprender Español
 
-----
-
-- 表达想法 Expresar Intención
+### 表达想法 Expresar Intención
 
 | querer | + Infinitivo
 ---|---|---
@@ -14,9 +13,7 @@
 (vosotros/vosotras) | queréis |
 (ellos/ellas/ustedes) | qu**ie**ren |
 
------
-
-- 表达兴趣 Expresar Intereses
+### 表达兴趣 Expresar Intereses
 
 ||interesar
 ---|---|---
@@ -27,9 +24,7 @@
 (A vosotros/vosotras) | os |
 (A ellos/ellas/ustedes) | les |
 
-----
-
-- 说明理由 Hablar de Motivos
+### 说明理由 Hablar de Motivos
 
 提问 Preguntar | 回答 Responder
 ----|-----
@@ -37,9 +32,7 @@
 Por qué + verbo conjugado <br> ¿**Por qué** estudias español?| Para + infinitivo <br> **Para** viajar por chile.
 | **Por** + sustantivo <br> Por mi trabajo.
 
------
-
-- 人称代词主格 Pronombres Personales Sujeto
+### 人称代词主格 Pronombres Personales Sujeto
 
 |Singular|Plural
 ---|---|---
@@ -49,9 +42,7 @@ Por qué + verbo conjugado <br> ¿**Por qué** estudias español?| Para + infini
 
 - 注：Usted/ustedes 的动词变位使用第三人称。
 
------
-
-- 陈述式，现在时 Presente de Indicativo
+### 陈述式，现在时 Presente de Indicativo
 
 |-ar|-er|-ir
 ----|----|----|----
@@ -67,9 +58,7 @@ Por qué + verbo conjugado <br> ¿**Por qué** estudias español?| Para + infini
 - -er : leer, aprender, comer, ...
 - -ir : vivir, descubrir, ...
 
-------
-
-- 动词和介词 Verbos y Preposiciones
+### 动词和介词 Verbos y Preposiciones
 - 动词的直接宾语如果是人，需要在前面加上介词 **a**
   - Quiero conocer **a tu hermano**.
 - **al = a + el**
@@ -86,9 +75,7 @@ Quiero| **conocer** | México.
 Quiero | **ir** | **a** la playa / **al** cine / **a** bailar / **de** compras.
  | **salir** | **con** mis compañeros / **de** noche.
 
-------------
-
-- 定冠词 El Artículo Determinado
+### 定冠词 El Artículo Determinado
 
 |singular|plural
 --- | --- | ---
@@ -102,17 +89,13 @@ Quiero | **ir** | **a** la playa / **al** cine / **a** bailar / **de** compras.
 - 以 **a** 发音开头的阴性名词单数使用阳性定冠词 **el**
   - **el a**ula, **el a**ve
 
------
-
-- 熟练程度
+### 熟练程度
   - **muy bien**
   - **bastante bien**
   - **regular (un poco de)**
   - **muy mal**
 
---------------
-
-## 文化小知识
+###  文化小知识
 
 西班牙语是世界上使用人数第三多的语言（仅次于汉语和英语），同时也是21个国家的官方语言，除此之外，
 还在美国，菲律宾等国家被使用。

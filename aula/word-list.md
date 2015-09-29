@@ -4,7 +4,7 @@
 
 **AULA 1**
 
-1. **Unidad 1 Nosotros**
+- **Unidad 1 Nosotros**
 
 单词 | 词性 | 释义 | 英文
 ----|:----:|-----|----
@@ -56,7 +56,7 @@ el sujeto | m. | 主语 | subject
 la excursión | f. | 远足 | excursion
 el intercambio | m. | 交换 | interchange
 la pantalla | f. | 屏幕 | screen
-el   | m. | 研究会 | workshop
+el taller  | m. | 研究会 | workshop
 la telenovela | m. | 肥皂剧 | soap opera
 Sudamérica | | 南美 | south America
 aprobar | v. | 赞成，通过 | approve
@@ -84,3 +84,55 @@ la paella | f. | 海鲜饭 | paella
 la siesta | f. | 午睡 | siesta
 destacado/a | adj. | 杰出的 | noted
 anglófono/a | adj. | 讲英语的 | english-speaker
+
+- Unidad 3 ¿Dónde está Santiago?
+
+单词 | 词性 | 释义 | 英文
+----|:----:|-----|----
+el concurso | m. | 竞争，比赛 | contest
+la ubicación | f. | 位置，方位 | location
+superlativo/a | adj. | 最高级的 | superlative
+la panamericana | f. | 泛美公路 | Pan-American Highway
+atravesar | v. | 穿过 | cross
+la autopista | f. | 高速路 | highway
+unir | v. | 连接，结合 | join
+recorrer | v. | 走完，走遍 | go over
+el paisaje | m. | 风景 | landscape
+geográfico/a | adj. | 地理上的 | geographical
+climático/a | adj. | 气候上的 | climate
+la diversidad | f. | 多样性 | diversity
+denso/a | adj. | 浓密的 | dense
+la selva | f. | 雨林 | rain-forest
+tropical | adj. | 热带的 | tropical
+seco/a | adj. | 干燥的 | dry
+templado/a | adj. | 温和的 | temperate
+el clima | m. | 气候 | climate
+el cobre | m. | 铜 | copper
+señalar | v. | 标志 | mark
+la empanada | f. | 馅饼 | pie
+la población | f. | 人口 | population
+el cacao | m. | 可可 | cacao
+el colón | m. | 克朗 | colon
+el gallopinto | m. | 豆饭 | gallo pinto
+el quechua | m. | 凯楚阿语 | Quechua
+el locro | m. | 洛克罗（一种菜） | locro
+el catalán | m. | 加泰罗尼亚语 | Catalan
+el vasco | m. | 巴斯克语 | Basque
+el gallego | m. | 加利西亚语 | Galician
+el apartado | m. | 部分 | part
+la cadena | m. | 连锁 | chain
+sortear | v. | 抽签 | raffle
+fabuloso/a | adj. | 极好的 | fabulous
+el gasto | m. | 费用 | expense
+indígena | adj. | 本地的 | native
+el habitante | m. | 居民 | resident
+acertar | v. | 猜中，蒙对 | guess right
+la arena | f. | 沙 | sand
+maravilloso/a | adj. | 极好的 | marvelous
+el tamal | m. | 玉米面团包馅卷 | tamale
+húmedo/a | adj. | 潮湿的 | wet
+el ecuador | m. | 赤道
+el acueducto | m. | 沟渠 | aqueduct
+lindo/a | adj. | 漂亮的，好看的 | beautiful, cute
+biólogo/a | m./f. | 生物学家 | biologist
+el petróleo | m. | 石油 | petroleum

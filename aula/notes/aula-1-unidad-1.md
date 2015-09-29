@@ -1,9 +1,8 @@
 # AULA 1
+
 ## Unidad 1 Nosotros
 
------
-
-- 字母表 Abecedario
+### 字母表 Abecedario
 
 字母|读音|字母|读音|字母|读音|字母|读音
 ---|---|---|---|---|---|---|---
@@ -15,9 +14,7 @@ E | e | L |ele | R |erre | X | equis
 F |efe | M |eme | S |ese | Y | i griega
 G |ge | N |ene | T |te | Z | ceta
 
-----
-
-- 个人资料 Datos Personales
+### 个人资料 Datos Personales
 
 提问|回答
 ---|----
@@ -37,9 +34,7 @@ G |ge | N |ene | T |te | Z | ceta
 **¿Tienes / tiene móvil?** | **Sí, es el** 627629047
 **¿Tienes / tiene correo electrónico?** | **Sí**, predo86@aula.com
 
-----
-
-- 数字 Números
+### 数字 Números
 
 数字|读音|数字|读音
 ----|----|----|----
@@ -61,23 +56,19 @@ G |ge | N |ene | T |te | Z | ceta
 15 |quince | 90 |noventa
 16 | dieciséis | 100 |cien
 
-----
-　　
-- 招呼和告别 Saludar y Despedirse
-  1. 招呼
-    - Buenos días.
-    - Buenas tardes.
-    - Buenas noches.
-  - 招呼
-    - ¡Hola!
-    - Hola, ¿qué tal?
-  - 告别
-    - ¡Adiós!
-    - ¡Hasta luego!
+###  招呼和告别 Saludar y Despedirse
+1. 招呼
+  - Buenos días.
+  - Buenas tardes.
+  - Buenas noches.
+- 招呼
+  - ¡Hola!
+  - Hola, ¿qué tal?
+- 告别
+  - ¡Adiós!
+  - ¡Hasta luego!
 
-----
-
-- 词性 El género
+### 词性 El género
 
 - 国籍
 
@@ -92,14 +83,12 @@ G |ge | N |ene | T |te | Z | ceta
 ---|---|---
 camarer**o**<br>cociner**o**<br>secretari**o** | camarer**a**<br>cociner**a**<br>secretari**a** | period**ista**<br>deport**ista**<br>estudiant**e**
 
------
-
-- 动词变位
+### 动词变位
 
 -ar | -er | -ir
 ----|----|----
 estudi**ar**<br>cant**ar**<br>cocin**ar** | le**er**<br>ten**er**<br>s**er** | escrib**ir**<br>**ir**<br>viv**ir**　　
-　　
+
 - ser, tener, llamarse 的变位
 
 | ser | tener | llamarse
@@ -111,9 +100,8 @@ estudi**ar**<br>cant**ar**<br>cocin**ar** | le**er**<br>ten**er**<br>s**er** | e
 (vosotros/vosotras) | sois | tenéis | os llamáis
 (ellos/ellas/ustedes) | son | tienen | se llaman
 　　
-------
-
-## 文化小知识
+### 文化小知识
+#### 姓名
 
 在大多数说西语的国家，人们有两个姓氏：第一个是父亲的第一姓氏，第二个是母亲的第一姓氏。
 已婚的女人会保留自己的姓（包括在护照身份证等正式文件中）。
@@ -125,12 +113,12 @@ estudi**ar**<br>cant**ar**<br>cocin**ar** | le**er**<br>ten**er**<br>s**er** | e
 
 将名字与姓连在一起也是一种常见的用法。
 
-## 不同国家的差异
+#### 不同国家打招呼和告别的差异
 
 País | Saludos | Despedidas
 ----|-----|-----
 Argentina | Hola, ¿qué tal? ¿Todo bien? | Chau, nos vemos
 Venezuela | Hola, ¿comó están? | Chao y hasta la próxima.
 Cuba | Hola, ¿qué tal? | Hasta luego.
-Espana | | Adiós, hasta luego.
-Mexico | ¿Qué ondá? ¿Comó estás? |
+España | | Adiós, hasta luego.
+México | ¿Qué ondá? ¿Comó estás? |
