@@ -45,7 +45,7 @@
 
 ## 相关单元：
 
-- [005. Ausencia de artículo](notes/005-un-coche-coche.md)
+- [005. Ausencia de artículo](005-un-coche-coche.md)
   - 零冠词
-- [007. Contraste entre el artículo determinado y el indeterminado](notes/007-un-perro-el-perro.md)
+- [007. Contraste entre el artículo determinado y el indeterminado](007-un-perro-el-perro.md)
   - 定冠词和不定冠词的比较

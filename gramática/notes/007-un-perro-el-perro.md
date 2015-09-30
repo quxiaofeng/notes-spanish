@@ -21,7 +21,7 @@ __Un__ melón, por favor. | Me encanta __el__ melón.
 
 ## 相关单元
 
-- [004. El artículo indeterminado](notes/004-un-una-unos-unas.md)
+- [004. El artículo indeterminado](004-un-una-unos-unas.md)
   - 不定冠词
-- [006. El artículo determinado](notes/006-el-la-los-las.md)
+- [006. El artículo determinado](006-el-la-los-las.md)
   - 定冠词
