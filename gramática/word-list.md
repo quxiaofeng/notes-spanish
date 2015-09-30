@@ -1,17 +1,46 @@
 # 单词表
 
+- **Gramática**
+
 单词|词性|释义|英文
 ----|:----:|----|----
-**Unidad 1** |||
+el nombre | m. | 名词 | noun
+el verbo | m. | 动词 | verb
+el consonante | m. | 辅音 | consonant
+masculino | adj. | 阳性的 | male
+femenino | adj. | 阴性的 | female
+singular | adj. | 单数的 | single
+plural | adj. | 复数的 | plural
+el artículo | m. | 冠词 | article
+el artículo indeterminado | | 不定冠词 | indefinite article
+el artículo determinado | | 定冠词 | definite article
+la ausencia | f. | 省略 | absence
+el nombre propio | | 专有名词 | proper noun
+el adjetivo | m. | 形容词 | adjective
+el demostrativo | m. | 指示代词 | demonstrative pronoun
+la frecuencia | f. | 频率 | frequency
+la cantidad | f. | 定量 | quantity
+calificativo | adj. | 定性的 | qualitative
+el presente | m. | 现在时 | present
+el pasado | m. | 过去时 | past
+el futuro | m. | 将来时 | future
+
+- **Unidad 001**
+
+单词|词性|释义|英文
+----|:----:|----|----
 el piloto <br> la piloto | m.<br>f. | 飞行员<br>女飞行员 | pilot
 el marqués <br> la marquesa| m.<br>f.| 侯爵<br>侯爵夫人 | marquis/marchioness
-**Unidad 2** |||
+
+- **Unidad 002**
+
+单词|词性|释义|英文
+----|:----:|----|----
 el brazo | m. | 手臂 | arm
 el pijama | m. | 睡衣 | pyjamas
 la tortilla | f. | 鸡蛋饼 | tortilla
 el gallo <br> la gallina | m.<br>f. | 公鸡<br>母鸡 | rooster/hen
 el pulóver | m. | 套衫 | pullover
-el consonante | m. | 辅音 | consonant
 la serpiente | f. | 蛇 | snake
 la rana | f. | 蛙 | frog
 la sardina | f. | 沙丁鱼 | sardine
@@ -21,24 +50,45 @@ el toro <br> la vaca| m.<br>f.| 公牛<br>母牛 | bull/cow
 la duda | f. | 疑问 | doubt
 la mariposa | f. | 蝴蝶 | butterfly
 el tenedor | m. | 叉子 | fork
-**Unidad 3** |||
+
+- **Unidad 003**
+
+单词|词性|释义|英文
+----|:----:|----|----
 el rubí | m. |红宝石 | ruby
 el frijol | m. | 菜豆 | bean
-**Unidad 4** |||
+
+- **Unidad 004**
+
+单词|词性|释义|英文
+----|:----:|----|----
 el águila | f. | 鹰 | eagle
 la papaya | f. | 番木瓜 | papaya
 el hacha | f. | 斧子 | axe
 el aula | f. | 教室 | classroom
-**Unidad 005** |||
+
+- **Unidad 005**
+
+单词|词性|释义|英文
+----|:----:|----|----
 la ausencia | f.| 缺席，不在 | absence
 el sello | m. | 邮票 | stamp
 la moneda | f. | 硬币 | coin
 la enciclopedia | f. | 百科全书 | encyclopedia
 el vendedor <br> la vendedora| m.<br>f. |商人 <br> 女商人 | seller
-**Unidad 006** |||
-encender <br> enciende | v. | 点燃 <br> 第三人称单数一般现在时变位 | turn on
+hacerse | v. | 变成 | become
+
+- **Unidad 006**
+
+单词|词性|释义|英文
+----|:----:|----|----
+encender <br> e$\rightarrow$ie enciende | v. | 点燃 <br> 第三人称单数一般现在时变位 | turn on
 la hoja | f. | 叶子 | leaf
-**Unidad 007** |||
+
+- **Unidad 007**
+
+单词|词性|释义|英文
+----|:----:|----|----
 el loro | m. | 鹦鹉 | parrot
 el oyente | m. | 听众 | audience
 alquilar | v. | 租 | rent
@@ -50,24 +100,36 @@ la estrella | f. | 星星 | star
 la pera | f. | 梨 | pear
 la piña | f. | 菠萝 | pineapple
 la margarita | f. | 雏菊 | daisy
-**Unidad 008** |||
+
+- **Unidad 008**
+
+单词|词性|释义|英文
+----|:----:|----|----
 propio, a | adj. | 专门的 | own
 amable | adj. | 友好的 | friendly
 autómano/a | adj. | 自治的，自主的 |
-**Unidad 009** |||
+
+- **Unidad 009**
+
+单词|词性|释义|英文
+----|:----:|----|----
 el partido | m. | 比赛 | match
 la fecha | f. | 日期 | date
 la medida | f. | 计量单位 | measurement
-nacer <br> nací | v. | 出生<br> 第一人称单数一般过去时变位 | be born
+nacer | v. | 出生 | be born
 casarse | v. | 结婚 | marry
 la madrugada | f. | 黎明 | dawn
 el camión | m. | 卡车 | lorry
 la basura | f. | 垃圾 | litter
 el aceite | m. | 油 | oil
 la oliva | f. | 橄榄 | olive
-subir<br> ha subido | v. | 上升 <br> 第三人称现在完成时变位 | rise
+subir | v. | 上升，爬 | rise, climb
 el plátano | m. | 香蕉 | banana
-**Unidad 010** |||
+
+- **Unidad 010**
+
+单词|词性|释义|英文
+----|:----:|----|----
 el caso | m. | 情形，场合 | case
 el ajedrez | m. | 国际象棋 | chess
 el griego | m. | 希腊语 | Greek
@@ -82,5 +144,30 @@ la cárcel | f. | 监狱 | prison
 proteger | v. | 保护 | protect
 sano/a | adj. | 安全的 | safe
 el ladrón | m. | 小偷 | thief
-**Unidad 011** |||
+
+- **Unidad 011**
+
+单词|词性|释义|英文
+----|:----:|----|----
 salado/a | adj. | 咸的 | salty
+el oro | m. | 金 | gold
+el cuaderno | m. | 笔记本 | notebook
+la galleta | m. | 饼干 | biscuit, cookie
+arriba | adv. | 在上面 | above
+abajo | adv. | 在下面 | below
+el bijote | m. | 小胡子 | mustache
+la barba | f. | 络腮胡子 | beard
+amargo/a | adj. | 苦的 | bitter
+hermoso/a | adj. | 美丽的 | beautiful
+
+- **Unidad 012**
+
+单词|词性|释义|英文
+----|:----:|----|----
+lejano/a | adj. | 遥远的 | far, distant
+haber <br> hubo | v. | 有 <br> 一般过去式三单变位 | there be <br> there was/were
+el inca | m. | 印加 | Inca
+la época | f. | 时代 | epoch
+el imperio | m. | 帝国 | empire
+la mentira | f. | 谎言 | lie
+mentir | v. | 说谎 | lie

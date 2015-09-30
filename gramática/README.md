@@ -32,6 +32,8 @@ _Gramática de uso del español_ 一书的中文笔记。
   - 定冠词的其他用法
 - [011. Omisión de nombres](notes/011-el-rojo-uno-rojo.md)
   - 名词的省略
+- [012. Demostrativos](notes/012-este-ese-aquel.md)
+  - 指示代词
 - [013. Adjetivos calificativos](notes/013-un-coche-pequeño.md)
   - 定性的形容词
 - [014. Adjetivos de nacionalidad](notes/014-una-amiga-chilena.md)
