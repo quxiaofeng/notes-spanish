@@ -36,11 +36,11 @@
 -----
 
 - **este, ese, aquel** 可以用来指代时间
-  1. este $\rightarrow$ 现在或是即将到来的未来
+  1. este - 现在或是即将到来的未来
     - **Este año** ha sido muy frío.
-  - ese $\rightarrow$ 过去
+  - ese - 过去
     - Estuve en Perú en 1999. **Ese año** hubo elecciones.
-  - aquel $\rightarrow$ 遥远的过去
+  - aquel - 遥远的过去
     - Los españoles llegaron a América en 1492. En **aquella época**, el imperio inca iba de Chile a Ecuador.
 
 -----
