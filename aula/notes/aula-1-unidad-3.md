@@ -77,9 +77,62 @@ estar 的变位
     - tropical.
     - frío.
 
+### 形容词与冠词的一致性 Concordancia: Artículos y Adjetivos
 
+形容词与冠词与修饰指代的名词要保持一致：
+
+|masculino|femenino
+--- | --- | ---
+**singular** | **un** lugar turístic**o** | **una** playa turístic**a**
+**plural** | **unos** lugares turístic**os** | **unas** playas turístic**as**
+
+以 **-e**, **-consonante** 结尾的单词阴阳性的变化是一样的。
+
+|masculino|femenino
+--- | --- | ---
+**singular** | **un** país grande <br> **un** plato traditional | **una** ciudad grande <br> **una** bebida traditional
+**plural** | **unos** países grande**s** <br> **unos** plato traditional**es** | **unas** ciudades grande**s** <br> **unas** bebidas traditional**es**
+
+### 提问与回答 Preguntar y Responder
+
+1. 提问怎样
+  - ¿**Cómo es** el clima de Cuba?
+  - Tropical.
+- 提问在哪
+  - ¿**Dónde** está Panamá?
+  - En Centroamérica.
+- 提问是否有某物存在
+  - ¿**Hay** selvas en México?
+  - Sí.
+- 提问数量，注意性数的变化
+  - ¿**Cuántos** habitant**es** hay en España?
+  - 42 millones.
+- 提问数量
+  - ¿**Cuántas** lengu**as** oficiales hay en Paraguay?
+  - Dos, el español y el guaraní.
+- 提问是什么，表示定义
+  - ¿**Qué es** el mate?
+  - Una infusión.
+  - ¿**Qué son** las castañuelas?
+  - Un instrumento musical.
+- 提问是什么，表示确定，有复数变化
+  - ¿**Cuál es** la capital de Venezuela?
+  - Caracas.
+  - ¿**Cuáles son** los dos países más grandes de habla hispana?
+  - Argentina y México.
+
+### 最高级 El Superlativo
+
+形容词最高级 **el, la, los, las + nombre + más + adjetivo + de**
+
+- El Prado **es el** museo **más** famoso **de** madrid.
+- El Nilo y el Amazonas **son los** ríos **más** largos **del** mundo.
+- Asunción **es la** ciudad **más** grande **de** Paraguay.
+- El Everest y el K2 **son las** montañas **más** altas **del** mundo.
 
 ### 文化小知识
+
+#### 拉美世界之最
 
 国家|首都|气候|物产|特色菜肴|人口|货币|官方语言|旅游胜地
 ---|---|---|---|---|---|---|---|---

@@ -47,7 +47,7 @@ el globito | m. | 气球 | balloon
 el cordel | m. | 细绳 | string
 atar | v. | 系，绑 | tie
 el albañil | m. | 建筑工人 | builder
-
+la concordancia | f. | 一致性 | consistency
 - **Unidad 2 Quiero Aprender Español**
 
 单词 | 词性 | 释义 | 英文
@@ -114,7 +114,7 @@ la población | f. | 人口 | population
 el cacao | m. | 可可 | cacao
 el colón | m. | 克朗 | colon
 el gallopinto | m. | 豆饭 | gallo pinto
-el quechua | m. | 凯楚阿语 | Quechua
+el quechua | m. | 凯楚阿语（厄瓜多尔） | Quechua
 el locro | m. | 洛克罗（一种菜） | locro
 el catalán | m. | 加泰罗尼亚语 | Catalan
 el vasco | m. | 巴斯克语 | Basque
@@ -137,3 +137,14 @@ lindo/a | adj. | 漂亮的，好看的 | beautiful, cute
 biólogo/a | m./f. | 生物学家 | biologist
 el petróleo | m. | 石油 | petroleum
 la delincuencia | f. | 犯罪 | delinquency
+el mate | m. | 巴拉圭马黛茶 | mate
+la infusión | f. | 泡制物 | infusion
+las castañuelas | f. | 响板 | castanets
+el Guaraní | m. | 瓜拉尼语（乌拉圭） | Guarani
+adivinar | v. | 猜 | guess
+poblado | adj. | 人口的 | populated
+el reggae |m. | 牙买加雷鬼 | reggae
+la pirámide |f.| 金字塔 |	pyramid
+el bife | m. | 牛排 | steak
+el molino |m. | 磨坊 | mill
+la pista | f. | 场地，轨迹 | track
