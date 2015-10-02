@@ -76,8 +76,8 @@ el pueblo | m. | 村镇 | village
 la moda | f. | 风尚 | style
 la previsión | f. | 预测 | prediction
 la extensión | f. | 面积，范围 | aera
-estar de moda | | 流行中 | be in fashion
-de hecho | | 事实上 | in fact
+estar de moda | expr. | 流行中 | be in fashion
+de hecho | expr. | 事实上 | in fact
 el éxito | m. | 成功 | success
 la gastronomía | f. | 烹饪术 | gastronomy
 la paella | f. | 海鲜饭 | paella
@@ -148,3 +148,14 @@ la pirámide |f.| 金字塔 |	pyramid
 el bife | m. | 牛排 | steak
 el molino |m. | 磨坊 | mill
 la pista | f. | 场地，轨迹 | track
+la cuna | f. | 摇篮 | cradle
+la llanura | f. | 平原 | plain
+escaso/a | adj. | 缺少的，不足的 | lacking
+la riqueza | f. | 财富， 财产 | wealth
+la sede | f. | 所在地；本部 | HQ
+el altiplano | m. | 高原 | high plateau
+desarrollar | v. | 发展 | develop
+a.C. <br> antes de Cristo |expr.|公元前 | B.C.
+el ingreso | m. | 收入，进入 | enter, income
+el charango | m. | 一种小五弦琴 | small guitar
+la chicha | f. | 奇恰酒（一种玉米酒） | chicha
