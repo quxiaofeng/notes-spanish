@@ -102,14 +102,14 @@ tener que + infinitivo 表示需要做某事
 
 ### 表达喜好 Hablar de Preferencias
 
-| preferir |
----|---|
-(yo) | pref**ie**ro
-(tú) | pref**ie**res
-(él/ella/usted) | pref**ie**re
-(nosotros/nosotras) | preferimos
-(vosotros/vosotras) | preferís
-(ellos/ellas/ustedes) | pref**ie**ren
+|| preferir |
+|---|---|
+|(yo) | pref**ie**ro
+|(tú) | pref**ie**res
+|(él/ella/usted) | pref**ie**re
+|(nosotros/nosotras) | preferimos
+|(vosotros/vosotras) | preferís
+|(ellos/ellas/ustedes) | pref**ie**ren
 
 - ¿Cuál **prefieres**?
 - Yo el rojo. ¿Y tú?
