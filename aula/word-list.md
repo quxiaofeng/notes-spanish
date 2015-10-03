@@ -163,6 +163,10 @@ pasear | v. | 散步 | go for a walk
 la dirección | f. | 地址 | address
 latino/a | adj. | 拉丁的 | Latin
 típico/a | adj. | 典型的 | typical
+el señor | m. | 先生 | Mr.
+la señora | f. | 夫人 | Mrs.
+la señorita | f. | 小姐 | Miss
+curioso/a | adj. | 奇怪的 | curious
 
 - **Unidad 2 Quiero Aprender Español**
 
@@ -190,7 +194,7 @@ el currículum | m. | 履历 | curriculum
 el cuaderno | m. | 笔记本 | cuaderno
 el dibujo | m. | 绘画 | drawing
 faltar | v. | 没有，缺少 | be missing
-el complemento | 补语 | complement
+el complemento | m. | 补语 | complement
 el ave | f. | 鸟 | bird
 nocturno/a | adj. | 夜间的 | nocturnal
 la artesanía | f. | 手工艺 | craftwork
@@ -367,12 +371,18 @@ la ciudad | f. | 城市 | city
 comprar | v. | 买 | buy
 la tienda | f. | 店铺 | shop
 ayudar | v. | 帮助 | help
-la camiseta | f. | T恤 | shirt
+la camiseta | f. | T恤 | T-shirt
 rojo/a | adj. | 红色的 | red
 naranja | adj. | 橘色的 | orange
 amarillo/a | adj. | 黄色 | yellow
 negro/a | adj. | 黑的 | black
 blanco/a | adj. | 白的 | white
+verde | adj. | 绿色 | green
+rosa | adj. | 粉色 | pink
+lila | adj. | 丁香紫色 | lilac
+gris | adj. | 灰色 | gray
+marrón | adj. | 棕色 | brown
+beis | adj. | 米黄色 | beige
 corto/a | adj. | 短的 | short
 largo/a | adj. | 长的 | long
 la talla | adj. | 大小尺寸 | size
@@ -389,3 +399,75 @@ el carne | m. | 肉 | meat
 el postre | m. | 点心 | dessert
 el pasaporte | m. | 护照 | passport
 anterior | adj. | 上面的 | previous
+mediano/a | adj. | 中间的 | median
+el jersey | m. | 毛衣 | sweater
+los pantalones | m. | 裤子 | pants
+el zapato | m. | 鞋（一只）| shoe
+el biquini |m.| 比基尼 | bikini
+las sandalias | f. | 拖鞋 | sandals
+las gafas | f. | 眼镜 | glasses
+el dinero | m. | 钱 | money
+el cepillo | m. | 刷子 | brush
+la tarjeta | f. | 卡 | card
+los calcetínes | m. | 袜子 | socks
+el diente | m. | 牙 | tooth
+el champú | m. | 香波 | shampoo
+la pasta | f. | 糊状物 | pasta
+el pelo | m. | 头发 | hair
+el viaje | m. | 旅行 | travel
+alquilar | v. | 租 | rent
+la ropa | f. | 衣服 | clothes
+la botalla | f. | 瓶 | bottle
+el cumpleaños | m. | 生日 | birthday
+precioso/a | m. | 漂亮的 | pretty
+pequeño/a | m. | 小的 | small
+desear | v. | 渴望 | wish, want
+el color | m. | 颜色 | color
+caro/a | adj. | 贵的 | expensive
+barato/a | adj. | 便宜的 | cheap
+costar | v. | 花费 | cost
+el algo | m. | 某物 | something
+el bolígrafo | m. | 笔 | pen
+el precio | m. | 价格 | price
+regular | adj. | 规则的 | regular
+irregular | adj. | 不规则的 | irregular
+la cifra | f. | 数字 | number
+la letra | f. ｜ 字母 | letter
+fijarse | v. | 注意 | pay attention to
+el sol | m. | 太阳 | sun
+el cliente | m. | 顾客 | client
+el vendedor | m. | 卖家 | seller
+llevar | v. | 穿，带 | take, wear
+la cámara | f. | 照相机 | camera
+el/la guía | f. | 导游 | guide
+la guía | f. | 导游手册 | handbook
+la marca | f. | 商标 | mark
+abrir | v. | 开 | open
+la empresa | f. | 公司 | enterprise
+inaugurar | v. | 开创 | open
+iniciar | v. | 初始化 | init
+la apertura | f. | 开始 | opening
+continuar |v.| 继续 | continue
+la expansión | f. | 扩展 | expansion
+nacir | v. | 出生，诞生 | be born
+construir | v. | 构建 | construct
+empezar | v. | 开始 | start
+el hogar | m. | 家 | home
+la cosmética | f. | 化妆品 | cosmetic
+dirigir | v. | 引导，指向 | direct
+imparable | adj. | 不可阻挡的 | unstoppable
+el crecimiento | m. | 增长 | rise
+la maleta | f. | 手提箱 | suitcase
+el perfume | m. | 香水 | perfume
+usar | v. | 使用 | use
+bueno/a | adj. | 好的 | good
+la prenda | f. | 服装 | garment
+la camisa | f. | 衬衫 | shirt
+el lino | m. | 亚麻 | flax
+el algodón | m. | 棉花 | cotton
+el bolsillo | m. | 口袋 | pocket
+la lana | f. | 绒毛 | wool
+la alpaca | f. | 羊驼 | alpaca
+la cremallera | f. | 拉链 | zipper
+la seda | f. | 丝绸 | silk
+la poesía | f. | 诗 | poem
