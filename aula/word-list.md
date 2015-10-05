@@ -168,7 +168,7 @@ la señora | f. | 夫人 | Mrs.
 la señorita | f. | 小姐 | Miss
 curioso/a | adj. | 奇怪的 | curious
 
-- **Unidad 2 Quiero Aprender Español**
+- **Unidad 2 Quiero aprender español**
 
 单词 | 词性 | 释义 | 英文
 ----|:----:|-----|----
@@ -179,7 +179,7 @@ hacer | v. | 做 | make
 explicar | v. | 解释 | explain
 por | prep. | 为了 | for
 con | prep. | 和…… | with
-y | prep. | 和 | and
+y | conj. | 和 | and
 que | pron | 引导从句 | that
 aprender | v. | 学习 | learn
 personal | adj. | 个人的 | personal
@@ -234,7 +234,7 @@ aquí | adv. | 在这里 | here
 el millonario | m. | 百万富翁 | millionaire
 la casa | f. | 房子 | house
 el idioma | m. | 语言 | language
-la pareja | f. | 另一半 | the other one
+la pareja | f. | 一对，另一半 | pair, the other one
 querer | v. | 想要 | want
 grande | adj. | 大的 | big, great
 el mundo | m. | 世界 | world
@@ -432,7 +432,7 @@ el precio | m. | 价格 | price
 regular | adj. | 规则的 | regular
 irregular | adj. | 不规则的 | irregular
 la cifra | f. | 数字 | number
-la letra | f. ｜ 字母 | letter
+la letra | f. | 字母 | letter
 fijarse | v. | 注意 | pay attention to
 el sol | m. | 太阳 | sun
 el cliente | m. | 顾客 | client
@@ -471,3 +471,76 @@ la alpaca | f. | 羊驼 | alpaca
 la cremallera | f. | 拉链 | zipper
 la seda | f. | 丝绸 | silk
 la poesía | f. | 诗 | poem
+
+- **Unidad 5 Tus amigos son mis amigos**
+
+单词 | 词性 | 释义 | 英文
+---|---|---|---
+presentar | v. | 介绍 | present
+describir | v. | 描述 | describe
+la persona | f. | 个人 | person
+el aspecto | m. | 外貌 | look
+el carácter | m. | 性格 | character
+el gusto | m. | 喜好 | liking
+el interes | m. | 兴趣 | interest
+sobre | prep. | 在……上，关于 | above, about
+la relación | 关系 | relationship
+posesivo/a | adj. | 物主的 | possessive
+el parentesco | m. | 亲属关系 | kinship
+quién | adv. | 谁 | who
+la revista | f. | 杂志 | magazine
+publicar | v. | 出版，发行 | publish
+el artículo | m. | 文章 | article
+la información | f. | 信息 | information
+el nacimiento | m. | 出生 | birth
+el hermano | m. | 兄弟 | brother
+la hermana | f. | 姐妹 | sister
+el título | m. | 标题 | title
+favorito/a | adj. | 最喜欢的 | favorite
+el deporte | m. | 运动 | sport
+el disco | m. | 专辑，唱片 | record
+la ostra | f. | 牡蛎 | oyster
+la página | f. | 页 | page
+el mensaje | m. | 消息，信息 | massage
+la descripción | f. | 描述 | description
+el contacto | m. | 接触，联系 | contact
+el/la periodista | m./f. | 记者 | journalist
+el inglés | m. | 英语 | english
+el francés | m. | 法语 | french
+el griego | m. | 希腊语 | greek
+la pasión | f. | 迷恋 | passion
+la fotografía | f. | 照片，摄影术 | photograph, photography
+el japonés | m. | 日语 | japanese
+el portugués | m. | 葡萄牙语 | portuguese
+náutico/a | adj. | 航海的，海上的 | nautical
+el abrazo | m. | 拥抱 | hug
+desde | adv. | 来自 | from
+el alemán | m. | 德语 | german
+pronto | adv. | 很快 | soon
+la voz | f. | 声音 | voice
+dejar | v. | 留下 | leave
+alegre | adj. | 高兴的 | happy
+divertido/a |adj. | 有趣的，令人愉快的 | funny, pleasant
+inteligente | adj. | 聪明的 | intelligent
+el poco | m. | 一点儿 | little
+antipático/a | adj. | 使人反感的 | unpleasant
+agradable | adj.|  令人愉快的 | pleasant
+cerrado/a | adj. |  思想保守的 |closed-minded
+guapo/a | adj. | 好看的 | beautiful
+sí | adv. | 是 | yes
+no | adv. | 否 | no
+el tiempo | m. | 时间 | time
+libre | adj. | 自由的 | free
+alguno | pron. | 某人 | someone  
+joven | adj. | 年轻的 | young
+subrayar | v. | 划线 | underline
+coincidir | v. | 一致 | coincide
+el tipo | v. | 类型 | type
+normalmente | adv. | 通常 | normally
+pero | conj. | 但是 | but
+últimamente | adv. | 最近 | recently, lately
+la parte | f. | 部分 | part
+el grupo | m. | 群体 | group
+el flamenco | m. | 弗拉门戈 | flamenco
+electrónico/a | adj. | 电子的 | electronic
+la actuación | f. | 表演 | performance

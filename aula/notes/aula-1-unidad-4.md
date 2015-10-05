@@ -72,7 +72,7 @@ tres mil doscientos/as setenta **y** seis
 - Naranja.
 
 单词 | 颜色 <th bgcolor=white> 色块 </th>
---- | --- 
+--- | ---
 blanco/a | 白色 <th bgcolor=white>
 rejo/a | 红色 <th bgcolor=red>
 naranja | 橙色 <th bgcolor=orange>

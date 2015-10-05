@@ -1,6 +1,6 @@
 # AULA 1
 
-## Unidad 2 Quiero Aprender Español
+## Unidad 2 Quiero aprender español
 
 ### 表达想法 Expresar Intención
 
