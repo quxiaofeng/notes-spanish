@@ -180,6 +180,7 @@ explicar | v. | 解释 | explain
 por | prep. | 为了 | for
 con | prep. | 和…… | with
 y | conj. | 和 | and
+e | conj. | 和（用在读音为 i 开头的单词前面） | and
 que | pron | 引导从句 | that
 aprender | v. | 学习 | learn
 personal | adj. | 个人的 | personal
@@ -608,3 +609,32 @@ el informático | m. | 信息研究员 | computer technician
 el mes | m. | 月 | month
 último/a | adj. | 最新的 | latest
 la tendencia | f. | 倾向，趋势 | tendency
+nacional | adj. | 国家的 | national
+internacional | adj. | 国际的 | international
+el panorama | m. | 全景 | panorama
+relevante | adj. | 相关的 | relevant
+el concierto | m. | 演唱会 | concert
+la instalación | m. | 安装 | installation
+multimedia | adj. | 多媒体的 | multimedia
+la cita | f. | 约会，会面 | meeting, appointment
+imprescindible | adj. | 不可缺少的 | indispensable
+influyente | adj. | 有影响力 | influential
+el sector | m. | 部分 | sector
+el arte | m. | 艺术 | art
+celebrar | v. | 庆祝 | celebrate
+el programa | m. | 节目，计划 | program
+verdadero/a | adj. | 对的，真实的 | true
+la presencia | f. | 出席 | presence
+la formación | f. | 形成 | formation
+destacar | v. | 强调，突出 | stand out
+mítico/a | adj. | 神话的 | mythical
+durar | v. | 持续 | last
+soler | v. | 通常 | be accustomed to
+el estreno | m. | 首映 | premiere
+entre | prep. | 介于 | among
+el ciclo | m. | 循环 | cycle
+el barrio | m. | 社区 | neighborhood
+encantar | v. | 喜爱 | love
+pues | conj. | 那么，既然，由于 | well, since, as
+preferir | v. | 更喜欢 | prefer
+quedarse | v. | 留在 | stay
