@@ -476,6 +476,7 @@ la poesía | f. | 诗 | poem
 
 单词 | 词性 | 释义 | 英文
 ---|---|---|---
+el chico | m. | 青年 | young man
 presentar | v. | 介绍 | present
 describir | v. | 描述 | describe
 la persona | f. | 个人 | person
@@ -493,8 +494,7 @@ publicar | v. | 出版，发行 | publish
 el artículo | m. | 文章 | article
 la información | f. | 信息 | information
 el nacimiento | m. | 出生 | birth
-el hermano | m. | 兄弟 | brother
-la hermana | f. | 姐妹 | sister
+el hermano <br> la hermana | m. <br> f. | 兄弟 <br> 姐妹 | brother <br> sister
 el título | m. | 标题 | title
 favorito/a | adj. | 最喜欢的 | favorite
 el deporte | m. | 运动 | sport
@@ -522,7 +522,16 @@ dejar | v. | 留下 | leave
 alegre | adj. | 高兴的 | happy
 divertido/a |adj. | 有趣的，令人愉快的 | funny, pleasant
 inteligente | adj. | 聪明的 | intelligent
-el poco | m. | 一点儿 | little
+un poco | expr. | 一点儿 | a little
+aburrido/a | adj. | 无聊的 | boring
+abierto/a | adj. | 性格外向的 | open
+serio/a | adj. | 严肃的，不苟言笑的 | serious
+amigable | adj. | 友好的 | friendly
+tímido/a | adj. | 害羞的 | shy
+majo/a | adj. | 令人愉悦的，好看的 | nice, good-looking
+interesante | adj. | 有趣的 | interesting
+desagradable | adj. | 使人不快的 | disagreeable
+sociable | adj. | 随和的，爱交际的 | sociable
 antipático/a | adj. | 使人反感的 | unpleasant
 agradable | adj.|  令人愉快的 | pleasant
 cerrado/a | adj. |  思想保守的 |closed-minded
@@ -544,3 +553,58 @@ el grupo | m. | 群体 | group
 el flamenco | m. | 弗拉门戈 | flamenco
 electrónico/a | adj. | 电子的 | electronic
 la actuación | f. | 表演 | performance
+el jazz | m. | 爵士乐 | jazz
+clásico/a | adj. | 经典的 | classical
+más | adv. | 更多 | more
+menos | adv. | 更少 | less
+más o menos | expr. | 或多或少，有一点 | more or less
+echar de menos | expr. | 想 | miss
+el rock | m. | 摇滚乐 | rock
+el marido <br> la mujer | m. <br> f. | 丈夫 <br> 妻子 | husband <br> wife
+el abueno <br> la abuena | m. <br> f. | （外）祖父<br>（外）祖母 | grandfather <br> grandmother
+el hijo <br> la hija | m. <br>f. | 儿子<br> 女儿 | son <br> daughter
+el nieto <br> la nieta | m. <br> f. | 孙子 <br> 孙女 | grandson <br> granddaughter
+el padre <br> la madre | m. <br> f. | 父亲 <br> 母亲 | father <br> mother
+el baloncesto | m. | 篮球 | basketball
+la acción | f. | 动作 | action
+el golf | m. | 高尔夫 | golf
+feo/a | adj. | 丑的 | ugly
+atractivo/a | adj. | 好看的 | attractive
+el hombre <br> la mujer | m. <br> f. | 男人<br> 女人 | man <br> woman
+el trabajo | m. | 工作 | work
+como | adv. | 像……一样 | as, like
+el modelo | m. | 模型，例子 | model
+la hoja | f. | 片，张 | papel
+recoger | v. | 收集 | gather up
+repartir | v. | 分发 | divide up
+deber | v. | 需要，必须 | have to, must
+pensar | v. | 认为 | think
+parecer | v. | 看起来 | seem
+nada | adv. | 一点也不 | at all
+ni | conj. | 也不，也不是| nor
+unos | adj. | 一些 | some
+real | adj. | 真实的 | real
+la ficción | f. | 编造，虚构 | fiction
+tratar | v. | 处理，处置 | deal with
+el actor <br> la actriz | m.<br>f. | 男女演员 | actor <br> actress
+el/la deportista | m./f. | 运动员 | sportsman/sportswoman
+el negocio | m. | 生意 | business
+el político | m. | 政治家 | politician
+el alumno | m. | 学生 | student
+la clase  | f. | 课堂 | class
+mayor | adj. | 年纪大的 | old
+el niño <br> la niña | m.<br>f. | 男孩<br>女孩 | boy <br> girl
+el amor | m. | 爱 | love
+la película | f. | 电影 | film
+elegido/a | adj. | 选择的 | selected
+la edad | f. | 年纪 | age
+la ocupación | f. |职业 | occupation
+físico/a | adj. | 身体的 | physical
+la cualidad | f. | 特征 | characteristic
+el resto | m. | 其他的 | rest
+atentamente | adv. | 小心的 | carefully
+poder | v. | 可以 | can
+el informático | m. | 信息研究员 | computer technician
+el mes | m. | 月 | month
+último/a | adj. | 最新的 | latest
+la tendencia | f. | 倾向，趋势 | tendency
