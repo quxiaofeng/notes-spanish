@@ -171,3 +171,14 @@ la época | f. | 时代 | epoch
 el imperio | m. | 帝国 | empire
 la mentira | f. | 谎言 | lie
 mentir | v. | 说谎 | lie
+
+- **Unidad 013**
+
+单词|词性|释义|英文
+----|:----:|----|----
+encantador/a | adj.| 可爱的 | lovely
+charlatán/a | adj. | 爱说闲话的 | gossipy
+la colocación | f. | 位置 | position
+la bufanda | f. | 围巾 | scarf
+la amapola | f. | 罂粟 | opium poppy
+enfadado/a | adj. | 生气的，不高兴的 | angry, upset
