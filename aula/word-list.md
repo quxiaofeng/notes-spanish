@@ -562,7 +562,7 @@ más o menos | expr. | 或多或少，有一点 | more or less
 echar de menos | expr. | 想 | miss
 el rock | m. | 摇滚乐 | rock
 el marido <br> la mujer | m. <br> f. | 丈夫 <br> 妻子 | husband <br> wife
-el abueno <br> la abuena | m. <br> f. | （外）祖父<br>（外）祖母 | grandfather <br> grandmother
+el abuelo <br> la abuela | m. <br> f. | （外）祖父<br>（外）祖母 | grandfather <br> grandmother
 el hijo <br> la hija | m. <br>f. | 儿子<br> 女儿 | son <br> daughter
 el nieto <br> la nieta | m. <br> f. | 孙子 <br> 孙女 | grandson <br> granddaughter
 el padre <br> la madre | m. <br> f. | 父亲 <br> 母亲 | father <br> mother
@@ -638,3 +638,31 @@ encantar | v. | 喜爱 | love
 pues | conj. | 那么，既然，由于 | well, since, as
 preferir | v. | 更喜欢 | prefer
 quedarse | v. | 留在 | stay
+singular | adj. | 单数的 | singular
+plural | adj. | 复数的 | plural
+el compañero | m. | 同伴，配偶 | mate
+casado/a | adj. | 已婚的 | married
+divorciado/a | adj. | 离婚的 | divorced
+junto | adv. | 在一起 | together
+el texto | m. | 文章，文本 | text
+actual | adj. | 现在的 | current
+la fecha | f. | 日期 | date
+inconformista | adj. | 我行我素的 | non-conformist
+autocrítico/a | adj. | 自我批评的 | self-critical
+exigente | adj. | 要求高的 | tough
+meticuloso/a | adj. | 细致的 | meticulous
+capaz | adj. | 有能力的 | capable
+interpretar | v. | 表演 | perform
+el pie | m. | 脚 | foot
+la tierra | f. | 大地，地球 | land, earth
+la realidad | f. | 真实 | reality
+la popularidad | f. | 流行 | popularity
+mantener | v. | 保持 | maintain
+observar | v. | 观察 | observe
+participar | v. | 参与 | participate
+aislar | v. | 隔绝 | isolate
+molestar | v. | 打扰，使烦恼 | bother
+promocionar | v. | 宣传 | publicise
+el talento | m. | 天才 | talent
+la humanidad | f. | 人性 | humanity
+sin embargo | expr. | 然而，不过 | however, nevertheless

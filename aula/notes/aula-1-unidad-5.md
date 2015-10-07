@@ -68,17 +68,62 @@
 
 - :smile: Me encanta el golf.
 - :smile: **A mí también**. :imp: **A mí no**.
-
-
 - :imp: No me gusta nada el golf.
 - :imp: **A mí tampoco**. :smile: **A mí sí**.
-
-
 - ¿Qué hacéis normalmente los viernes por la noche?
 - **A mí me** gusta ir al cine normalmente, pero **a ella le** encanta quedarse en casa.
-
-
 - ¿Con quién vas al cine normalmente?
 - Con mi marido. **A los dos nos** encanta el cine.
 
-### 个人关系
+### 亲属关系
+
+形容词性物主代词的形式由修饰的名词决定
+
+|singular|plural|
+|---|---|
+|mi padre|mis hermanos|
+|mi madre|mis hermanas|
+|tu padre|tus hermanos|
+|tu padre|tus hermanas|
+|su padre|sus hermanos|
+|su padre|sus hermanas|
+
+名词性物主代词
+- mío/mía
+- tuyo/tuya
+- suyo/suyo
+- de + 名词
+
+|形容词性物主代词|名词性物主代词|
+|----|----|
+|**mi** amigo Luis| **un** amigo (**mío**)|
+|**mi** amiga Carla| **una** amiga (**mía**)|
+||**un** compañero de trabajo|
+
+阳性名词+阴性名词=阳性名词复数
+
+1. (padre + madre = **padres**)
+  - Poco y Lucía son **los padres de** Marta y **de** Abel.
+- (hijo + hija = **hijos**)
+  - Marta y Abel son **los hijos de** Poco y Lucía.
+- (abuelo + abuela = **abuelos**)
+  - Poco y Lucía son **los abuelos de** Daniel y **de** Carta.
+- (hermano + hermana = **hermanos**)
+  - Marta y Abel son **hermanos**.
+
+描述一对
+1. 已婚夫妻
+  - marido
+  - mujer
+- 离婚之后的夫妻
+  - **ex** marido
+  - **ex** mujer
+- 同居但未婚
+  - compañero/compañera
+  - pareja
+  - novio/novia (男女朋友，不一定同居)
+
+### 文化小知识
+
+西班牙每年要举办各式各样的音乐节，比较大的有 Sónar 音乐节，San Sebastián Jazz 音乐节，
+Bienal de Flamenco 音乐节等。
