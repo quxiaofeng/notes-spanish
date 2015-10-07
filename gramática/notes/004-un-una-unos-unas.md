@@ -7,6 +7,8 @@
 > <br>
 > **Una entrada**, por favor. 请给我一张门票。
 
+----
+
 * 不定冠词形式
 
 |masculino|femenino

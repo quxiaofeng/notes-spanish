@@ -7,6 +7,8 @@
 > ¿Pudedo ver al director? 我能见见负责人吗？<br>
 > Las rosas son mis flores preferidas. 玫瑰是我最喜欢的花
 
+----
+
 - 定冠词的形式
 
 |masculino|femenino

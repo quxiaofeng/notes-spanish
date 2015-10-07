@@ -7,6 +7,7 @@
 > Buenos días, ___señor Alonso___. 早上好，Alonso 先生。 <br>
 > -Y tú, ¿dónde estudias? -En ___la Autónoma___. 你呢，在哪学习？在自治大学。
 
+---
 
 - 定冠词 + 人物：
   1. 使用 __el, la, los, las + señor, señora, señorita, doctor, doctora, presidente, presidenta... + (nombre +) apellido__ 的形式

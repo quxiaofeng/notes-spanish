@@ -7,6 +7,8 @@
 > <br>
 > Se usa el **plural** para hablar de más de una persona, animal, o cosa: niños, gatos, mesas. 在描述超过一个的人，动物或者事物时使用复数。
 
+----
+
 * 复数变化规则
 
 singular | plural | ejemplos

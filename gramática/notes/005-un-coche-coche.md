@@ -11,6 +11,8 @@
 > <br>
 > Hoy lleva **un corbata muy original**. 他今天戴了一条新奇的领带。
 
+----
+
 * 在动词 **ser, hacerse** 之后，表示职业、国籍、宗教信仰、政治思想的名词之前不加冠词。
   * **Soy estudiante**.
   * _Chantal_ **es francesa**. **Es abogada**.

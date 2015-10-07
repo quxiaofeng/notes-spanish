@@ -7,6 +7,8 @@
 > <br>
 > La mesa, la silla son nombres femeninos. 桌子、椅子是阴性名词。
 
+----
+
 * 在西语中，表示物体的名词也是有阴阳性之分的
   1. 通常，以 **-o** 结尾的名词是阳性的
     * el libr**o**, el carr**o**, el teléfon**o**, el vas**o**, el braz**o**, el muse**o**
