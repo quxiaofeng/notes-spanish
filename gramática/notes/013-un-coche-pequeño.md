@@ -21,8 +21,8 @@
 |masculino|femenino|masculino|femenino|
 | **-o** <br> un coche pequeñ**o** | **-a** <br> una casa pequeñ**a** | **-os** <br> unos chicos alt**os** | **-as** <br> unas chicas alt**as** |
 | **-e** <br> un chico inteligent**e** | **-e** <br> un chica inteligent**e** | **-es** <br> unos pantalones verd**es** | **-es** <br> unas flores verd**es**
-| **-consonante** <br> un chico jove**n** | **-consonante** <br> un chica jove**n** | **+es** <br> unos calcetines azul**es** | **+es** unas camisas azul**es** |
-| **-or, -án, -ón, -ín** <br> un chico encantad**or** | **+a** una chica encantad**ora** | **+es** unos hombres charlat**anes** | unas mujeres charlat**anas** |
+| **-consonante** <br> un chico jove**n** | **-consonante** <br> un chica jove**n** | **+es** <br> unos calcetines azul**es** | **+es** <br> unas camisas azul**es** |
+| **-or, -án, -ón, -ín** <br> un chico encantad**or** | **+a** <br> una chica encantad**ora** | **+es** <br> unos hombres charlat**anes** | **-as** <br>unas mujeres charlat**anas** |
 |<font color=red>例外</font>：un gorro **marrón** | una bufanda **marrón** | unos pantalones **marrones** | unas faldas **marrones** |
 
 - 注意以下变位：

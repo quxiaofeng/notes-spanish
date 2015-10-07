@@ -182,3 +182,10 @@ la colocación | f. | 位置 | position
 la bufanda | f. | 围巾 | scarf
 la amapola | f. | 罂粟 | opium poppy
 enfadado/a | adj. | 生气的，不高兴的 | angry, upset
+
+- **Unidad 013**
+
+单词|词性|释义|英文
+----|:----:|----|----
+el puro | m. | 雪茄 | cigar
+el bombón | m. | 巧克力 | chocolate
