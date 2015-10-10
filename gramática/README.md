@@ -38,5 +38,7 @@ _Gramática de uso del español_ 一书的中文笔记。
   - 定性的形容词
 - [014. Adjetivos de nacionalidad](notes/014-una-amiga-chilena.md)
   - 表示国籍的形容词
+- [015. Forma comparativa de los adjetivos (1)](notes/015-más-caro-menos-trabajador.md)
+  - 形容词比较级(1)
 - [046. Presente de indicativo de haber impersonal](047-hay-un-vaso-en-la-mesa.md)
   - 一般现在时 haber
