@@ -31,8 +31,8 @@
 ----
 
 - 遇到 **día de la semana + fecha** 的用法时，只用一个冠词
-  - El examen es ** el jueves**. + El examen es ** el veinte de junio**.
-  - El examen es ** el jueves, veinte de junio**.
+  - El examen es **el jueves**. + El examen es **el veinte de junio**.
+  - El examen es **el jueves, veinte de junio**.
 - 在月份后面不加冠词：
   - Mi cumpleaños es en **octubre**.
 
