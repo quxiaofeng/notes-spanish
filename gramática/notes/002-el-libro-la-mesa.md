@@ -13,7 +13,7 @@
   1. 通常，以 **-o** 结尾的名词是阳性的
     * el libr**o**, el carr**o**, el teléfon**o**, el vas**o**, el braz**o**, el muse**o**
     * <font color="red">例外</font>：la man**o**, la fot**o**, la mot**o**, la radi**o**
-  * 通常，以 **-a** 结尾的名词是阳性的
+  * 通常，以 **-a** 结尾的名词是阴性的
     * la cas**a**, la sill**a**, la mes**a**, la caj**a**, la tortill**a**, la car**a**
     * <font color="red">例外</font>：el dí**a**, el idiom**a**, el map**a**, el problem**a**, el pijam**a**, el planet**a**
   * 以 **-e** 或者以辅音 **consonante** 结尾可以是
