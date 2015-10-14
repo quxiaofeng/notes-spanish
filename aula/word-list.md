@@ -35,7 +35,7 @@ ella | pron. | 她 | she
 él | pron. | 他 | he
 usted | pron. | 您 | you
 ellos/ellas | pron. | 他（她）们 | they
-su | pron. | 他（她，他们，她们）的
+su | pron. | 他（她，他们，她们）的 | his, her, their
 tu | pron. | 你的 | your
 mi | pron. | 我的 | my
 en | prep. | 在……之中 | in
@@ -51,7 +51,7 @@ la escuela | f. | 学校 | school
 la televisión | f. | 电视 | television
 el bar | m. | 吧 | bar
 la tapa | f. | 下酒菜 | bar snack
-famoso/a | adj. | 有名的
+famoso/a | adj. | 有名的 | famous
 el compañero | m. | 伙伴 | partner
 la estación | f. | 车站 | station
 el personaje | m. | 要人 | celebrity
@@ -180,7 +180,7 @@ explicar | v. | 解释 | explain
 por | prep. | 为了 | for
 con | prep. | 和…… | with
 y | conj. | 和 | and
-e | conj. | 和（用在读音为 i 开头的单词前面） | and
+e | conj. | 和<br>读音为 i 开头的单词前 | and
 que | pron | 引导从句 | that
 aprender | v. | 学习 | learn
 personal | adj. | 个人的 | personal
@@ -486,7 +486,7 @@ el carácter | m. | 性格 | character
 el gusto | m. | 喜好 | liking
 el interes | m. | 兴趣 | interest
 sobre | prep. | 在……上，关于 | above, about
-la relación | 关系 | relationship
+la relación |f.| 关系 | relationship
 posesivo/a | adj. | 物主的 | possessive
 el parentesco | m. | 亲属关系 | kinship
 quién | adv. | 谁 | who
@@ -541,7 +541,7 @@ sí | adv. | 是 | yes
 no | adv. | 否 | no
 el tiempo | m. | 时间 | time
 libre | adj. | 自由的 | free
-alguno | pron. | 某人 | someone  
+alguno | pron. | 某人某物 | someone  
 joven | adj. | 年轻的 | young
 subrayar | v. | 划线 | underline
 coincidir | v. | 一致 | coincide
@@ -691,3 +691,89 @@ afeitarse | v. | 刮胡子 | shave
 la ocasión | f. | 场合 | occasion
 mirar | v. | 看 | watch
 el espejo | m. | 镜子 | mirror
+el escaparate | m. | 商店的窗户 | shop window
+la crema | f. | 乳霜 | cream
+planchar | v. | 熨烫 | iron
+presumido/a | adj. | 虚荣的 | boastful
+el desastre | m. | 灾难 | disaster
+la respuesta | f. | 回答 | response
+la curiosidad | f. | 好奇 | curiosity
+el animal | m. | 动物 | animal
+el oso panda | m. | 熊猫 | panda
+corresondiente | adj.| 对应的 | corresponding
+completar | v. | 完成 | complete
+la comunidad | f. | 集体 | community
+estructurado/a | adj. | 有组织的 | organized
+la abeja | f. | 蜜蜂 | bee
+el guepardo | f. | 猎豹 | cheetah
+la tortuga | f. | 海龟 | turtle
+realizar | v. | 实现 | realise
+el bambú | m. | 竹子 | bamboo
+el peso | m. | 体重 | weight
+el volumen | m. | 体积 | volume
+levantar | v. | 举起 | lift
+la hormiga | f. | 蚂蚁 | ant
+la velocidad | f. | 速度 | velocity
+el cuerpo | m. | 身体 | body
+lavar | v. | 洗 |wash
+el calor | m. | 热 | heat
+el frío | m. | 冷 | cold
+el octubre | m. | 十月 | 	October
+el abril | m. | 四月 | April
+limpio/a | adj. | 爱干净的 | neat
+rápido/a | adj. | 速度快的 | rapid
+comilón | adj. | 贪吃的 | glutton
+fuerte | adj. | 强壮的 | strong
+organizado/a | adj. | 有组织的 | organized
+dormilón | adj. | 贪睡的 | sleepyhead
+medio/a | adj. | 一半的 | half
+la media | f. | 袜子 | sock
+el orden | m. | 顺序 | order
+oir | v.| 听见  | hear
+la manera | f. | 方法 | method
+la enseñanza | f. | 教育 | education
+primario/a | adj. | 基础的 | principal
+levantarse | v. | 起床 | get up
+acostarse | v. | 上床 |  go to beb
+parecerse | v. | 像，类似 | be like
+maniático/a | adj. | 强迫症的 | compulsive
+el lunes | m. | 星期一 | Monday
+el martes | m. | 星期二 | Tuesday
+el miércoles |m.  |星期三| Wednesday
+el jueves | m. | 星期四| Thursday
+el viernes | m. | 星期五 | Friday
+el sábado | m. | 星期六 | Saturday
+el domingo | m. | 星期日 | Sunday
+a menudo | expr. | 经常 | often
+a veces | expr. | 有时 | sometimes
+anotar | v. | 记录 | note down
+el yoga | m. | 瑜伽 | yoga
+despertarse | v. | 醒来 | wake up
+ducharse | v.| 洗澡 | shower
+el punto | m. | 点 | dot, point
+el fin de semana | expr. | 周末 | weekend
+tarde | adj. | 迟的 | late
+eso/a | pron. | 那 | that
+depender | v. | 依靠 |depend
+el turno | m.| 次序| turn
+parar | v. | 停止 | stop
+el rato | m. | 一会 | a little while
+si | conj. | 如果 | if
+único/a | adj. | 独特的，特别的 | unique
+el descanso | m. | 休息 | rest
+desayunar | v. | 吃早餐 | eat breakfast
+el paseo | m. | 散步 | walk
+algo | pron. | 某物|something
+alguien | pron. | 某人 | somebody
+en general | expr. | 一般来说 | in general
+llegar | v. | 到达 | arrive
+el mediodía | m. | 中午 | noon, midday
+la facultad | f. | 职工 | faculty
+la biblioteca | f. | 图书馆 | library
+claro | adv. | 显然 | clearly
+el baño | m. | 浴室 | bathroom
+la cama | f. | 床 | bed
+el periódico | m. | 报纸 | newspaper
+el deber | m.| 责任，作业| duty, homework
+buscar | v.| 查找 | search
+el premio | m. | 奖励 | prize
