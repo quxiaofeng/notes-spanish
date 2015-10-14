@@ -666,3 +666,28 @@ promocionar | v. | 宣传 | publicise
 el talento | m. | 天才 | talent
 la humanidad | f. | 人性 | humanity
 sin embargo | expr. | 然而，不过 | however, nevertheless
+
+**Unidad 6 Día a día**
+
+单词 | 词性 | 释义 | 英文
+---|---|---|---
+el hábito | m.| 习惯 | habit
+la frecuencia | f. | 频率 | frequency
+reflexivo/a | adj. | 反身的 | reflexive
+primero | adv. | 首先 | first
+después | adv. | 然后 | then
+la hora | f. | 时间，小时 | time, hour
+la semana | f. | 周 | week
+odiar | v. | 讨厌 | hate
+cuidar | v. | 关心，照顾 | care for, take after
+la imagen | f. | 外貌 | appearance
+vestirse | v. | 给自己穿衣服 | dress oneself up
+el mínimo | m. | 最小值 | minimum
+el minuto | m. | 分钟 | minute
+la peluquería | f. | 理发店 | hair salon
+la vez | f. | 次 | time
+maquillarse | v. | 化妆 | make up
+afeitarse | v. | 刮胡子 | shave
+la ocasión | f. | 场合 | occasion
+mirar | v. | 看 | watch
+el espejo | m. | 镜子 | mirror
