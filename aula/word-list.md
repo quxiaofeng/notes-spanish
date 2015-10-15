@@ -777,3 +777,13 @@ el periódico | m. | 报纸 | newspaper
 el deber | m.| 责任，作业| duty, homework
 buscar | v.| 查找 | search
 el premio | m. | 奖励 | prize
+vago/a | adj. | 模糊的 | vague
+sano/a | adj. | 健康的 | healthy
+deportista | adj. | 运动的 | sporty
+juerguista | adj. | 爱玩的 | fun loving
+intelectual | adj. | 有智力的 | intellectual
+dormir | v. | 睡觉 | sleep
+la siesta | f. | 午休 | siesta
+la encuesta | f. | 调查 | survey
+igual | adj. | 相同的 | equal
+la consulta | f. | 问题 | question
