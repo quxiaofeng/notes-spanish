@@ -787,3 +787,7 @@ la siesta | f. | 午休 | siesta
 la encuesta | f. | 调查 | survey
 igual | adj. | 相同的 | equal
 la consulta | f. | 问题 | question
+entregar | v. | 传送，递送，交付 | deliver
+la exposición | f. | 展览 | exhibition
+sólo | adv. | 只 | only
+asistir |  v. | 出席，照顾 | attend
