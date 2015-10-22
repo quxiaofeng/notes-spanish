@@ -9,7 +9,7 @@
 单词 | 词性 | 释义 | 英文
 ----|:----:|-----|----
 hola | interj. | 你好 | hello
-el <br> la | art. | 定冠词 | the
+el/la | art. | 定冠词 | the
 la unidad | f. | 单元 | unit
 ir | v. | 去，到 | go
 ser | v. | 是 | be
@@ -84,7 +84,7 @@ el recurso | m. | 资源 | resource
 el género | m. | 性别 | gender
 la conjugación | m. | 变位 | conjugation
 el abecedario | m. | 字母表 | alphabet
-el diseñador <br> la diseñadora | m. <br> f. | 设计师 | designer
+el diseñador | m. | 设计师 | designer
 la ficha | f. | 卡片 | card
 la afición | f. | 爱好 | affecion
 el esquí | m. | 滑雪 | skiing
@@ -129,9 +129,12 @@ la camarera | f. | 女服务员 | waitress
 trabajar | v. | 工作 | work
 el correo | m. | 邮件 | mail
 el año | m. | 年 | year
-el/la juez <br> la jueza | m./f. | 法官 | judge
-el/la medico <br> la medica| m./f. | 医生 | doctor
-el/la presidente <br> la presidenta | m./f. | 总统 | president
+el/la juez | m./f. | 法官 | judge
+la jueza | f. | 女法官 | judge
+el/la medico | m./f. | 医生 | doctor
+la medica| f. | 女医生 | doctor
+el/la presidente |m./f. | 总统，主席 | president
+la presidenta | f. | 女总统，女主席 | president
 el secretario | m. | 秘书 | secretary
 el italiano | m. | 意大利人 | Italian
 primero/a | adj. | 第一的 | first
@@ -156,7 +159,8 @@ leer | v. | 阅读 | read
 vivir | v. | 居住，生活 | live
 el sello | m. | 邮票 | stamp
 la novela | f. | 小说 | novel
-el/la jefe <br> la jefa | m./f. | 上司 | boss
+el/la jefe | m./f. | 上司 | boss
+ la jefa | f. | 女上司 | boss
 la comida | f. | 食物 | food
 el amigo | m. | 朋友 | friend
 pasear | v. | 散步 | go for a walk
@@ -167,6 +171,30 @@ el señor | m. | 先生 | Mr.
 la señora | f. | 夫人 | Mrs.
 la señorita | f. | 小姐 | Miss
 curioso/a | adj. | 奇怪的 | curious
+oír | v. | 听 | hear
+marcar | v. | 标记 | mark
+el diálogo | m. | 对话 | dialogue
+el código | m. | 密码 | code
+el acceso | m. | 通道，进入 | access
+la cuenta | f. | 账户 | account
+el mecánico | m. | 技工 | mechanic
+el/la policía | m./f. | 警察 | police
+el/la futbolista | m./f. | 足球运动员 | footballer
+el carpintero | m. | 木匠 | carpenter
+el jardinero | m. | 园丁 | gardener
+el dependiente | m. | 店员 | shop assistant
+el colegio | m. | 学校 | school
+el hospital | m. | 医院 | hospital
+estadounidense | adj. | 美国的 | American
+ruso/a | adj. | 俄国的 | Russian
+japonés/esa | adj. | 日本的 | Japanese
+francés/esa | adj. | 法国的 | French
+el queso | m. | 奶酪 | cheese
+la pizza | f. | 披萨 | pizza
+el vodka | m. | 伏特加 | vodka
+el tango | m. | 探戈 | tango
+el curry | m. | 咖喱 | curry
+el pintor | m. | 画家 | painter
 
 - **Unidad 2 Quiero aprender español**
 
@@ -180,7 +208,7 @@ explicar | v. | 解释 | explain
 por | prep. | 为了 | for
 con | prep. | 和…… | with
 y | conj. | 和 | and
-e | conj. | 和<br>读音为 i 开头的单词前 | and
+e | conj. | 和，读音为 i 开头的单词前 | and
 que | pron | 引导从句 | that
 aprender | v. | 学习 | learn
 personal | adj. | 个人的 | personal
@@ -244,6 +272,21 @@ bastante | adv. | 相当 | quite
 mal | adv. | 坏 | badly
 bien | adv. | 好 | well
 hablar | v. | 说，讲 | speak
+la gente | f. | 人群 | people
+la naturaleza | f. | 自然 | nature
+la política | f. | 政治 | politics
+la gramática | f. | 语法 | grammar
+la guitarra | f. | 吉他 | guitar
+adecuado/a | adj. | 合适的 | suitable
+ir de compras | expr. | 购物 | go shopping
+digital | adj. | 数码的 | digital
+el plan | m. | 计划 | plan
+el acuerdo | m. | 同意 | agreement
+de acuerdo | expr. | 好的 | all right
+la idea | f. | 想法 | idea
+la orquesta | f. | 乐队 | orchestra
+el/la pianista | f. | 钢琴师 | pianist
+el vídeo | m. | 录像 | video
 
 - **Unidad 3 ¿Dónde está Santiago?**
 
@@ -326,7 +369,7 @@ la riqueza | f. | 财富， 财产 | wealth
 la sede | f. | 所在地；本部 | HQ
 el altiplano | m. | 高原 | high plateau
 desarrollar | v. | 发展 | develop
-a.C. <br> antes de Cristo |expr.|公元前 | B.C.
+a.C. / antes de Cristo |expr.|公元前 | B.C.
 el ingreso | m. | 收入，进入 | enter, income
 el charango | m. | 一种小五弦琴 | small guitar
 la chicha | f. | 奇恰酒（一种玉米酒） | chicha
@@ -336,7 +379,7 @@ el capital | m. | 首都，首府 | capital
 el producto | m. | 产品 | product
 el lugar | m. | 地方，地点 | place
 la lengua | f. | 语言 | language
-el plato | m. | 碟，盘（菜） | plate
+el plato | m. | 碟，盘（菜） | plate, dish
 millon | adj. | 百万 | million
 ahora | adv. | 现在 | now
 amable | adj. | 有好的 | friendly
@@ -364,6 +407,31 @@ el volcán | m. | 火山 | volcano
 el planeta | m. | 星球 | planet
 activo/a | adj. | 活跃的 | active
 la ciudad | f. | 城市 | city
+oficial | adj. | 官方的 | official
+la bebida | f. | 饮料 | drinks
+fantástico/a | adj. | 极好的 | fantastic
+la ración | f. | 一部分 | portion
+alto/a | adj. | 高的 | tall
+el río | m. | 河流 | river
+la isla | f. | 岛屿 | island
+la catarata | f. | 瀑布 | cataract， waterfall
+llover | v. | 下雨 | rain
+nevar | v. | 下雪 | snow
+la península | f. | 半岛 | peninsula
+el elefante | m. | 大象 | elephant
+el puerto | m. | 港口 | port
+la cordillera | f. | 山脉 | mountain chain
+la frontera | f. | 边界 | border
+el verano | m. | 夏天 | summer
+la temperatura  | f. | 温度 | temperature
+suave | adj. | 温和的 | soft
+el invierno | m. | 冬天 | winter
+extremo/a | adj. | 极端的 | extreme
+caluroso/a | adj. | 热的 | hot
+Chile | n.p. | 智利 | Chile
+México | n.p. | 墨西哥 | Mexico
+Cuba | n.p. | 古巴 | Cuba
+Ecuador | n.p. | 厄瓜多尔 | Ecuador
 
 - **Unidad 4 ¿Cuál prefieres?**
 
@@ -472,6 +540,51 @@ la alpaca | f. | 羊驼 | alpaca
 la cremallera | f. | 拉链 | zipper
 la seda | f. | 丝绸 | silk
 la poesía | f. | 诗 | poem
+la mochila | f. | 背包 | backpack
+la pierna | f. | 腿 | leg
+el brazo | m. | 胳膊 | arm
+el cuero | m. | 皮革 | leather
+la tela | f. | 织物，布 | fabric
+el plástico | m. | 塑料 | plastic
+el bolso | m. | 女用手提包 | handbag
+la bolsa | m. | 袋子 | bag
+la prenda | f. | 服装 | garment
+íntimo/a | adj. | 内部的，私人的 | intimate
+el pecho | m. | 胸 | chest
+el calzado | m. | 鞋类 | footwear
+la lluvia | f. | 雨 | rain
+el pie | m. | 脚 | foot
+proteger | v. | 保护 | protect
+sino | prep. | 而是 | but
+superior | adj. | 上面 | upper
+el dedo | m. | 手指，脚趾 | finger, toe
+el tejido | m. | 织物 | fabric
+grueso/a | adj. | 大的，粗重的 | heavy
+resistente | adj. | 耐用的 | resistant
+el guante | m. | 手套 | glove
+la blusa | f. | 女衬衣 | blouse
+la pieza | f. | 部分 | piece
+aunque | conj. | 虽然，即使 | although
+fino/a | adj. | 好的，细的，薄的 | fine, thin
+la época | f. | 时代 | epoch
+la fibra | f. | 纤维 | fibre
+sintético/a | adj. | 人造的 | synthetic
+sin | prep. | 没有 | without
+el botón | m. | 纽扣，按钮 | button
+la cintura | f. | 腰 | waist
+delantero/a | adj. | 前面的 | front
+el cuello | m. | 脖子，领子 | neck, collar
+la espalda | f. | 背 | back
+demás | adj. | 剩下的 | the rest
+los/las demás | m./f. | 剩下的 | the rest
+el material | m. | 材料 | material
+cubrir | v. | 遮住，覆盖 | cover
+el ala | f. | 翅膀，帽檐 | wing
+la gorra | f. | 鸭舌帽 | cap
+la visera | f. | 帽舌 | visor
+el gorro | m. | 圆檐帽 | cap
+el béisbol | m. | 棒球 | ballbase
+el estampado | m. | 印花 | print
 
 - **Unidad 5 Tus amigos son mis amigos**
 
@@ -495,7 +608,8 @@ publicar | v. | 出版，发行 | publish
 el artículo | m. | 文章 | article
 la información | f. | 信息 | information
 el nacimiento | m. | 出生 | birth
-el hermano <br> la hermana | m. <br> f. | 兄弟 <br> 姐妹 | brother <br> sister
+el hermano | m. |兄弟 | brother
+la hermana | f. | 姐妹 | sister
 el título | m. | 标题 | title
 favorito/a | adj. | 最喜欢的 | favorite
 el deporte | m. | 运动 | sport
@@ -511,7 +625,7 @@ el francés | m. | 法语 | french
 el griego | m. | 希腊语 | greek
 la pasión | f. | 迷恋 | passion
 la fotografía | f. | 照片，摄影术 | photograph, photography
-el japonés | m. | 日语 | japanese
+el japonés | m. | 日语 | Japanese
 el portugués | m. | 葡萄牙语 | portuguese
 náutico/a | adj. | 航海的，海上的 | nautical
 el abrazo | m. | 拥抱 | hug
@@ -561,17 +675,23 @@ menos | adv. | 更少 | less
 más o menos | expr. | 或多或少，有一点 | more or less
 echar de menos | expr. | 想 | miss
 el rock | m. | 摇滚乐 | rock
-el marido <br> la mujer | m. <br> f. | 丈夫 <br> 妻子 | husband <br> wife
-el abuelo <br> la abuela | m. <br> f. | （外）祖父<br>（外）祖母 | grandfather <br> grandmother
-el hijo <br> la hija | m. <br>f. | 儿子<br> 女儿 | son <br> daughter
-el nieto <br> la nieta | m. <br> f. | 孙子 <br> 孙女 | grandson <br> granddaughter
-el padre <br> la madre | m. <br> f. | 父亲 <br> 母亲 | father <br> mother
+el marido | m. | 丈夫 | husband
+la mujer | f. | 妻子 | wife
+el abuelo | m. | （外）祖父 | grandfather
+la abuela | f. | （外）祖母 | grandmother
+el hijo | m. | 儿子 | son
+la hija | f. | 女儿 | daughter
+el nieto | m. | 孙子 | grandson
+la nieta | f. | 孙女 | granddaughter
+el padre | m. | 父亲 | father
+la madre | f. | 母亲 | mother
 el baloncesto | m. | 篮球 | basketball
 la acción | f. | 动作 | action
 el golf | m. | 高尔夫 | golf
 feo/a | adj. | 丑的 | ugly
 atractivo/a | adj. | 好看的 | attractive
-el hombre <br> la mujer | m. <br> f. | 男人<br> 女人 | man <br> woman
+el hombre | m. | 男人 | man
+la mujer | f. | 女人 | woman
 el trabajo | m. | 工作 | work
 como | adv. | 像……一样 | as, like
 el modelo | m. | 模型，例子 | model
@@ -587,19 +707,21 @@ unos | adj. | 一些 | some
 real | adj. | 真实的 | real
 la ficción | f. | 编造，虚构 | fiction
 tratar | v. | 处理，处置 | deal with
-el actor <br> la actriz | m.<br>f. | 男女演员 | actor <br> actress
+el actor | m. | 演员 | actor
+la actriz | f. | 女演员 | actress
 el/la deportista | m./f. | 运动员 | sportsman/sportswoman
 el negocio | m. | 生意 | business
 el político | m. | 政治家 | politician
 el alumno | m. | 学生 | student
 la clase  | f. | 课堂 | class
 mayor | adj. | 年纪大的 | old
-el niño <br> la niña | m.<br>f. | 男孩<br>女孩 | boy <br> girl
+el niño | m. | 男孩 | boy
+la niña | f. | 女孩 | girl
 el amor | m. | 爱 | love
 la película | f. | 电影 | film
 elegido/a | adj. | 选择的 | selected
 la edad | f. | 年纪 | age
-la ocupación | f. |职业 | occupation
+la ocupación | f. | 职业 | occupation
 físico/a | adj. | 身体的 | physical
 la cualidad | f. | 特征 | characteristic
 el resto | m. | 其他的 | rest
@@ -791,3 +913,25 @@ entregar | v. | 传送，递送，交付 | deliver
 la exposición | f. | 展览 | exhibition
 sólo | adv. | 只 | only
 asistir |  v. | 出席，照顾 | attend
+la conferencia | f.| 会议 | conference
+la ópera | f. | 戏剧 | opera
+la zarzuela | f. | 说唱剧 | zarzuela
+la canción | f. | 歌曲 | song
+la estrofa | f. | 诗歌的一节 | verse
+la ilustración | f. | 图解，说明 | illustration
+cuando | adv. | 当…… | when
+la ventana | f. | 窗子 | window
+entrar | v. | 进入 | enter
+poner | v. | 放 | put
+tanto/a | adj. | 太多的 | so much
+la cabeza | f. | 头脑 | head
+quemar | v. | 燃烧 | burn
+tan | adj. | 那么 | so
+simplemente | adv. | 简单的 | simply
+cansar | v. | 劳累 | tire
+la vuelta | f. | 回归 | return
+borrar | v. | 清除 | erase
+controlar | v. | 控制 | control
+el grillo | m. | 蟋蟀 | cricket
+contra | prep. | 反对 | against
+la eternidad | f. | 永恒 | eternity
