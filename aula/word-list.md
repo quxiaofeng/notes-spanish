@@ -797,7 +797,7 @@ el hábito | m.| 习惯 | habit
 la frecuencia | f. | 频率 | frequency
 reflexivo/a | adj. | 反身的 | reflexive
 primero | adv. | 首先 | first
-después | adv. | 然后 | then
+después | adv. | 在……之后 | after
 la hora | f. | 时间，小时 | time, hour
 la semana | f. | 周 | week
 odiar | v. | 讨厌 | hate
@@ -935,3 +935,55 @@ controlar | v. | 控制 | control
 el grillo | m. | 蟋蟀 | cricket
 contra | prep. | 反对 | against
 la eternidad | f. | 永恒 | eternity
+la universidad | f. | 大学 | university
+siempre | adv. | 总是 | always
+casi | adv. | 几乎 | almost
+nunca | adv. | 从不 | never
+antes | adv. | 在……之前 | before
+servir | v. | 服务 | serve
+encender | v. | 打开 | turn on
+quejarse | v. | 抱怨 | complain
+engordar | v. | 变胖 | gain weight
+la bata | f. | 家居服 | housecoat
+recibir | v. | 收到，欢迎 | receive, welcome
+la pinta | f. | 外貌 | appearance
+la facha | f. | 外表 | look
+la santa | f. | 圣人 | saint
+la línea | f. | 线条 | line
+el sentimiento | m. | 感觉 | feeling
+la soledad | f. | 孤独 | loneliness
+huir | v. | 逃走 | flee
+decidir | v. | 决定 | decide
+maltratado/a | adj. | 虐待的 | abused
+encontrar | v. | 发现 | find
+la identidad | v. | 个性 | identity
+progresivo/a | adj. | 进行中的 | progressive
+la anulación | f. | 废除，取消 | annulment
+la provincia | f. | 省 | province
+trasladarse | v. | 改变，移动地点 | change, move
+morir | v. | 死亡 | die
+justo/a | adj. | 公平的，正好的 | fair, just, right
+gozar | v. | 享受 | enjoy
+independiente | adj. | 独立的 | independent
+el banco | v. | 银行 | bank
+el cadete | m. | 实习生 | cadet
+nadie | pron. | 没有人 | nobody
+trear | v. | 带来 | bring
+picar | v. | 咬 | bite
+escaparse | v. | 溜走 | slip away
+enseguida | adv. | 马上 | immediately
+el tostado | m. | 烧烤 | toast
+el estudio | m. | 书房，学习 | study
+reunirse | v. | 聚会 | get together
+criticar | v. | 批评 | criticize
+la discoteca | f. | 夜店 | nightclub
+conversar | v. | 交谈 | talk
+el amanecer | m. | 日出 | sunrise
+el recital | m. | 独奏会 | recital
+el cole | m. | 小学 | school
+almorzar | v. | 吃午饭 | have lunch
+corregir | v. | 改正 | correct
+adolescente | adj. | 少年的 | teenage
+privido/a | adj. | 私人的 | private
+reponer | v. | 替换 | replace
+la fuerza |f. | 力气 | strength
