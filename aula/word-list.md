@@ -985,5 +985,6 @@ almorzar | v. | 吃午饭 | have lunch
 corregir | v. | 改正 | correct
 adolescente | adj. | 少年的 | teenage
 privido/a | adj. | 私人的 | private
-reponer | v. | 替换 | replace
+reponer | v. | 替换，恢复 | replace, recover
 la fuerza |f. | 力气 | strength
+el asado | m. | 烧烤 | roast
