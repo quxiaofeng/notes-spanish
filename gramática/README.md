@@ -40,5 +40,9 @@ _Gramática de uso del español_ 一书的中文笔记。
   - 表示国籍的形容词
 - [015. Forma comparativa de los adjetivos (1)](notes/015-más-caro-menos-trabajador.md)
   - 形容词比较级(1)
-- [046. Presente de indicativo de haber impersonal](047-hay-un-vaso-en-la-mesa.md)
+- [016. Forma comparativa de los adjetivos (2)](notes/016-tan-alto-igual-de-alto.md)
+  - 形容词比较级(2)
+- [034. Pronombres personales de sujeto](notes/034-yo-tú-él.md)
+    - 人称代词主格
+- [046. Presente de indicativo de haber impersonal](notes/047-hay-un-vaso-en-la-mesa.md)
   - 一般现在时 haber
