@@ -19,10 +19,10 @@
   - ¿Quiénes son __aquellas__ chicas?
 - 也可以用 **ese, esa, esos, esas** 指代离说话双方都远的事物。
 
-|masculino|femenino
---- | --- | ---
-**singular** | **este** <br> **ese** <br> **aquel** | **esta** <br> **esa** <br> **aquella**
-**plural** | **estos** <br> **esos** <br> **aquellos** | **estas**　<br> **esas** <br> **aquellas**
+||masculino|femenino|
+|--- | --- | ---|
+|**singular** | **este** <br> **ese** <br> **aquel** | **esta** <br> **esa** <br> **aquella**|
+|**plural** | **estos** <br> **esos** <br> **aquellos** | **estas**　<br> **esas** <br> **aquellas**|
 
 -----
 

@@ -24,9 +24,9 @@
   * 用职业来确定某人的身份
     * -¿Quiénes son _las Hijas de Sol_? -Son **unas cantantes**.
 
-no se usa | se usa
---- | ---
-La hermana de _Rosa_ es **profesora** de español. <br> _Almodóvar_ es **director de cine**. | Es **una profesora muy seria**. <br> -¿Quién es _Almodóvar_? -Es **un director de cine**.
+| no se usa | se usa|
+|--- | ---|
+|La hermana de _Rosa_ es **profesora** de español. <br> _Almodóvar_ es **director de cine**. | Es **una profesora muy seria**. <br> -¿Quién es _Almodóvar_? -Es **un director de cine**.|
 
 ----
 
@@ -48,9 +48,9 @@ La hermana de _Rosa_ es **profesora** de español. <br> _Almodóvar_ es **direct
     * Tengo **unos sellos muy caros**.
     * Aquí hacen **un pan buenísimo**.
 
-no se usa | se usa
---- | ---
-_Antonio_ vende **coches**. <br> Necesito **gafas**. <br> ¿Tienes **hermanos**? | Hoy ha vendido **un coche**. <br> Necesito **unas gafas especiales**. <br> Tengo una hermana.
+|no se usa | se usa|
+|--- | ---|
+|_Antonio_ vende **coches**. <br> Necesito **gafas**. <br> ¿Tienes **hermanos**? | Hoy ha vendido **un coche**. <br> Necesito **unas gafas especiales**. <br> Tengo una hermana.|
 
 -----
 

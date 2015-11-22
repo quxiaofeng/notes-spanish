@@ -22,14 +22,14 @@ estar 的变位
 - Las islas Cíes **están** en Galicia.
 
 
-| verbo| estar |
-|---|---
-|(yo) | estoy
-|(tú) | estás
-|(él/ella/usted) | está
-|(nosotros/nosotras) | estamos
-|(vosotros/vosotras) | estáis
-|(ellos/ellas/ustedes) | está
+| | estar |
+|---|---|
+|(yo) | estoy|
+|(tú) | estás|
+|(él/ella/usted) | está|
+|(nosotros/nosotras) | estamos|
+|(vosotros/vosotras) | estáis|
+|(ellos/ellas/ustedes) | está|
 
 注意：
 
@@ -81,17 +81,17 @@ estar 的变位
 
 形容词与冠词与修饰指代的名词要保持一致：
 
-|masculino|femenino
---- | --- | ---
-**singular** | **un** lugar turístic**o** | **una** playa turístic**a**
-**plural** | **unos** lugares turístic**os** | **unas** playas turístic**as**
+| |masculino|femenino|
+| --- | --- | ---|
+| **singular** | **un** lugar turístic**o** | **una** playa turístic**a**|
+| **plural** | **unos** lugares turístic**os** | **unas** playas turístic**as**|
 
 以 **-e**, **-consonante** 结尾的单词阴阳性的变化是一样的。
 
-|masculino|femenino
---- | --- | ---
-**singular** | **un** país grande <br> **un** plato traditional | **una** ciudad grande <br> **una** bebida traditional
-**plural** | **unos** países grande**s** <br> **unos** plato traditional**es** | **unas** ciudades grande**s** <br> **unas** bebidas traditional**es**
+||masculino|femenino|
+|--- | --- | ---|
+|**singular** | **un** país grande <br> **un** plato traditional | **una** ciudad grande <br> **una** bebida traditional|
+|**plural** | **unos** países grande**s** <br> **unos** plato traditional**es** | **unas** ciudades grande**s** <br> **unas** bebidas traditional**es**|
 
 ### 提问与回答 Preguntar y Responder
 
@@ -153,28 +153,28 @@ estar 的变位
 
 #### 西语国家信息
 
-国家|首都|气候|物产|人口|货币|官方语言|旅游胜地
----|---|---|---|---|---|---|---
-Argentina | Buenos Aires | 大部分温带 <br> 少许热带和寒带 | 柠檬 | 3600 万 | 阿根廷比索 | 西班牙语 | 伊瓜苏大瀑布
-Bolivia | La Paz (政治首都) <br> Sucre (法定首都) | 与海拔有关 | 石油 | 850 万 | 玻利维亚诺 | 西班牙语 |的的喀喀湖 <br> 蒂亚瓦纳科
-Chile | Santiago | 北部干燥 <br> 中部温和 <br> 南部寒冷 | 铜 | 1500 万 | 智利比索 | 西班牙语 | 安第斯山脉 <br> 复活节岛
-Costa Rica | San José | 热带 | 咖啡  | 390 万 | 克朗 | 西班牙语 | Arenal 火山
-Colombia | Santa Fe de bogotá | 沿海热带 <br> 高原寒冷 | 咖啡 | 3300 万 | 哥伦比亚比索 | 西班牙语 | 卡塔赫纳 <br> 圣玛尔塔 <br> 波哥大
-Cuba | La Habana | 热带 | 蔗糖，烟草 | 1100 万 | 古巴比索 | 西班牙语 | 哈瓦那旧城<br>长岛
-Ecuador | Quido | 沿海热带<br>内陆寒冷 | 可可 | 1180 万 | 美元 | 西班牙语<br>奇楚瓦语 | 加拉帕戈斯群岛<br>印加古城 Ingapirca
-El Salvador | San Salvador | 热带 | 玉米，大豆 | 580 万 | 克朗，美元 | 西班牙语 |
-España | Madrid | 温和 | 油 | 4000 万 | 欧元 | 西班牙语<br>加泰罗尼亚语<br>巴斯克语<br>加利西亚语 | 加那利群岛 <br> 安达卢西亚 <br> 加泰罗尼亚 <br> 巴利阿里群岛
-Guatemala | Guatemala | 热带 | 玉米，咖啡 | 1120 万 | 格查尔 | 西班牙语 |
-Honduras | Tegucigalpa | 热带 | 咖啡，大豆 | 660 万 | 伦皮拉 | 西班牙语 |
-México | México D.F. | 热带 | 烟草 | 1 亿 500 万 | 墨西哥比索 | 西班牙语 | 奇琴伊察<br>月亮金字塔<br>莫雷利亚
-Nicaragua | Managua | 热带 | 矿产，咖啡 | 510 万 |科多巴 | 西班牙语 | 尼加拉瓜湖<br>尼加拉瓜长城
-Panamá | Panamá | 热带 | 铜 | 290 万 | 巴波亚 | 西班牙语 | 巴拿马运河
-Paraguay | Asunción | 亚热带 | 锡，棉花，大豆 | 550 万 | 瓜拉尼 | 西班牙语<br>瓜拉尼语 | 瓜伊拉瀑布
-Perú | Lima | 东部热带，西部干燥 | 铜 | 2450 万 | 新索尔 | 西班牙语 | 皇家费利佩城堡 <br> 帕恰卡马克遗址
-Puerto Rico | San Juan | 热带 | 蔗糖 | 350 万 | 美元 | 西班牙语<br>英语 | 圣胡安港
-República Dominicana | Santo Domingo | 热带 | 镍 | 800 万 | 多米尼加比索 | 西班牙语 |
-Uruguay | Montevideo | 热带与温带之间 | 肉类 | 320 万 | 乌拉圭比索 | 西班牙语 |
-Venezuela | Caracas | 热带 | 石油 | 2190 万 | 玻利瓦尔 | 西班牙语 | 马拉开波湖 <br> 安赫尔瀑布
+|国家|首都|气候|物产|人口|货币|官方语言|旅游胜地|
+|---|---|---|---|---|---|---|---|
+|Argentina | Buenos Aires | 大部分温带 <br> 少许热带和寒带 | 柠檬 | 3600 万 | 阿根廷比索 | 西班牙语 | 伊瓜苏大瀑布|
+|Bolivia | La Paz (政治首都) <br> Sucre (法定首都) | 与海拔有关 | 石油 | 850 万 | 玻利维亚诺 | 西班牙语 |的的喀喀湖 <br> 蒂亚瓦纳科|
+|Chile | Santiago | 北部干燥 <br> 中部温和 <br> 南部寒冷 | 铜 | 1500 万 | 智利比索 | 西班牙语 | 安第斯山脉 <br> 复活节岛|
+|Costa Rica | San José | 热带 | 咖啡  | 390 万 | 克朗 | 西班牙语 | Arenal 火山|
+|Colombia | Santa Fe de bogotá | 沿海热带 <br> 高原寒冷 | 咖啡 | 3300 万 | 哥伦比亚比索 | 西班牙语 | 卡塔赫纳 <br> 圣玛尔塔 <br> 波哥大|
+|Cuba | La Habana | 热带 | 蔗糖，烟草 | 1100 万 | 古巴比索 | 西班牙语 | 哈瓦那旧城<br>长岛|
+|Ecuador | Quido | 沿海热带<br>内陆寒冷 | 可可 | 1180 万 | 美元 | 西班牙语<br>奇楚瓦语 | 加拉帕戈斯群岛<br>印加古城 Ingapirca|
+|El Salvador | San Salvador | 热带 | 玉米，大豆 | 580 万 | 克朗，美元 | 西班牙语 ||
+|España | Madrid | 温和 | 油 | 4000 万 | 欧元 | 西班牙语<br>加泰罗尼亚语<br>巴斯克语<br>加利西亚语 | 加那利群岛 <br> 安达卢西亚 <br> 加泰罗尼亚 <br> 巴利阿里群岛|
+|Guatemala | Guatemala | 热带 | 玉米，咖啡 | 1120 万 | 格查尔 | 西班牙语 ||
+|Honduras | Tegucigalpa | 热带 | 咖啡，大豆 | 660 万 | 伦皮拉 | 西班牙语 ||
+|México | México D.F. | 热带 | 烟草 | 1 亿 500 万 | 墨西哥比索 | 西班牙语 | 奇琴伊察<br>月亮金字塔<br>莫雷利亚|
+|Nicaragua | Managua | 热带 | 矿产，咖啡 | 510 万 |科多巴 | 西班牙语 | 尼加拉瓜湖<br>尼加拉瓜长城|
+|Panamá | Panamá | 热带 | 铜 | 290 万 | 巴波亚 | 西班牙语 | 巴拿马运河|
+|Paraguay | Asunción | 亚热带 | 锡，棉花，大豆 | 550 万 | 瓜拉尼 | 西班牙语<br>瓜拉尼语 | 瓜伊拉瀑布|
+|Perú | Lima | 东部热带，西部干燥 | 铜 | 2450 万 | 新索尔 | 西班牙语 | 皇家费利佩城堡 <br> 帕恰卡马克遗址|
+|Puerto Rico | San Juan | 热带 | 蔗糖 | 350 万 | 美元 | 西班牙语<br>英语 | 圣胡安港|
+|República Dominicana | Santo Domingo | 热带 | 镍 | 800 万 | 多米尼加比索 | 西班牙语 | |
+|Uruguay | Montevideo | 热带与温带之间 | 肉类 | 320 万 | 乌拉圭比索 | 西班牙语 | |
+|Venezuela | Caracas | 热带 | 石油 | 2190 万 | 玻利瓦尔 | 西班牙语 | 马拉开波湖 <br> 安赫尔瀑布|
 
 #### 玻利维亚简介
 

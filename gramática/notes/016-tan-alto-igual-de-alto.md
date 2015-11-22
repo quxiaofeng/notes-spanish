@@ -55,4 +55,9 @@
 
 - 有时候，使用 no + tan + adjetivo positivo (褒义形容词) 来替代 más + adjetivo negativo (贬义形容词) 或者 menos + adjetivo positivo 的情况
   - _Adolfo_ es **más feo** que _Jorge_. ->  _Adolfo_ **no** es **tan guapo** como _Jorge_.
-  - _Luisa_ es __menos fuerte__ que _Ana_. -> _Luisa_ **no** es **tan fuerte** como *Ana*. 
+  - _Luisa_ es __menos fuerte__ que _Ana_. -> _Luisa_ **no** es **tan fuerte** como *Ana*.
+
+  ## 相关单元：
+
+  - [034. Pronombres personales de sujeto](034-yo-tú-él.md)
+    - 人称代词主格
