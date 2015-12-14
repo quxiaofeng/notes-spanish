@@ -985,6 +985,23 @@
 |corregir | v. | 改正 | correct|
 |adolescente | adj. | 少年的 | teenage|
 |privido/a | adj. | 私人的 | private|
-|reponer | v. | 替换，恢复 | replace, recover|
-|la fuerza |f. | 力气 | strength|
-|el asado | m. | 烧烤 | roast|
+| reponer | v. | 替换，恢复 | replace, recover|
+| la fuerza |f. | 力气 | strength|
+| el asado | m. | 烧烤 | roast|
+
+- **Unidad 7 ¡A comer!**
+
+| 单词 | 词性 | 释义 | 英文|
+|---|---|---|---|
+| el menú | m. | 菜单 | menu |
+| desenvolverse | v. | 适应 | get on/along |
+| impersonal | adj. | 非人称的 | impersonal |
+| la forma | f. | 形式 | form |
+| traer | v. | 带来 | bring |
+| gastronómico/a | adj. | 烹饪的 | gastronomic |
+| hispano/a | adj. | 西语系的 | Hispanic |
+| el bocadillo | m. | 三明治 | sandwich |
+| la carta | f. | 信，菜单 | letter, menu |
+| el bocata | m. | 三明治 | sandwich |
+| el establecimiento | m. 建立 | establishment |
+| 

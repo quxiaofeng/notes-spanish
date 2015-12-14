@@ -15,3 +15,5 @@
 - [Unidad 3 ¿Dónde está Santiago?](notes/aula-1-unidad-3.md)
 - [Unidad 4 ¿Cuál prefieres?](notes/aula-1-unidad-4.md)
 - [Unidad 5 Tus amigos son mis amigos](notes/aula-1-unidad-5.md)
+- [Unidad 6 Día a día](notes/aula-1-unidad-6.md)
+- [Unidad 7 ¡A comer!](notes/aula-1-unidad-7.md)
