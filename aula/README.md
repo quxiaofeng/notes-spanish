@@ -4,7 +4,7 @@
 
 塞万提斯的 AULA INTERNACIONAL 笔记。
 
-- [单词表](word-list.md)
+- [AULA 1 单词表](word-list-aula-1.md)
 
 # 目录
 
