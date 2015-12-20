@@ -1012,4 +1012,4 @@
 | el chorizo | m. | 西班牙香肠 | chorizo |
 | el salchichón | m. | 香肠 | sausage |
 | el jamón | m. | 火腿 | ham |
-| el atún | m. | 金枪鱼 | tuna | 
+| el atún | m. | 金枪鱼 | tuna |
