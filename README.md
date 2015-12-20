@@ -5,5 +5,6 @@
 
 好好学西语！
 
-1. [语法笔记](gramática/README.md)
+- [语法笔记](gramática/README.md)
 - [课程笔记](aula/README.md)
+- [网站笔记](lingualia/README.md)
