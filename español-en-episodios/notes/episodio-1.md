@@ -5,15 +5,15 @@
 - `ER`
 - `IR`
 
-`AR` 的一般现在时变位：
-- 动词 `hablar` 的变位：
+`AR` 的一般现在时变位
+- 动词 `hablar` 的变位
   - **Yo** habl**o**
   - **Tú** habl**as**
   - **Él** / **ella** habl**a**
   - **Nosotros** / **as** habl**amos**
   - **Vosotros** / **as** habl**áis**
   - **Ellos** / **as** habl**an**
-- 规则的动词还有：
+- 规则的动词还有
   - `cocinar, amar, fumar, bailar, tocar, nadar`
 
 `gustar` 的用法
@@ -39,13 +39,13 @@
   - A **vosotros os** gusta el teatro.
   - A **ellos les** guatamos nosotros.
 
-`ER` 的一般现在时变位：
-- 动词 `comer` 的变位：
+`ER` 的一般现在时变位
+- 动词 `comer` 的变位
   - Yo com**o**
   - Tú com**es**
   - Él / ella com**e**
   - Nosotros / as com**emos**
   - Vosotros / as com**éis**
   - Ellos / as com**en**
-- 规则的动词还有：
+- 规则的动词还有
   - `beber, leer, aprender`
