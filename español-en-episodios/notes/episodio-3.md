@@ -1,0 +1,32 @@
+# Episodio 3
+
+一般现在时的不规则动词
+- 完全不规则
+  - `ser`
+    - soy
+    - eres
+    - es
+    - somos
+    - sois
+    - son
+  - `ir`
+    - voy
+    - vas
+    - va
+    - vamos
+    - vais
+    - van
+- 只有第一人称单数不规则
+  - `saber`
+    - (yo) sé
+  - `hacer`
+    - (yo) hago
+  - `conocer`
+    - (yo) conozco
+  - `dar`
+    - (yo) doy
+- 词根变化：e $\rightarrow$ ie，**我们，你们**不变化
+  - pref**e**rir
+  - qu**e**rer
+  - ent**e**nder
+  - p**e**nsar

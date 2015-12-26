@@ -9,3 +9,4 @@ Youtube 上 `Español en Episodios` 系列的的笔记。
 
 - [Cap 01 Una casa muy rara](notes/episodio-1.md)
 - [Cap 02 Arreglárselas es un arte](notes/episodio-2.md)
+- [Cap 03 Video confesiones](notes/episodio-3.md)
