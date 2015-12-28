@@ -22,8 +22,6 @@
   * autobús - autobuses
   * televisión - televisiones
 
-----
-
 * 有些词用复数形式表示单复数
 
 | singular | plural | 释义 |
@@ -32,8 +30,6 @@
 | gafas | gafas | 眼镜 |
 | pantalones | pantalones | 裤子 |
 | vaqueros | vaqueros | 牛仔裤 |
-
-----
 
 * 阳性 + 阴性 = 阳性复数
   * padre + madre = padres

@@ -26,12 +26,12 @@
 ----
 
 * 使用不定冠词表示人和事是某一类或某个团体的一部分
+
   > ¿Qué es esto? <br>
   > Es **un reloj**. <br>
   > ¿Quién es _Chayanne_? <br>
   > Es **un cantante**. <br>
   > La papaya es **una fruta**.  
-
 
 ----
 

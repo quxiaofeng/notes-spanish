@@ -16,12 +16,14 @@
   - <font color='red'>例外</font>：**tener, necesitar, comprar + una guitarra, un paino...**
     > **Tengo una guitarra** española.
 
+
 * **jugar + al fútbol, al tenis, al ajedrez, a las cartas...** jugar + 运动棋牌类
   > ¿Sabes jugar __al ajedrez__ <br>
   > **Jugamos al fútbol** todos los domingos.
 
   - <font color='red'>例外</font>：**hacer + gimnasia, natación, alpinismo...**
     > **Hago gimnasia** todas las mañanas.
+
 
 - **las matemáticas, la lengua, el griego, el español...** 课程，语言
   > Mi asignatura prederida son **las matemáticas**. <br>
@@ -30,6 +32,7 @@
   - <font color='red'>例外</font>：与 **hablar, saber, enseñar, estudiar...** 使用时不加
     > _Claudia_ __estudia Filosofía__. <br>
     > ¿Usted __habla chino__?
+
 
 - **la policía, el ejército, los bomberos** 警察，军人，消防队员
   > El  tío de _Andrés_ es capitán __del ejército__. <br>
@@ -44,6 +47,7 @@
     > Tengo __una radio__ nueva. (收音机) <br>
     > Me he comprado __una televisión__. (电视机) <br>
     > Tengo **una buena noticia**.
+
 
 - **el mar, el campo, la playa, el cielo, la naturaleza** 大海，乡村，海滩，天空，自然
   > Es muy sano bañorse en __el mar__. <br>
@@ -60,5 +64,6 @@
   > Los domingos **voy a la iglesia**.
 
   - <font color='red'>例外</font>：**ir a... / venir de... / estar en... casa, correos, clase** 不加冠词的情况，家，邮局，课堂
+  
     > __Voy a correos__ a enviar un paquete. <br>
     > _Edgar_ __está en casa__ desde las doce.

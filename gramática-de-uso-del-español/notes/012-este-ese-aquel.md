@@ -35,7 +35,6 @@
   > ¿Cuál es tu maleta, **esta, esa** o **aquella**? <br>
   > **Este** es _Juan_, mi novio.
 
------
 
 - **este, ese, aquel** 可以用来指代时间
   - este - 现在或是即将到来的未来
@@ -46,9 +45,6 @@
 
   - aquel - 遥远的过去
     > Los españoles llegaron a América en 1492. En **aquella época**, el imperio inca iba de Chile a Ecuador.
-
-
------
 
 - 中性指示代词 **esto, eso, aquello**
   - 一般用来指物，后面不加名词，用于两种情况

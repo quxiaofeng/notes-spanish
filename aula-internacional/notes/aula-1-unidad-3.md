@@ -6,12 +6,12 @@
 
 使用动词 hay 表示存在。
 
-- En Asturias **hay muchas** montañas.
-- En España **hay cuatro** lenguas oficiales.
-- En La Rioja **hay unos** vinos muy buenos.
-- En Barcelona **hay un** estadio de fútbol muy grande.
-- En Venezuela **hay** petróleo/selvas.
-- En España no **hay** petróleo/selvas.
+> En Asturias **hay muchas** montañas.  <br>
+> En España **hay cuatro** lenguas oficiales. <br>
+> En La Rioja **hay unos** vinos muy buenos. <br>
+> En Barcelona **hay un** estadio de fútbol muy grande. <br>
+> En Venezuela **hay** petróleo/selvas. <br>
+> En España no **hay** petróleo/selvas.
 
 ### 表达位置 Expresar Ubicación: Verbo Estar
 

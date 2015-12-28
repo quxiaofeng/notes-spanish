@@ -17,13 +17,16 @@
   > **Soy estudiante**. <br>
   > _Chantal_ **es francesa**. **Es abogada**. <br>
   > _Lenin_ y _Stalin_ **eran comunistas**.
+
 * <font color="red">例外</font>：但在以下情况下要使用不定冠词
   * 名词后面有定性的修饰词
     > _Chantal_ es **una francesa muy simpática**. <br>
     > Es **un médico extraordinario**.
+
   * 用职业来确定某人的身份
     > ¿Quiénes son _las Hijas de Sol_? <br>
     > Son **unas cantantes**.
+
 
 | no se usa | se usa |
 | --- | --- |

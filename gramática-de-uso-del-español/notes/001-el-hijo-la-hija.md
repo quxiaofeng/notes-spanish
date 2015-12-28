@@ -17,8 +17,6 @@
 | --- | --- | ---|
 | el hijo <br> el padre <br> el camarero <br> el doctor <br> el estudiante <br> el taxista | la hija <br> la madre <br> la camarera <br> la doctora <br> la estudiante <br> la taxista | 儿子/女儿 <br> 父亲/母亲 <br> 男/女服务员 <br> 男/女医生 <br> 男/女学生 <br> 男/女出租司机|
 
----
-
 * 阴性变化规则
   - 大多数名词根据结尾的不同来变换词性（见下表）
   * 以 **-ante, -ista** 结尾的名词的阴阳性形式一样。

@@ -44,7 +44,7 @@
   > **Los de oro**. (los pendientes de oro)
 
 - **lo** + **adjetivo masculino singular** = la cosa, las cosas.
-  - **Lo bueno** de verano son las vacaciones. (la cosa buena de verano)
-  - **Lo mejor** de Perú es la gente. (la mejor cosa de Perú)
-  - Me gusta **lo salado**. (las cosas saladas)
-  - **Lo más bonito de la vida** son los amigos. (la cosa más bonita)
+  > **Lo bueno** de verano son las vacaciones. (la cosa buena de verano) <br>
+  > **Lo mejor** de Perú es la gente. (la mejor cosa de Perú) <br>
+  > Me gusta **lo salado**. (las cosas saladas) <br>
+  > **Lo más bonito de la vida** son los amigos. (la cosa más bonita)

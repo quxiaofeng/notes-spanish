@@ -31,8 +31,6 @@
 - **de + el = del**， 必须使用 **del**
   > El hijo **del** profesor está en mi clase.
 
----
-
 - 使用定冠词的场合
   - 提到一个独特的人或物
     > **La madre** de _Antonio_ es policía. (Antonio 只有一个妈妈) <br>

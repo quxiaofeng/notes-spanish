@@ -24,23 +24,15 @@
 
 - 一般把比较的两个事物放在一起时用 igual de + adjetivo
 
-----
-
 - 形容词的性数与所修饰的名词的性数变化一致
   > **Mi piso** es igual de **pequeño** que el tuyo. <br>
   > **Mi hermana** es tan **alta** como yo. <br>
   > **_Sonia_ y su madre** son igual de **guapas**. <br>
   > **Estos dos televisores** son igual de **caros**.
 
-
-----
-
 - que/como + 人称代词主格
   > Los hijos de _Andrés_ no son tan guapos **como él**. <br>
   > Yo soy igual de trabajadora **que vosotros**.
-
-
-----
 
 - 比较
 
@@ -52,8 +44,6 @@
 | Pues _Loli_ es **tan simpática** como ella. |  Pues sus hermanos no son **tan trabajadores como él**.  |
 | 肯定否定句中，igual de + adjetivo (+ que) 的 que 可以省略  |   |
 | Pues _Loli_ es **igual de simpática**.  |  Pues sus hermanos no son igual de trabajadores.  |
-
-----
 
 - 有时候，使用 no + tan + adjetivo positivo (褒义形容词) 来替代 más + adjetivo negativo (贬义形容词) 或者 menos + adjetivo positivo 的情况
   > _Adolfo_ es **más feo** que _Jorge_. $\rightarrow$  _Adolfo_ **no** es **tan guapo** como _Jorge_. <br>
