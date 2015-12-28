@@ -4,14 +4,14 @@
 
 ### 表达想法 Expresar Intención
 
-| | querer | + Infinitivo |
-|---|---|---|
-|(yo) | qu**ie**ro | |
-|(tú) | qu**ie**res | viajar|
-|(él/ella/usted) | qu**ie**re | tener hijos|
-|(nosotros/nosotras) | queremos | ir a la Luna|
-|(vosotros/vosotras) | queréis | |
-|(ellos/ellas/ustedes) | qu**ie**ren | |
+|  | querer | + Infinitivo |
+| --- | --- | --- |
+| (yo) | qu**ie**ro | |
+| (tú) | qu**ie**res | viajar |
+| (él/ella/usted) | qu**ie**re | tener hijos |
+| (nosotros/nosotras) | queremos | ir a la Luna |
+| (vosotros/vosotras) | queréis | |
+| (ellos/ellas/ustedes) | qu**ie**ren | |
 
 ### 表达兴趣 Expresar Intereses
 

@@ -13,20 +13,36 @@
 
 **El, la ,los, las, uno, una, unos, unas** 可以用在事物之前已经被提及或者指代的事物无需说明的情况。
 
-1. **el, la ,los, las, uno, una, unos, unas** + **adjetivo** 冠词 + 形容词
-  - ¿Qué camisa te guata más? - **La verde**. (la camisa verde)
-  - ¿Qué tipo de zapatos quiere? - Quiero **unos cómodos**. (unos zapatos cómodos)
-  - ¿Quién es don Tomás? - **El delgado**. (el señor delgado)
+- **el, la ,los, las, uno, una, unos, unas** + **adjetivo** 冠词 + 形容词
+  > ¿Qué camisa te guata más? <br>
+  > **La verde**. (la camisa verde) <br>
+  >
+  > ¿Qué tipo de zapatos quiere? <br>
+  > Quiero **unos cómodos**. (unos zapatos cómodos) <br>
+  >
+  > ¿Quién es don Tomás? <br>
+  > **El delgado**. (el señor delgado)
+
   - 定冠词特指某个事物，不定冠词泛指某类事物的一个
-    - ¿Quién es *Susi*? **La alta**. (la chica alta)
-    - ¿Qué tipo de coche busca? **un pequeño**. (un coche pequeño)
+    > ¿Quién es *Susi*? <br>
+    > **La alta**. (la chica alta) <br>
+    > ¿Qué tipo de coche busca? <br>
+    > **un pequeño**. (un coche pequeño)
+
   - 冠词，形容词的性数与指代的名词相同
-    - ¿Qué zapatillas te gusta más? **Las rojas**.
+    > ¿Qué zapatillas te gusta más? **Las rojas**.
+
 - **el, la, los, las** + **de** + **nombre** 表示 **posesión, situación, materia**
-  - Mi coche es peor que **el de mi hermano**. (el coche de mi hermano)
-  - ¿Quién es *Alicia*? **La del vestido blanco**. (la chica del vestido blanco)
-  - Esas gafas no me gustan. Prefiero **las de la derecha**. (las gafas que están a la derecha)
-  - ¿Qué pendientes te vas a poner? **Los de oro**. (los pendientes de oro)
+  > Mi coche es peor que **el de mi hermano**. (el coche de mi hermano) <br>
+  >
+  > ¿Quién es *Alicia*? <br>
+  > **La del vestido blanco**. (la chica del vestido blanco) <br>
+  >
+  > Esas gafas no me gustan. Prefiero **las de la derecha**. (las gafas que están a la derecha) <br>
+  >
+  > ¿Qué pendientes te vas a poner? <br>
+  > **Los de oro**. (los pendientes de oro)
+
 - **lo** + **adjetivo masculino singular** = la cosa, las cosas.
   - **Lo bueno** de verano son las vacaciones. (la cosa buena de verano)
   - **Lo mejor** de Perú es la gente. (la mejor cosa de Perú)

@@ -20,24 +20,24 @@
 - 表示喜欢的意思，不过与用法不同，被喜欢的对象是主语，例如，“我喜欢你”，“你”是喜欢的主语，而“我”是宾语。
 - `Pronombre + Gustar + Sujeto`
   - **me**
-    - **Me** gustas tú.
+    > **Me** gustas tú.
   - **te**
-    - **Te** gusto yo.
+    > **Te** gusto yo.
   - **le**
-    - **Le** gusta bailar.
+    > **Le** gusta bailar.
   - **nos**
-    - **Nos** gusta tomar vino.
+    > **Nos** gusta tomar vino.
   - **os**
-    - **Os** gustan los españoles.
+    > **Os** gustan los españoles.
   - **les**
-    - **Les** guata el vodka
+    > **Les** guata el vodka
 - `Pronombre + Pronombre + Gustar + Sujeto`
-  - A **mí me** gusta el vino.
-  - A **ti te** gusta viajar.
-  - A **él le** gustan los libros.
-  - A **nosotros nos** gustan los dulces
-  - A **vosotros os** gusta el teatro.
-  - A **ellos les** guatamos nosotros.
+  > A **mí me** gusta el vino. <br>
+  > A **ti te** gusta viajar. <br>
+  > A **él le** gustan los libros. <br>
+  > A **nosotros nos** gustan los dulces. <br>
+  > A **vosotros os** gusta el teatro. <br>
+  > A **ellos les** guatamos nosotros. <br>
 
 `ER` 的一般现在时变位
 - 动词 `comer` 的变位

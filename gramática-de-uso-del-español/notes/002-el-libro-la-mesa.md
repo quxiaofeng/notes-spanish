@@ -35,14 +35,14 @@
     * la jirafa, la serpiente, la rana, la sardina...
   * <font color="red">例外</font>：有些既有阳性形式又有阴性形式
 
-|masculino |femenino | 释义|
-|--- | --- | ---|
-|el gato | la gata | 猫|
-|el perro | la perra | 狗|
-|el león | la leona | 狮子|
-|el caballo | la yegua | 马|
-|el toro | la vaca | 牛|
-|el gallo | la gallina | 鸡  |
+| masculino |femenino | 释义 |
+| --- | --- | --- |
+| el gato | la gata | 猫 |
+| el perro | la perra | 狗 |
+| el león | la leona | 狮子 |
+| el caballo | la yegua | 马 |
+| el toro | la vaca | 牛 |
+| el gallo | la gallina | 鸡 |
 
 ----
 

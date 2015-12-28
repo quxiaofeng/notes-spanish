@@ -11,3 +11,4 @@ Youtube 上 `Español en Episodios` 系列的的笔记。
 - [Cap 02 Arreglárselas es un arte](notes/episodio-2.md)
 - [Cap 03 Video confesiones](notes/episodio-3.md)
 - [Cap 04 Hay gustos y gustos](notes/episodio-4.md)
+- [Cap 05 Turistas con Problemas](notes/episodio-4.md)

@@ -4,22 +4,22 @@
 
 ### 100以上的数字 Numerales
 
-| 数字 | 写法 |数字 | 写法|
-|--- | --- |--- | ---|
-|100 | cien | 1 000 | mil|
-|101 | **ciento** uno/una | 2 000 | dos mil|
-|102 | **ciento** dos | ... |...|
-|... | ... | 10 000 | diez mil |
-|200 | doscientos/as | 20 000 | veinte mil |
-|300 | trescientos/as | ... | ... |
-|400 | cuatrocientos/as | 100 000 | cien mil |
-|500 | **quinientos**/as | 200 000 | doscientos/as mil |
-|600 | seiscientos/as | ... | ... |
-|700 | **sete**cientos/as | 1 000 000 | un millón |
-|800 | ochocientos/as | 2 000 000 | dos millones |
-|900 | **nove**cientos/as | 1 000 000 000 | mil millones |
+| 数字 | 写法 |数字 | 写法 |
+| --- | --- |--- | --- |
+| 100 | cien | 1 000 | mil |
+| 101 | **ciento** uno/una | 2 000 | dos mil |
+| 102 | **ciento** dos | ... | ... |
+| ... | ... | 10 000 | diez mil |
+| 200 | doscientos/as | 20 000 | veinte mil |
+| 300 | trescientos/as | ... | ... |
+| 400 | cuatrocientos/as | 100 000 | cien mil |
+| 500 | **quinientos**/as | 200 000 | doscientos/as mil |
+| 600 | seiscientos/as | ... | ... |
+| 700 | **sete**cientos/as | 1 000 000 | un millón |
+| 800 | ochocientos/as | 2 000 000 | dos millones |
+| 900 | **nove**cientos/as | 1 000 000 000 | mil millones |
 
-1. 3 453 276 = tres millones cuatrocientos/as cincuenta y
+- 3 453 276 = tres millones cuatrocientos/as cincuenta y
 tres mil doscientos/as setenta **y** seis
 - 100 是 **cien**，但是 **101-199** 变成 **ciento**
 - 只有几十几的表达式中才会出现 **y**
@@ -31,60 +31,62 @@ tres mil doscientos/as setenta **y** seis
 
 ### 指代某物 Referirse a Objetos
 
-| 指示形容词 | 指示代词|
-|---|---|
-|**este** jersey | **este**|
-|**esta** camiseta | **esta**|
-|**estos** zapatos | **estos**|
-|**estas** sandalias | **estas**|
+| 指示形容词 | 指示代词 |
+| ---|--- |
+| **este** jersey | **este** |
+| **esta** camiseta | **esta** |
+| **estos** zapatos | **estos** |
+| **estas** sandalias | **estas** |
 
-- ¡**Este** jersey es precioso!
-- Pues yo prefiero **este**.
+> ¡**Este** jersey es precioso! <br>
+> Pues yo prefiero **este**.
 
 
-- **Estas** gafas de sol, ¿cuánto cuestan?
-- 40 euros
-- ¿Y **estas**?
-- 55 euros
+> **Estas** gafas de sol, ¿cuánto cuestan? <br>
+> 40 euros. <br>
+> ¿Y **estas**? <br>
+> 55 euros. <br>
 
 **esto** 也可以当指示代词用，但是不用来指代具体的事物
 
 ### 名词的省略 El/la/los/las + Adjetivo
 
 当我们知道指代的名词是什么时，可以省略这个名词：
-- ¿Qué **coche** usamos: **el** nuevo o **el** viejo?
-- Luis quiere comprar **la camiseta** verde y Julia, la **azul**.
-- **Los zapatos** más caros son **los** negros
-- Tenemos que llevar **las meletas** rojas y **las** negras.
+> ¿Qué **coche** usamos: **el** nuevo o **el** viejo? <br>
+> Luis quiere comprar **la camiseta** verde y Julia, la **azul**. <br>
+> **Los zapatos** más caros son **los** negros. <br>
+> Tenemos que llevar **las meletas** rojas y **las** negras. <br>
 
 ### Qué + 名词和 Cuál/cuáles 提问 Qué + Sustantivo y Cuál/cuáles
 
-1. 提问事物，可以用 Qué + 名词
-  - ¿**Qué perfume** usas? ¡Es muy bueno!
+- 提问事物，可以用 Qué + 名词
+  > ¿**Qué perfume** usas? ¡Es muy bueno!
 - 当我们知道提及的事物是什么的时候，可以用 Cuál/cuáles 提问
-  - -¿**Qué biquini** compro para Julia? -No sé. ¿Cuál es el más barato?
-  - -¿**Qué zapatos** compro para Pedro? -No sé. ¿Cuáles son los más baratos?
+  > ¿**Qué biquini** compro para Julia? <br>
+  > No sé. ¿Cuál es el más barato? <br>
+  > ¿**Qué zapatos** compro para Pedro? <br>
+  > No sé. ¿Cuáles son los más baratos?
 
 ### 颜色 Colores
 
 提问颜色要用
-- ¿**De qué color** es el jersey?
-- Naranja.
+> ¿**De qué color** es el jersey?
+> Naranja.
 
-|单词 | 颜色 <th> 色块 </th>
-|--- | ---
-|blanco/a | 白色 <th bgcolor=white>
-|rejo/a | 红色 <th bgcolor=red>
-|naranja | 橙色 <th bgcolor=orange>
-|amarillo/a | 黄色 <th bgcolor=yellow>
-|rosa | 粉色 <th bgcolor=pink>
-|azul | 蓝色 <th bgcolor=blue>
-|verde | 绿色 <th bgcolor=green>
-|lila | 丁香紫 <th bgcolor=#8A2BE2>
-|negro/a | 黑色 <th bgcolor=black>
-|gris | 灰色 <th bgcolor=gray>
-|marrón | 棕色 <th bgcolor=maroon>
-|beis | 米黄色 <th bgcolor=#FFFACD>
+| 单词 | 颜色 <th> 色块 </th>
+| --- | ---
+| blanco/a | 白色 <th bgcolor=white>
+| rejo/a | 红色 <th bgcolor=red>
+| naranja | 橙色 <th bgcolor=orange>
+| amarillo/a | 黄色 <th bgcolor=yellow>
+| rosa | 粉色 <th bgcolor=pink>
+| azul | 蓝色 <th bgcolor=blue>
+| verde | 绿色 <th bgcolor=green>
+| lila | 丁香紫 <th bgcolor=#8A2BE2>
+| negro/a | 黑色 <th bgcolor=black>
+| gris | 灰色 <th bgcolor=gray>
+| marrón | 棕色 <th bgcolor=maroon>
+| beis | 米黄色 <th bgcolor=#FFFACD>
 
 ### 表达需要 Expresar Necesidad
 
@@ -98,34 +100,34 @@ tres mil doscientos/as setenta **y** seis
 | (ellos/ellas/ustedes) | **tienen** | <br> |
 
 tener que + infinitivo 表示需要做某事
-- Esta noche voy a una fiesta de cumpleafios. Tengo que llevar un regalo.
+> Esta noche voy a una fiesta de cumpleafios. Tengo que llevar un regalo.
 
 ### 表达喜好 Hablar de Preferencias
 
-|| preferir |
-|---|---|
-|(yo) | pref**ie**ro |
-|(tú) | pref**ie**res |
-|(él/ella/usted) | pref**ie**re |
-|(nosotros/nosotras) | preferimos |
-|(vosotros/vosotras) | preferís |
-|(ellos/ellas/ustedes) | pref**ie**ren |
+| | preferir |
+| --- | --- |
+| (yo) | pref**ie**ro |
+| (tú) | pref**ie**res |
+| (él/ella/usted) | pref**ie**re |
+| (nosotros/nosotras) | preferimos |
+| (vosotros/vosotras) | preferís |
+| (ellos/ellas/ustedes) | pref**ie**ren |
 
 - ¿Cuál **prefieres**?
 - Yo el rojo. ¿Y tú?
 
 ### 买东西 De Compras
 
-1. 询问是否有某物
-  - ¿**Tienen** agua / gorros / gafas...?
+- 询问是否有某物
+  > ¿**Tienen** agua / gorros / gafas...?
 - 表示想要某物
-  - **Quería** agua / un gerro / unas gafas.
+  > **Quería** agua / un gerro / unas gafas.
 - 询问价格，单数和复数
-  - ¿**Cuánto cuesta** este gorro?
-  - ¿**Cuánto cuestan** estas gafas?
+  > ¿**Cuánto cuesta** este gorro? <br>
+  > ¿**Cuánto cuestan** estas gafas?
 - 表示买下物品
-  - **Me llevo este** gorro. / **Me llevo este**.
-  - **Me llevo estas** gafas. / **Me llevo estas**.
+  > **Me llevo este** gorro. / **Me llevo este**. <br>
+  > **Me llevo estas** gafas. / **Me llevo estas**.
 
 ### 文化小知识
 

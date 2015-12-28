@@ -20,22 +20,22 @@
 ---
 
 * 阴性变化规则
-  1. 大多数名词根据结尾的不同来变换词性（见下表）
+  - 大多数名词根据结尾的不同来变换词性（见下表）
   * 以 **-ante, -ista** 结尾的名词的阴阳性形式一样。
-    * el estudi**ante** - la estudi**ante**
-    * el pian**ista** - la pian**ista**
-  * 有些名词变换为阴性时结尾不规则
-    * el actor - la ac**triz**
-    * el rey - la re**ina**
-    * el alcalde - la alcal**desa**
-  * 有些名词的阴阳性形式完全不同
-    * el **marido** - la **mujer**
-    * el **papá** - la **mamá**
-    * el **hombre** - la **mujer**
-    * el **padre** - la **madre**
-  * 有些名词有2种阴性形式
-    * el **médico** - la **médica** / **médico**
-    * el **jefe** - la **jefa** / **jefe**
+    > el estudi**ante** - la estudi**ante** <br>
+    > el pian**ista** - la pian**ista**
+  * 有些名词变换为阴性时结尾不规则 <br>
+    > el actor - la ac**triz** <br>
+    > el rey - la re**ina** <br>
+    > el alcalde - la alcal**desa**
+  * 有些名词的阴阳性形式完全不同 <br>
+    > el **marido** - la **mujer** <br>
+    > el **papá** - la **mamá** <br>
+    > el **hombre** - la **mujer** <br>
+    > el **padre** - la **madre**
+  * 有些名词有2种阴性形式 <br>
+    > el **médico** - la **médica** / **médico** <br>
+    > el **jefe** - la **jefa** / **jefe**
 
 |masculino | femenino | 例外|
 |--- | --- | ---|
@@ -43,8 +43,8 @@
 |**-consonante(辅音)** <br> el profeso**r** <br> el directo**r** <br> el marqué**s** | **+a** <br> la profesor**a** <br> la director**a** <br> la marqués**a** | **pero** <br> el jove**n** - la jove**n**|
 
 * 修饰名词的词也随名词词性变化而变化
-  * **aquel** chico **rubio** - **aquela** chica **rubia**
-  * **un** hombre **alto** - **una** mujer **alta**
+  > **aquel** chico **rubio** - **aquela** chica **rubia** <br>
+  > **un** hombre **alto** - **una** mujer **alta**
 
 ----
 

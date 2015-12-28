@@ -4,15 +4,15 @@
 
 ### 字母表 Abecedario
 
-|字母|读音|字母|读音|字母|读音|字母|读音|
-|---|---|---|---|---|---|---|---|
-|A | a | H | hache | Ñ | eñe | U | u|
-|B | be | I |i | O |o | V | uve|
-|C | ce | J |jota | P |pe | W |uve|
-|D | de | K |ca | Q |cu |  |doble|
-|E | e | L |ele | R |erre | X | equis|
-|F |efe | M |eme | S |ese | Y | i griega|
-|G |ge | N |ene | T |te | Z | ceta|
+| 字母 | 读音 | 字母 | 读音 | 字母 | 读音 | 字母 | 读音 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| A | a | H | hache | Ñ | eñe | U | u |
+| B | be | I | i | O | o | V | uve |
+| C | ce | J | jota | P | pe | W | uve |
+| D | de | K | ca | Q | cu |  | doble |
+| E | e | L | ele | R | erre | X | equis |
+| F | efe | M | eme | S | ese | Y | i griega |
+| G | ge | N | ene | T | te | Z | ceta |
 
 ### 个人资料 Datos Personales
 
@@ -56,7 +56,7 @@
 |15 |quince | 90 |noventa|
 |16 | dieciséis | 100 |cien|
 
-###  招呼和告别 Saludar y Despedirse
+### 招呼和告别 Saludar y Despedirse
 招呼
 - Buenos días.
 - Buenas tardes.
@@ -74,7 +74,7 @@
 
 |阳性|阴性|阴阳性一致|
 |---|---|---|
-|**-o** <br> italian**o** <br> turc**o** <br> **-consonante** <br> alemán <br> francés | **-a** <br> italian**a** <br> turc**a** <br> **-consonante + a** <br> aleman**a** <br> frances**a**|  belg**a** <br> marroqu**í** <br> estadounid**ense** |
+|**-o** <br> italian**o** <br> turc**o** <br> **-consonante** <br> alemán <br> francés | **-a** <br> italian**a** <br> turc**a** <br> **-consonante + a** <br> aleman**a** <br> frances**a**| belg**a** <br> marroqu**í** <br> estadounid**ense** |
 
 职业
 

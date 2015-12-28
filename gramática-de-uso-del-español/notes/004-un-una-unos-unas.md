@@ -26,22 +26,24 @@
 ----
 
 * 使用不定冠词表示人和事是某一类或某个团体的一部分
-  * -¿Qué es esto? -Es **un reloj**.
-  * -¿Quién es _Chayanne_? -Es **un cantante**.
-  * La papaya es **una fruta**.  
+  > ¿Qué es esto? <br>
+  > Es **un reloj**. <br>
+  > ¿Quién es _Chayanne_? <br>
+  > Es **un cantante**. <br>
+  > La papaya es **una fruta**.  
 
 ----
 
 * 使用不定冠词表示数量
   1. **un, una** + 单数可数名词
-    * Necesito **un** lápiz.
-    * **Una** entrada, por favor.
+     > Necesito **un** lápiz. <br>
+     > **Una** entrada, por favor.
   * **unos, unas** + 单复数同型的单数名词
-    * Necesito **unas** tijeras.
-    * Quiero **unos** vaqueros.
+    > Necesito **unas** tijeras. <br>
+    > Quiero **unos** vaqueros.
   * **unos, unas** + 复数可数名词 = **algunos, algunas (3,4,5...)**
-    * Me han regalado **unas** flores.
-    * He comprado **unos** libros.
+    > Me han regalado **unas** flores. <br>
+    > He comprado **unos** libros.
 
 -----
 
