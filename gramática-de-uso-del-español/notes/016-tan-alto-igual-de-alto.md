@@ -32,11 +32,13 @@
   > **_Sonia_ y su madre** son igual de **guapas**. <br>
   > **Estos dos televisores** son igual de **caros**.
 
+
 ----
 
 - que/como + 人称代词主格
   > Los hijos de _Andrés_ no son tan guapos **como él**. <br>
   > Yo soy igual de trabajadora **que vosotros**.
+
 
 ----
 
@@ -57,7 +59,10 @@
   > _Adolfo_ es **más feo** que _Jorge_. $\rightarrow$  _Adolfo_ **no** es **tan guapo** como _Jorge_. <br>
   > _Luisa_ es __menos fuerte__ que _Ana_. $\rightarrow$ _Luisa_ **no** es **tan fuerte** como *Ana*.
 
-  ## 相关单元：
 
-  - [034. Pronombres personales de sujeto](034-yo-tú-él.md)
-    - 人称代词主格
+----
+
+## 相关单元：
+
+- [034. Pronombres personales de sujeto](034-yo-tú-él.md)
+  - 人称代词主格

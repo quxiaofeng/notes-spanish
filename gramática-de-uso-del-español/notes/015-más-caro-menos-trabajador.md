@@ -29,6 +29,7 @@
   > **_Eva_** es **mayor** que _Javi_, pero **_Javi_** es **mayor** que su hermano. <br>
   > Estas **camisas** son más baratas, pero son **peores**.
 
+
 -----
 
 - más/menos ... que + pronombre personal sujeto 人称代词主格
@@ -36,10 +37,12 @@
   > Eres más fuerte **que yo**. <br>
   > Somos menos altos **que nosotros**.
 
+
 -----
 
 - 有时候上下文清楚的话，不需要指代比较的人或事物
   > Este piso es pequeño. Yo quiero uno **más grande**.
+
 
 ----
 

@@ -25,7 +25,8 @@
 | **-or, -án, -ón, -ín** <br> un chico encantad**or** | **+a** <br> una chica encantad**ora** | **+es** <br> unos hombres charlat**anes** | **-as** <br>unas mujeres charlat**anas** |
 | <font color=red>例外</font>：un gorro **marrón** | una bufanda **marrón** | unos pantalones **marrones** | unas faldas **marrones** |
 
-- 注意以下变位：
+- 注意以下变位
+
   > feli**z** - feli**ces** <br>
   > j**o**ven - j**ó**venes <br>
   > charlat**á**n - charlat**a**na <br>

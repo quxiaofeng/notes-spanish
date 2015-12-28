@@ -30,7 +30,7 @@ _Gramática de uso del español_ 一书的中文笔记。
   - 定冠词和表示时间数量的短语
 - [010. Otros usos del artículo determinado](notes/010-tocar-la-guitarra.md)
   - 定冠词的其他用法
-- [011. Omisión de nombres](notes/011-el-rojo-uno-rojo.md)
+- [011. Omisión de nombres](notes/011-el-rojo-un-rojo.md)
   - 名词的省略
 - [012. Demostrativos](notes/012-este-ese-aquel.md)
   - 指示代词

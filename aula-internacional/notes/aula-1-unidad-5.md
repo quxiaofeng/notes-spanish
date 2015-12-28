@@ -30,6 +30,7 @@
   > -¿Qué tal la nueva profesora? <br>
   > No sé, **parece bastante** maja.
 
+
 ### 喜好和兴趣 Gustos e Intereses
 
 **gustar** 动词变位
@@ -105,10 +106,13 @@
 
 - (padre + madre = **padres**)
   > Poco y Lucía son **los padres de** Marta y **de** Abel.
+
 - (hijo + hija = **hijos**)
   > Marta y Abel son **los hijos de** Poco y Lucía.
+
 - (abuelo + abuela = **abuelos**)
   > Poco y Lucía son **los abuelos de** Daniel y **de** Carta.
+
 - (hermano + hermana = **hermanos**)
   > Marta y Abel son **hermanos**.
 

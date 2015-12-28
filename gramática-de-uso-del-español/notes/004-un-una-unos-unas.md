@@ -32,18 +32,22 @@
   > Es **un cantante**. <br>
   > La papaya es **una fruta**.  
 
+
 ----
 
 * 使用不定冠词表示数量
-  1. **un, una** + 单数可数名词
+  - **un, una** + 单数可数名词
      > Necesito **un** lápiz. <br>
      > **Una** entrada, por favor.
+
   * **unos, unas** + 单复数同型的单数名词
     > Necesito **unas** tijeras. <br>
     > Quiero **unos** vaqueros.
+
   * **unos, unas** + 复数可数名词 = **algunos, algunas (3,4,5...)**
     > Me han regalado **unas** flores. <br>
     > He comprado **unos** libros.
+
 
 -----
 

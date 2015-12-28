@@ -35,6 +35,7 @@ estar 的变位
 
 - hay 后面不加定冠词：
   > <s>Aquí **hay el** lago precioso.</s> Aquí **hay un** lago precioso.
+
 - estar 不能用来表示存在：
   > <s>En Lima **está una** catedral.</s> En Lima **hay una** catedral.
 
@@ -45,22 +46,29 @@ estar 的变位
 - ser + adjetivo 形容词
   > Perú **es** muy bonito.
   > **Los** peruano**s son** muy amables.
+
 - ser + sustantivo 名词
   > México **es** un país muy turístico.
   > **Las** ranchera**s son** canciones populares mexicanas.
+
 
 ### 量词 Cuantificadores
 
 - mucho + 不可数阳性
   > En esta región hay __mucho__ café.
+
 - mucha + 不可数阴性
   > En esta ciudad hay __mucha__ delincuencia.
+
 - muchos + 可数阳性
   > En Francia hay **muchos** tipo**s** de queso.
+
 - muchas + 可数阴性
   > En México hay **muchas** cultura**s** autóctonas.
+
 - muy + 形容词
   > **muy** bonito/a/os/as
+
 - verbo + mucho
   > Llueve **mucho**. <br>
   > Nieva **mucho**.
@@ -71,8 +79,10 @@ estar 的变位
   > **Hace** calor/frío. <br>
   > **LLueve**. <br>
   > **Nieva**.
+
 - 气候
   > **El clima es** / templado. / tropical / frío.
+
 
 ### 形容词与冠词的一致性 Concordancia: Artículos y Adjetivos
 
@@ -95,28 +105,35 @@ estar 的变位
 - 提问怎样
   > ¿**Cómo es** el clima de Cuba? <br>
   > Tropical.
-- 提问在哪 <br>
+
+- 提问在哪
   > ¿**Dónde** está Panamá? <br>
   > En Centroamérica.
-- 提问是否有某物存在 <br>
+
+- 提问是否有某物存在
   > ¿**Hay** selvas en México? <br>
   > Sí.
-- 提问数量，注意性数的变化 <br>
+
+- 提问数量，注意性数的变化
   > ¿**Cuántos** habitant**es** hay en España? <br>
   > 42 millones.
-- 提问数量 <br>
+
+- 提问数量
   > ¿**Cuántas** lengu**as** oficiales hay en Paraguay? <br>
   > Dos, el español y el guaraní.
-- 提问是什么，表示定义 <br>
+
+- 提问是什么，表示定义
   > ¿**Qué es** el mate? <br>
   > Una infusión. <br>
   > ¿**Qué son** las castañuelas? <br>
   > Un instrumento musical.
-- 提问是什么，表示确定，有复数变化 <br>
+
+- 提问是什么，表示确定，有复数变化
   > ¿**Cuál es** la capital de Venezuela? <br>
   > Caracas. <br>
   > ¿**Cuáles son** los dos países más grandes de habla hispana? <br>
   > Argentina y México.
+
 
 ### 最高级 El Superlativo
 
@@ -126,6 +143,7 @@ estar 的变位
 > El Nilo y el Amazonas **son los** ríos **más** largos **del** mundo. <br>
 > Asunción **es la** ciudad **más** grande **de** Paraguay. <br>
 > El Everest y el K2 **son las** montañas **más** altas **del** mundo.
+
 
 ### 文化小知识
 
@@ -158,7 +176,7 @@ estar 的变位
 | Costa Rica | San José | 热带 | 咖啡  | 390 万 | 克朗 | 西班牙语 | Arenal 火山 |
 | Colombia | Santa Fe de bogotá | 沿海热带 <br> 高原寒冷 | 咖啡 | 3300 万 | 哥伦比亚比索 | 西班牙语 | 卡塔赫纳 <br> 圣玛尔塔 <br> 波哥大 |
 | Cuba | La Habana | 热带 | 蔗糖，烟草 | 1100 万 | 古巴比索 | 西班牙语 | 哈瓦那旧城<br>长岛 |
-| Ecuador | Quido | 沿海热带 <br> 内陆寒冷 | 可可 | 1180 万 | 美元 | 西班牙语<br>奇楚瓦语 | 加拉帕戈斯群岛<br>印加古城 Ingapirca | 
+| Ecuador | Quido | 沿海热带 <br> 内陆寒冷 | 可可 | 1180 万 | 美元 | 西班牙语<br>奇楚瓦语 | 加拉帕戈斯群岛<br>印加古城 Ingapirca |
 | El Salvador | San Salvador | 热带 | 玉米，大豆 | 580 万 | 克朗，美元 | 西班牙语 | |
 | España | Madrid | 温和 | 油 | 4000 万 | 欧元 | 西班牙语<br>加泰罗尼亚语<br>巴斯克语<br>加利西亚语 | 加那利群岛 <br> 安达卢西亚 <br> 加泰罗尼亚 <br> 巴利阿里群岛 |
 | Guatemala | Guatemala | 热带 | 玉米，咖啡 | 1120 万 | 格查尔 | 西班牙语 | |

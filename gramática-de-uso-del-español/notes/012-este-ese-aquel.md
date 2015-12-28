@@ -40,10 +40,13 @@
 - **este, ese, aquel** 可以用来指代时间
   - este - 现在或是即将到来的未来
     > **Este año** ha sido muy frío.
+
   - ese - 过去
     > Estuve en Perú en 1999. **Ese año** hubo elecciones.
+
   - aquel - 遥远的过去
     > Los españoles llegaron a América en 1492. En **aquella época**, el imperio inca iba de Chile a Ecuador.
+
 
 -----
 
@@ -55,7 +58,8 @@
 
     - 不需要说明事物是什么
       > ¿De quién es **eso**?
-      
+
   - 不区分阴阳性和单复数，都用 **esto, eso, aquello**
     > Eso son mentiras.
+
   - 一般不指代人，指人有轻蔑的意思（类似于这家伙，那家伙的意思）

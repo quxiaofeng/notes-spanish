@@ -10,7 +10,7 @@
 ----
 
 * 在西语中，表示物体的名词也是有阴阳性之分的
-  1. 通常，以 **-o** 结尾的名词是阳性的
+  - 通常，以 **-o** 结尾的名词是阳性的
     * el libr**o**, el carr**o**, el teléfon**o**, el vas**o**, el braz**o**, el muse**o**
     * <font color="red">例外</font>：la man**o**, la fot**o**, la mot**o**, la radi**o**
   * 通常，以 **-a** 结尾的名词是阴性的

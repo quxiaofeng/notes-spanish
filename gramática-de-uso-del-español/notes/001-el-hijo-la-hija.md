@@ -24,16 +24,19 @@
   * 以 **-ante, -ista** 结尾的名词的阴阳性形式一样。
     > el estudi**ante** - la estudi**ante** <br>
     > el pian**ista** - la pian**ista**
-  * 有些名词变换为阴性时结尾不规则 <br>
+
+  * 有些名词变换为阴性时结尾不规则
     > el actor - la ac**triz** <br>
     > el rey - la re**ina** <br>
     > el alcalde - la alcal**desa**
-  * 有些名词的阴阳性形式完全不同 <br>
+
+  * 有些名词的阴阳性形式完全不同
     > el **marido** - la **mujer** <br>
     > el **papá** - la **mamá** <br>
     > el **hombre** - la **mujer** <br>
     > el **padre** - la **madre**
-  * 有些名词有2种阴性形式 <br>
+
+  * 有些名词有2种阴性形式
     > el **médico** - la **médica** / **médico** <br>
     > el **jefe** - la **jefa** / **jefe**
 
@@ -45,6 +48,7 @@
 * 修饰名词的词也随名词词性变化而变化
   > **aquel** chico **rubio** - **aquela** chica **rubia** <br>
   > **un** hombre **alto** - **una** mujer **alta**
+
 
 ----
 

@@ -41,10 +41,12 @@
   > _Ernesto_ no come **carne**. <br>
   > ¿Hay **pan**? <br>
   > _Tomás_ canta **flamenco**.
+
 * <font color="red">例外</font>：但是，在以下情况下需要使用不定冠词：
   * 表示数量：
     > La novia de _José Alfonso_ ha publicado **una novela**. (= 1) <br>
     > Me han regelado **unos sellos**. (= algunos sellos)
+
   * 后面有形容词修饰：
     > Tengo **unos sellos muy caros**. <br>
     > Aquí hacen **un pan buenísimo**.

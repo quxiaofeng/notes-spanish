@@ -61,6 +61,7 @@ tres mil doscientos/as setenta **y** seis
 
 - 提问事物，可以用 Qué + 名词
   > ¿**Qué perfume** usas? ¡Es muy bueno!
+
 - 当我们知道提及的事物是什么的时候，可以用 Cuál/cuáles 提问
   > ¿**Qué biquini** compro para Julia? <br>
   > No sé. ¿Cuál es el más barato? <br>
@@ -120,14 +121,18 @@ tener que + infinitivo 表示需要做某事
 
 - 询问是否有某物
   > ¿**Tienen** agua / gorros / gafas...?
+
 - 表示想要某物
   > **Quería** agua / un gerro / unas gafas.
+
 - 询问价格，单数和复数
   > ¿**Cuánto cuesta** este gorro? <br>
   > ¿**Cuánto cuestan** estas gafas?
+
 - 表示买下物品
   > **Me llevo este** gorro. / **Me llevo este**. <br>
   > **Me llevo estas** gafas. / **Me llevo estas**.
+
 
 ### 文化小知识
 

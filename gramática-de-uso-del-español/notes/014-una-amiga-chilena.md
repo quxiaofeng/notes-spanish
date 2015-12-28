@@ -32,6 +32,7 @@
   > *Iván* es **cubano**. *Haydée* es **cubana**. Son **cubanos**. <br>
   > Tengo **unos sellos** y **unas monedas rusos**.
 
+
 ----
 
 - 形容词的位置
@@ -40,6 +41,7 @@
 
   - nombre + adjetivo
     > La **bandera argentina** es azul y blanca.
+
 
 ----
 
