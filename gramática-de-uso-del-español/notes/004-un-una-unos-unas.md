@@ -23,17 +23,12 @@
   * 有形容词修饰时，用 **una**
     * **una** buena aula, **una** pequeña hacha
 
-----
-
 * 使用不定冠词表示人和事是某一类或某个团体的一部分
-
   > ¿Qué es esto? <br>
   > Es **un reloj**. <br>
   > ¿Quién es _Chayanne_? <br>
   > Es **un cantante**. <br>
   > La papaya es **una fruta**.  
-
-----
 
 * 使用不定冠词表示数量
   - **un, una** + 单数可数名词

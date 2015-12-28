@@ -13,25 +13,24 @@
 - **tocar + el piano, la guitarra...** 演奏乐器
   > *Ana* está aprendiendo a __tocar el piano__.
 
-  - <font color='red'>例外</font>：**tener, necesitar, comprar + una guitarra, un paino...**
-    > **Tengo una guitarra** española.
-
+- <font color='red'>例外</font>：**tener, necesitar, comprar + una guitarra, un paino...**
+  > **Tengo una guitarra** española.
 
 * **jugar + al fútbol, al tenis, al ajedrez, a las cartas...** jugar + 运动棋牌类
   > ¿Sabes jugar __al ajedrez__ <br>
   > **Jugamos al fútbol** todos los domingos.
 
-  - <font color='red'>例外</font>：**hacer + gimnasia, natación, alpinismo...**
-    > **Hago gimnasia** todas las mañanas.
+- <font color='red'>例外</font>：**hacer + gimnasia, natación, alpinismo...**
+  > **Hago gimnasia** todas las mañanas.
 
 
 - **las matemáticas, la lengua, el griego, el español...** 课程，语言
   > Mi asignatura prederida son **las matemáticas**. <br>
   > __El griego__ es una lengua muy sonora.
 
-  - <font color='red'>例外</font>：与 **hablar, saber, enseñar, estudiar...** 使用时不加
-    > _Claudia_ __estudia Filosofía__. <br>
-    > ¿Usted __habla chino__?
+- <font color='red'>例外</font>：与 **hablar, saber, enseñar, estudiar...** 使用时不加
+  > _Claudia_ __estudia Filosofía__. <br>
+  > ¿Usted __habla chino__?
 
 
 - **la policía, el ejército, los bomberos** 警察，军人，消防队员
@@ -43,10 +42,10 @@
   > Siempre escuchamos __las noticias__ de las nueve. <br>
   > ¿Has leído __el periódico__ hoy?
 
-  - <font color='red'>例外</font>：表示器材 una radio, una televisión(aparatos), una noticias
-    > Tengo __una radio__ nueva. (收音机) <br>
-    > Me he comprado __una televisión__. (电视机) <br>
-    > Tengo **una buena noticia**.
+- <font color='red'>例外</font>：表示器材 una radio, una televisión(aparatos), una noticias
+  > Tengo __una radio__ nueva. (收音机) <br>
+  > Me he comprado __una televisión__. (电视机) <br>
+  > Tengo **una buena noticia**.
 
 
 - **el mar, el campo, la playa, el cielo, la naturaleza** 大海，乡村，海滩，天空，自然
@@ -63,7 +62,7 @@
   > Mi hermana **está en la universidad**. <br>
   > Los domingos **voy a la iglesia**.
 
-  - <font color='red'>例外</font>：**ir a... / venir de... / estar en... casa, correos, clase** 不加冠词的情况，家，邮局，课堂
-  
-    > __Voy a correos__ a enviar un paquete. <br>
-    > _Edgar_ __está en casa__ desde las doce.
+- <font color='red'>例外</font>：**ir a... / venir de... / estar en... casa, correos, clase** 不加冠词的情况，家，邮局，课堂
+
+  > __Voy a correos__ a enviar un paquete. <br>
+  > _Edgar_ __está en casa__ desde las doce.

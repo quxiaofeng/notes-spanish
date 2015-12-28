@@ -46,6 +46,7 @@
 | Pues _Loli_ es **igual de simpática**.  |  Pues sus hermanos no son igual de trabajadores.  |
 
 - 有时候，使用 no + tan + adjetivo positivo (褒义形容词) 来替代 más + adjetivo negativo (贬义形容词) 或者 menos + adjetivo positivo 的情况
+
   > _Adolfo_ es **más feo** que _Jorge_. $\rightarrow$  _Adolfo_ **no** es **tan guapo** como _Jorge_. <br>
   > _Luisa_ es __menos fuerte__ que _Ana_. $\rightarrow$ _Luisa_ **no** es **tan fuerte** como *Ana*.
 

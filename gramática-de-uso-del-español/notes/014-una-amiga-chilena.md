@@ -22,18 +22,15 @@
 | **-consonante** <br> portugué**s** <br> alemá**n** <br> españo**l** | **+a** <br> portugue**sa** <br> alema**na** <br> españo**la** | **+es** <br> portugue**ses** <br> alema**nes** <br> españo**les** | **+as** <br> portugue**sas** <br> alema**nas** <br> españo**las** |
 | _Bild_ es **una rebista alemana**. | A _Carla_ le gusta mucho **la comida española**. | _Faro_ y _Oporto_ son **ciudades portuguesas** |
 
-注意：
-- portugu**é**s - portugu**e**sa, portugu**e**ses, portugu**e**sas
-- alem**á**n - alem**a**na, alem**a**nes, alem**a**nas
+- 注意：
+  - portugu**é**s - portugu**e**sa, portugu**e**ses, portugu**e**sas
+  - alem**á**n - alem**a**na, alem**a**nes, alem**a**nas
 
-----
 
 - 阳性名词 + 阴性名词 = 阳性名词复数
   > *Iván* es **cubano**. *Haydée* es **cubana**. Son **cubanos**. <br>
   > Tengo **unos sellos** y **unas monedas rusos**.
 
-
-----
 
 - 形容词的位置
   - ser/estar + adjetivo
@@ -42,8 +39,6 @@
   - nombre + adjetivo
     > La **bandera argentina** es azul y blanca.
 
-
-----
 
 | 国家 | 单数，阳性形容词 | 名词 |
 | --- | --- | --- |

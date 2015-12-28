@@ -11,14 +11,14 @@
 
 - 定冠词 + 人物：
   - 使用 __el, la, los, las + señor, señora, señorita, doctor, doctora, presidente, presidenta... + (nombre +) apellido__ 的形式
-    >***El señor Alonso***es mi jefe. <br>
-    >***La señora Gómez***es muy amable. <br>
-    >***La doctora Blanco***trabaja en este hopital.
-  - <font color="red">例外</font>：
+    > ***El señor Alonso*** es mi jefe. <br>
+    > ***La señora Gómez*** es muy amable. <br>
+    > ***La doctora Blanco*** trabaja en este hopital.
 
+  - <font color="red">例外</font>：
     - 直接称呼某人时不用定冠词：
-      > Buenos días,***señor Alonso***. <br>
-      > Una llamada para usted,***doctora Blanco***.
+      > Buenos días, ***señor Alonso***. <br>
+      > Una llamada para usted, ***doctora Blanco***.
 
     - 只有姓名时不用定冠词：
       > **_Julián_** es mi primo. <br>
@@ -26,8 +26,8 @@
 
 - 定冠词 + 地点：
   - __el, la__ + 街道，广场的名字
-    > _Marga_ vive en **la avenida de América**. <br>
-    > Hay un cine nuevo en***la calle Bolívar***.
+    > _Marga_ vive en ***la avenida de América***. <br>
+    > Hay un cine nuevo en ***la calle Bolívar***.
 
   - __el, la, los, las__ + 电影院，旅馆，博物馆，大学的名字 <br>
     >***el (hotel) Ritz***<br>
