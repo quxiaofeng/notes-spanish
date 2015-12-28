@@ -21,13 +21,20 @@
 
 - 3 453 276 = tres millones cuatrocientos/as cincuenta y
 tres mil doscientos/as setenta **y** seis
-- 100 是 **cien**，但是 **101-199** 变成 **ciento**
-- 只有几十几的表达式中才会出现 **y**
-- 几百的形式随着修饰的名词的阴阳性变化而变化
-- 在阳性名词前，如果最后一个数字是 1，那么用 un 代替 uno
-  - ciento **un** euros
-- 几千不使用复数变位形式，只用 **mil**
-- 西语中 **un billón** 表示 1 000 000 000 000，而不是 1 000 000 000
+
+  100 是 **cien**，但是 **101-199** 变成 **ciento**。
+
+  只有几十几的表达式中才会出现 **y**。
+
+  几百的形式随着修饰的名词的阴阳性变化而变化。
+
+  在阳性名词前，如果最后一个数字是 1，那么用 un 代替 uno。
+
+  > ciento **un** euros
+
+  几千不使用复数变位形式，只用 **mil**。
+
+  西语中 **un billón** 表示 1 000 000 000 000，而不是 1 000 000 000。
 
 ### 指代某物 Referirse a Objetos
 
@@ -38,31 +45,35 @@ tres mil doscientos/as setenta **y** seis
 | **estos** zapatos | **estos** |
 | **estas** sandalias | **estas** |
 
-> ¡**Este** jersey es precioso! <br>
-> Pues yo prefiero **este**.
+- 形容词
+  > ¡**Este** jersey es precioso! <br>
+  > Pues yo prefiero **este**.
 
+- 代词
+  > **Estas** gafas de sol, ¿cuánto cuestan? <br>
+  > 40 euros. <br>
+  > ¿Y **estas**? <br>
+  > 55 euros. <br>
 
-> **Estas** gafas de sol, ¿cuánto cuestan? <br>
-> 40 euros. <br>
-> ¿Y **estas**? <br>
-> 55 euros. <br>
-
-**esto** 也可以当指示代词用，但是不用来指代具体的事物
+- **esto** 也可以当指示代词用，但是不用来指代具体的事物
 
 ### 名词的省略 El/la/los/las + Adjetivo
 
-当我们知道指代的名词是什么时，可以省略这个名词：
-> ¿Qué **coche** usamos: **el** nuevo o **el** viejo? <br>
-> Luis quiere comprar **la camiseta** verde y Julia, la **azul**. <br>
-> **Los zapatos** más caros son **los** negros. <br>
-> Tenemos que llevar **las meletas** rojas y **las** negras. <br>
+- 当我们知道指代的名词是什么时，可以省略这个名词：
+
+  > ¿Qué **coche** usamos: **el** nuevo o **el** viejo? <br>
+  > Luis quiere comprar **la camiseta** verde y Julia, la **azul**. <br>
+  > **Los zapatos** más caros son **los** negros. <br>
+  > Tenemos que llevar **las meletas** rojas y **las** negras.
 
 ### Qué + 名词和 Cuál/cuáles 提问 Qué + Sustantivo y Cuál/cuáles
 
 - 提问事物，可以用 Qué + 名词
+
   > ¿**Qué perfume** usas? ¡Es muy bueno!
 
 - 当我们知道提及的事物是什么的时候，可以用 Cuál/cuáles 提问
+
   > ¿**Qué biquini** compro para Julia? <br>
   > No sé. ¿Cuál es el más barato? <br>
   > ¿**Qué zapatos** compro para Pedro? <br>
@@ -70,9 +81,9 @@ tres mil doscientos/as setenta **y** seis
 
 ### 颜色 Colores
 
-提问颜色要用
-> ¿**De qué color** es el jersey?
-> Naranja.
+- 提问颜色要用
+  > ¿**De qué color** es el jersey?
+  > Naranja.
 
 | 单词 | 颜色 <th> 色块 </th>
 | --- | ---
@@ -100,8 +111,8 @@ tres mil doscientos/as setenta **y** seis
 | (vosotros/vosotras) | **tenéis** | |
 | (ellos/ellas/ustedes) | **tienen** | <br> |
 
-tener que + infinitivo 表示需要做某事
-> Esta noche voy a una fiesta de cumpleafios. Tengo que llevar un regalo.
+- tener que + infinitivo 表示需要做某事
+  > Esta noche voy a una fiesta de cumpleafios. Tengo que llevar un regalo.
 
 ### 表达喜好 Hablar de Preferencias
 
@@ -114,22 +125,27 @@ tener que + infinitivo 表示需要做某事
 | (vosotros/vosotras) | preferís |
 | (ellos/ellas/ustedes) | pref**ie**ren |
 
-- ¿Cuál **prefieres**?
-- Yo el rojo. ¿Y tú?
+- 喜好
+  > ¿Cuál **prefieres**? <br>
+  > Yo el rojo. ¿Y tú?
 
 ### 买东西 De Compras
 
 - 询问是否有某物
+
   > ¿**Tienen** agua / gorros / gafas...?
 
 - 表示想要某物
+
   > **Quería** agua / un gerro / unas gafas.
 
 - 询问价格，单数和复数
+
   > ¿**Cuánto cuesta** este gorro? <br>
   > ¿**Cuánto cuestan** estas gafas?
 
 - 表示买下物品
+
   > **Me llevo este** gorro. / **Me llevo este**. <br>
   > **Me llevo estas** gafas. / **Me llevo estas**.
 

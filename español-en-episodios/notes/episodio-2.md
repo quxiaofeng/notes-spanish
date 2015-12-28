@@ -2,46 +2,53 @@
 
 定冠词
 - 阳性单复数
-  - el / los
+  > el / los
+
 - 阴性单复数
-  - la / las
+  > la / las
 
 名词
 - 以下结尾的**通常**为阴性
-  - a
-  - dad
-  - tad
-  - ción
-  - sión
+
+  > a  <br>
+  > dad  <br>
+  > tad <br>
+  > ción <br>
+  > sión
+
 - 以下结尾的**通常**为阳性
-  - o
-  - ema
+  > o <br>
+  > ema
+
 - 其他的结尾
-  - el autobús
-  - el país
-  - el reloj
-  - el hombre
-  - la calle
-  - la paz
-  - la razón
-  - la piel
-  - la mujer
+  > el autobús <br>
+  > el país <br>
+  > el reloj <br>
+  > el hombre <br>
+  > la calle <br>
+  > la paz <br>
+  > la razón <br>
+  > la piel <br>
+  > la mujer
+
 - 单复数
-  - 元音 `vocal + s`
-  - 辅音 `consonante + es`
+  元音 `vocal + s`
+  辅音 `consonante + es`
+
 - 以 a 发音结尾的单词，单数定冠词只用 `el`
-  - el agua, el alma
+  > el agua, el alma
 
 `IR` 的一般现在时变位
 - 动词 `vivir` 的变位
-  - Yo viv**o**
-  - Tú viv**es**
-  - Él / ella viv**e**
-  - Nosotros / as viv**imos**
-  - Vosotros / as viv**ís**
-  - Ellos / as viv**en**
+  > Yo viv**o** <br>
+  > Tú viv**es** <br>
+  > Él / ella viv**e** <br>
+  > Nosotros / as viv**imos** <br>
+  > Vosotros / as viv**ís** <br>
+  > Ellos / as viv**en**
+
 - 规则的动词还有
-  - `recibir, escribir, abrir, subir`
+  > `recibir, escribir, abrir, subir`  <br>
 
 `También` 和 `Tampoco`
 - 肯定之后的肯定：`También`

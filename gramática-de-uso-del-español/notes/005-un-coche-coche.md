@@ -19,13 +19,14 @@
   > _Lenin_ y _Stalin_ **eran comunistas**.
 
 * <font color="red">例外</font>：但在以下情况下要使用不定冠词
-  * 名词后面有定性的修饰词
-    > _Chantal_ es **una francesa muy simpática**. <br>
-    > Es **un médico extraordinario**.
 
-  * 用职业来确定某人的身份
-    > ¿Quiénes son _las Hijas de Sol_? <br>
-    > Son **unas cantantes**.
+  名词后面有定性的修饰词
+  > _Chantal_ es **una francesa muy simpática**. <br>
+  > Es **un médico extraordinario**.
+
+  用职业来确定某人的身份
+  > ¿Quiénes son _las Hijas de Sol_? <br>
+  > Son **unas cantantes**.
 
 
 | no se usa | se usa |
@@ -45,13 +46,15 @@
   > _Tomás_ canta **flamenco**.
 
 * <font color="red">例外</font>：但是，在以下情况下需要使用不定冠词：
-  * 表示数量：
-    > La novia de _José Alfonso_ ha publicado **una novela**. (= 1) <br>
-    > Me han regelado **unos sellos**. (= algunos sellos)
+  表示数量：
 
-  * 后面有形容词修饰：
-    > Tengo **unos sellos muy caros**. <br>
-    > Aquí hacen **un pan buenísimo**.
+  > La novia de _José Alfonso_ ha publicado **una novela**. (= 1) <br>
+  > Me han regelado **unos sellos**. (= algunos sellos)
+
+  后面有形容词修饰：
+
+  > Tengo **unos sellos muy caros**. <br>
+  > Aquí hacen **un pan buenísimo**.
 
 | no se usa | se usa |
 | --- | --- |

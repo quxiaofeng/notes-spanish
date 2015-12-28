@@ -10,15 +10,20 @@
 -----
 
 - 指示代词用来指代某人或某物
-  - este 这个，离我近
-  - ese 那个，离我远，离你近
-  - aquel 那个，离我和你都远
-- 其变位形式与所指代的人和物的性数相关
+
+  este 这个，离我近
+
+  ese 那个，离我远，离你近
+
+  aquel 那个，离我和你都远
+
+  其变位形式与所指代的人和物的性数相关
+
   > ¿Cuánto cuesta __esta__ revista? <br>
   > ¿Cuánto cuesta __esa__ revista? <br>
   > ¿Quiénes son __aquellas__ chicas? <br>
 
-- 也可以用 **ese, esa, esos, esas** 指代离说话双方都远的事物。
+  也可以用 **ese, esa, esos, esas** 指代离说话双方都远的事物。
 
 | | masculino | femenino |
 | --- | --- | --- |
@@ -37,25 +42,31 @@
 
 
 - **este, ese, aquel** 可以用来指代时间
-  - este - 现在或是即将到来的未来
-    > **Este año** ha sido muy frío.
 
-  - ese - 过去
-    > Estuve en Perú en 1999. **Ese año** hubo elecciones.
+  este - 现在或是即将到来的未来
 
-  - aquel - 遥远的过去
-    > Los españoles llegaron a América en 1492. En **aquella época**, el imperio inca iba de Chile a Ecuador.
+  > **Este año** ha sido muy frío.
+
+  ese - 过去
+
+  > Estuve en Perú en 1999. **Ese año** hubo elecciones.
+
+  aquel - 遥远的过去
+
+  > Los españoles llegaron a América en 1492. En **aquella época**, el imperio inca iba de Chile a Ecuador.
 
 - 中性指示代词 **esto, eso, aquello**
-  - 一般用来指物，后面不加名词，用于两种情况
-    - 不知道事物的阴阳性
-      > ¿Qué es **esto**? <br>
-      > No sé. Parece una lámpara.
 
-    - 不需要说明事物是什么
-      > ¿De quién es **eso**?
+  一般用来指物，后面不加名词，用于两种情况
 
-  - 不区分阴阳性和单复数，都用 **esto, eso, aquello**
-    > Eso son mentiras.
+  不知道事物的阴阳性
+  > ¿Qué es **esto**? <br>
+  > No sé. Parece una lámpara.
 
-  - 一般不指代人，指人有轻蔑的意思（类似于这家伙，那家伙的意思）
+  不需要说明事物是什么
+  > ¿De quién es **eso**?
+
+  不区分阴阳性和单复数，都用 **esto, eso, aquello**
+  > Eso son mentiras.
+
+  一般不指代人，指人有轻蔑的意思（类似于这家伙，那家伙的意思）

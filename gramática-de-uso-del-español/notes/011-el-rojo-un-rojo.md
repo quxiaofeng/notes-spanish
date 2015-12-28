@@ -23,14 +23,14 @@
   > ¿Quién es don Tomás? <br>
   > **El delgado**. (el señor delgado)
 
-  - 定冠词特指某个事物，不定冠词泛指某类事物的一个
-    > ¿Quién es *Susi*? <br>
-    > **La alta**. (la chica alta) <br>
-    > ¿Qué tipo de coche busca? <br>
-    > **un pequeño**. (un coche pequeño)
+- 定冠词特指某个事物，不定冠词泛指某类事物的一个
+  > ¿Quién es *Susi*? <br>
+  > **La alta**. (la chica alta) <br>
+  > ¿Qué tipo de coche busca? <br>
+  > **un pequeño**. (un coche pequeño)
 
-  - 冠词，形容词的性数与指代的名词相同
-    > ¿Qué zapatillas te gusta más? **Las rojas**.
+- 冠词，形容词的性数与指代的名词相同
+  > ¿Qué zapatillas te gusta más? **Las rojas**.
 
 - **el, la, los, las** + **de** + **nombre** 表示 **posesión, situación, materia**
   > Mi coche es peor que **el de mi hermano**. (el coche de mi hermano) <br>

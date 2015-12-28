@@ -11,7 +11,7 @@
 
 `Usted` / `ustedes`，用第三人称变位
 
- 词根变化： o $\rightarrow$ ue
+ 词根变化： o 到 ue
   - c**o**ntar
   - v**o**lver
   - d**o**rmir
@@ -31,6 +31,8 @@
   > El restaurante está carca.
 
 问路：
-> Seguir todo recto / al fin de la calle. <br>
-> Girar a la derecha / izquierda. <br>
-> Cruzar la avenida / la calle.
+- `seguir, girar, cruzar`
+
+  > Seguir todo recto / al fin de la calle. <br>
+  > Girar a la derecha / izquierda. <br>
+  > Cruzar la avenida / la calle.

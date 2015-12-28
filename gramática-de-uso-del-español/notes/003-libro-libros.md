@@ -19,8 +19,9 @@
 | **-z** | **-z > c + es** | actri**z** - actri**ces**, pe**z** - pe**ces** |
 
 * 重音变化：
-  * autobús - autobuses
-  * televisión - televisiones
+
+  > autobús - autobuses <br>
+  > televisión - televisiones
 
 * 有些词用复数形式表示单复数
 
@@ -32,9 +33,11 @@
 | vaqueros | vaqueros | 牛仔裤 |
 
 * 阳性 + 阴性 = 阳性复数
-  * padre + madre = padres
-  * hijo(s) + hija(s) = hijos
-  * rey + reina = reyes
+
+  > padre + madre = padres <br>
+  > hijo(s) + hija(s) = hijos <br>
+  > rey + reina = reyes
+
 
 ----
 

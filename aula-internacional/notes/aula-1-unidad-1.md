@@ -38,35 +38,35 @@
 
 | 数字 | 读音 | 数字 | 读音 |
 | ---- | ---- | ---- | ---- |
-| 0 | cero | 17 | diecisiete | 
-| 1 | uno | 18 | dieciocho | 
-| 2 | dos | 19 | diecinueve | 
-| 3 | tres | 20 | veinte | 
-| 4 | cuatro | 21 | veintiuno | 
-| 5 | cinco | 22 | veintidós | 
-| 6 | seis | 23 | veintitrés | 
-| 7 | siete | 24 | veinticuatro | 
-| 8 | ocho | 30 | treinta | 
-| 9 | nueve | 31 | trienta y uno | 
-| 10 | diez | 40 | cuarenta | 
-| 11 | once | 50 | cincuenta | 
-| 12 | doce | 60 | sesenta | 
-| 13 | trece | 70 | setenta | 
-| 14 | catorce | 80 | ochenta | 
-| 15 | quince | 90 | noventa | 
-| 16 | dieciséis | 100 | cien | 
+| 0 | cero | 17 | diecisiete |
+| 1 | uno | 18 | dieciocho |
+| 2 | dos | 19 | diecinueve |
+| 3 | tres | 20 | veinte |
+| 4 | cuatro | 21 | veintiuno |
+| 5 | cinco | 22 | veintidós |
+| 6 | seis | 23 | veintitrés |
+| 7 | siete | 24 | veinticuatro |
+| 8 | ocho | 30 | treinta |
+| 9 | nueve | 31 | trienta y uno |
+| 10 | diez | 40 | cuarenta |
+| 11 | once | 50 | cincuenta |
+| 12 | doce | 60 | sesenta |
+| 13 | trece | 70 | setenta |
+| 14 | catorce | 80 | ochenta |
+| 15 | quince | 90 | noventa |
+| 16 | dieciséis | 100 | cien |
 
 ### 招呼和告别 Saludar y Despedirse
-招呼
-- Buenos días.
-- Buenas tardes.
-- Buenas noches.
-招呼
-- ¡Hola!
-- Hola, ¿qué tal?
-告别
-- ¡Adiós!
-- ¡Hasta luego!
+- 招呼
+  > Buenos días. <br>
+  > Buenas tardes. <br>
+  > Buenas noches.
+- 招呼
+  > ¡Hola! <br>
+  > Hola, ¿qué tal?
+- 告别
+  > ¡Adiós! <br>
+  > ¡Hasta luego!
 
 ### 词性 El género
 

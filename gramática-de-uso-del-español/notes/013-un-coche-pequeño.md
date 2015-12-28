@@ -12,8 +12,6 @@
 
 - **pequeño, pequeña, alta, cansados** 都是定性的形容词，用来对人，动物，物品添加信息。
 
-----
-
 - 定性形容词的变位
 
 | singular | | plural | |
@@ -32,11 +30,19 @@
   > charlat**á**n - charlat**a**na <br>
   > marr**ó**n - marr**o**nes
 
-----
 
 - 形容词的性数与所指代的名词的性数一致
-  > 男性：Yo soy **moreno**. <br>
-  > 女性：Yo soy **morena**. <br>
+
+  说话人是男性：
+
+  > Yo soy **moreno**. <br>
+
+  说话人是女性：
+
+  > Yo soy **morena**. <br>
+
+  其他情况：
+
   > ***Susana* y *Elena*** son muy **trabajadoras**. <br>
   > Me he comprado unos **zapatos negros**. <br>
   > En *Guatemala* hay **ruinas** muy **antiguas**.
@@ -45,20 +51,22 @@
   > ***Antonio* y *Marta*** son **altos** y **morenos**. <br>
   > *Gabi* lleva una **camiseta** y un **pantalón negros**.
 
-----
-
 - 形容词的位置
-  - ser/estar + adjetivo
-    > *Roberto* **es simpático**.
 
-  - nombre + adjetivo
-    > *María* tiene los **ojos azules**.
+  ser/estar + adjetivo
+  > *Roberto* **es simpático**.
 
-- <font color=red>例外</font>：
-  - buen/buena + nombre
-    > *Julio* es un **buen escritor**. <br>
-    > *Luisa es* una **buena profesora**.
+  nombre + adjetivo
+  > *María* tiene los **ojos azules**.
 
-  - mal/mala + nombre
-    > *Felipe* es un **mal ejemplo** para sus hijos. <br>
-    > Tengo una *mala noticia*.
+  <font color=red>例外</font>：
+
+  buen/buena + nombre
+
+  > *Julio* es un **buen escritor**. <br>
+  > *Luisa es* una **buena profesora**.
+
+  mal/mala + nombre
+
+  > *Felipe* es un **mal ejemplo** para sus hijos. <br>
+  > Tengo una *mala noticia*.

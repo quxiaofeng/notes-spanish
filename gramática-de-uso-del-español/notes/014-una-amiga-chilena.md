@@ -13,7 +13,7 @@
 - 国籍形容词的变位
 
 | singular | | plural | |
-| --- | --- | --- | --- | ---|
+| --- | --- | --- | --- |
 | masculino | femenino | masculino | femenino |
 | **-o** <br> chilen**o**, cuban**o** | **-a** <br> chilen**a**, cuban**a** | **-os** <br> chilen**os**, cuban**os** | **-as** <br> chilen**as**, cuban**as** |
 | _Donoso_ es **un escritor chileno**. | _Isabel Allende_ es **una escritora chilena**. | **Los puros cubanos** son de gran calidad.
@@ -22,9 +22,10 @@
 | **-consonante** <br> portugué**s** <br> alemá**n** <br> españo**l** | **+a** <br> portugue**sa** <br> alema**na** <br> españo**la** | **+es** <br> portugue**ses** <br> alema**nes** <br> españo**les** | **+as** <br> portugue**sas** <br> alema**nas** <br> españo**las** |
 | _Bild_ es **una rebista alemana**. | A _Carla_ le gusta mucho **la comida española**. | _Faro_ y _Oporto_ son **ciudades portuguesas** |
 
+
 - 注意：
-  - portugu**é**s - portugu**e**sa, portugu**e**ses, portugu**e**sas
-  - alem**á**n - alem**a**na, alem**a**nes, alem**a**nas
+  > portugu**é**s - portugu**e**sa, portugu**e**ses, portugu**e**sas <br>
+  > alem**á**n - alem**a**na, alem**a**nes, alem**a**nas
 
 
 - 阳性名词 + 阴性名词 = 阳性名词复数
@@ -33,11 +34,12 @@
 
 
 - 形容词的位置
-  - ser/estar + adjetivo
-    > _Gabriel García Márquez_ **es colombiano**
 
-  - nombre + adjetivo
-    > La **bandera argentina** es azul y blanca.
+  ser/estar + adjetivo
+  > _Gabriel García Márquez_ **es colombiano**
+
+  nombre + adjetivo
+  > La **bandera argentina** es azul y blanca.
 
 
 | 国家 | 单数，阳性形容词 | 名词 |

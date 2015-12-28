@@ -60,9 +60,9 @@
 
 ### 动词和介词 Verbos y Preposiciones
 
-动词的直接宾语如果是人，需要在前面加上介词 **a**
+- 动词的直接宾语如果是人，需要在前面加上介词 **a**
+  > Quiero conocer **a tu hermano**.
 
-- Quiero conocer **a tu hermano**.
 - **al = a + el**
 
 ||动词|宾语|
@@ -85,20 +85,21 @@
 |**femenino** | **la** play**a** <br> **la** fiest**a** <br> **la** discotec**a** | **las** play**as** <br> **las** fiest**as** <br> **las** discotec**as**
 
 - 一般来说以 **-o** 结尾的名词是阳性的，以 **-a** 结尾的名词是阴性的
-  - 例外情况：**el** idiom**a**, **la** man**o**, **la** mot**o**...
+
+  例外情况：**el** idiom**a**, **la** man**o**, **la** mot**o**...
+
 - 以 **-e** 结尾的可能是阳性，也可能是阴性，还可以都是
-  - **la** gent**e**, **el/la** estudiant**e**
+  > **la** gent**e**, **el/la** estudiant**e**
+
 - 以 **a** 发音开头的阴性名词单数使用阳性定冠词 **el**
-  - **el a**ula, **el a**ve
+  > **el a**ula, **el a**ve
 
-### 熟练程度
+- 熟练程度从高到低
+  > **muy bien** <br>
+  > **bastante bien** <br>
+  > **regular (un poco de)** <br>
+  > **muy mal**
 
-熟练程度从高到低
-
-- **muy bien**
-- **bastante bien**
-- **regular (un poco de)**
-- **muy mal**
 
 ###  文化小知识
 

@@ -9,6 +9,7 @@
     - :smile: guapo/a
     - :smile: atractivo/a
     - :imp: feo/a
+
 - 第一印象 Primeras Impresiones
   - **Parece**  (un chico/una chica/un hombre/una mujer/una persona) **muy**/**bastante**/**un poco**
     - :smile: divertido/a
@@ -25,8 +26,11 @@
     - :smile: agradable
     - :imp: desagradable
     - :smile: sociable
+
 - 形容人时，**un poco** 只与贬义形容词一起使用
-- 特殊句式：**Parece buena persona**.
+
+- 特殊句式：**Parece buena persona**
+
   > -¿Qué tal la nueva profesora? <br>
   > No sé, **parece bastante** maja.
 

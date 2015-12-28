@@ -4,22 +4,22 @@
 
 ### 表达存在 Expresar Existencia
 
-使用动词 hay 表示存在。
-
-> En Asturias **hay muchas** montañas.  <br>
-> En España **hay cuatro** lenguas oficiales. <br>
-> En La Rioja **hay unos** vinos muy buenos. <br>
-> En Barcelona **hay un** estadio de fútbol muy grande. <br>
-> En Venezuela **hay** petróleo/selvas. <br>
-> En España no **hay** petróleo/selvas.
+- 使用动词 hay 表示存在。
+  > En Asturias **hay muchas** montañas.  <br>
+  > En España **hay cuatro** lenguas oficiales. <br>
+  > En La Rioja **hay unos** vinos muy buenos. <br>
+  > En Barcelona **hay un** estadio de fútbol muy grande. <br>
+  > En Venezuela **hay** petróleo/selvas. <br>
+  > En España no **hay** petróleo/selvas.
 
 ### 表达位置 Expresar Ubicación: Verbo Estar
 
-使用动词 estar 表示位置。
+- 使用动词 estar 表示位置。
 
-estar 的变位
-- La Giralda **está** en Sevilla.
-- Las islas Cíes **están** en Galicia.
+  estar 的变位
+
+  > La Giralda **está** en Sevilla.
+  > Las islas Cíes **están** en Galicia.
 
 
 | | estar |
@@ -31,23 +31,27 @@ estar 的变位
 | (vosotros/vosotras) | estáis |
 | (ellos/ellas/ustedes) | está |
 
-注意：
+- 注意：
 
-- hay 后面不加定冠词：
+  hay 后面不加定冠词：
+
   > <s>Aquí **hay el** lago precioso.</s> Aquí **hay un** lago precioso.
 
-- estar 不能用来表示存在：
+  estar 不能用来表示存在：
+
   > <s>En Lima **está una** catedral.</s> En Lima **hay una** catedral.
 
 ### 描述和定义地点，人物或事物
 
-使用动词 ser 描述和定义。
+- 使用动词 ser 描述和定义。
 
 - ser + adjetivo 形容词
+
   > Perú **es** muy bonito.
   > **Los** peruano**s son** muy amables.
 
 - ser + sustantivo 名词
+
   > México **es** un país muy turístico.
   > **Las** ranchera**s son** canciones populares mexicanas.
 
@@ -86,14 +90,14 @@ estar 的变位
 
 ### 形容词与冠词的一致性 Concordancia: Artículos y Adjetivos
 
-形容词与冠词与修饰指代的名词要保持一致：
+- 形容词与冠词与修饰指代的名词要保持一致：
 
 | | masculino | femenino |
 | --- | --- | ---|
 | **singular** | **un** lugar turístic**o** | **una** playa turístic**a**|
 | **plural** | **unos** lugares turístic**os** | **unas** playas turístic**as**|
 
-以 **-e**, **-consonante** 结尾的单词阴阳性的变化是一样的。
+- 以 **-e**, **-consonante** 结尾的单词阴阳性的变化是一样的。
 
 | | masculino | femenino |
 |--- | --- | ---|
@@ -137,12 +141,12 @@ estar 的变位
 
 ### 最高级 El Superlativo
 
-形容词最高级 **el, la, los, las + nombre + más + adjetivo + de**
+- 形容词最高级 **el, la, los, las + nombre + más + adjetivo + de**
 
-> El Prado **es el** museo **más** famoso **de** madrid. <br>
-> El Nilo y el Amazonas **son los** ríos **más** largos **del** mundo. <br>
-> Asunción **es la** ciudad **más** grande **de** Paraguay. <br>
-> El Everest y el K2 **son las** montañas **más** altas **del** mundo.
+  > El Prado **es el** museo **más** famoso **de** madrid. <br>
+  > El Nilo y el Amazonas **son los** ríos **más** largos **del** mundo. <br>
+  > Asunción **es la** ciudad **más** grande **de** Paraguay. <br>
+  > El Everest y el K2 **son las** montañas **más** altas **del** mundo.
 
 
 ### 文化小知识

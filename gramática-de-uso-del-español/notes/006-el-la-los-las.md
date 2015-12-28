@@ -17,34 +17,42 @@
 | **plural** | **los** <br> **los** padres, **los** libros | **las**　<br> **las** madres, **las** hojas |
 
 - 对于以 **a(á), ha(á)** 开头的单数阴性名词，使用 **el**
+
   > **el á**guila, **el a**ula, **el ha**cha
 
-- 复数用 **las** 不变
+  复数用 **las** 不变
+
   > **las** águilas
 
-- 有形容词修饰时，用 **la**
+  有形容词修饰时，用 **la**
+
   > **la** otra aula
 
 - **a + el = al**， 必须使用 **al**
+
   > Juego **al** fútbol.
 
-- **de + el = del**， 必须使用 **del**
+  **de + el = del**， 必须使用 **del**
   > El hijo **del** profesor está en mi clase.
 
 - 使用定冠词的场合
-  - 提到一个独特的人或物
-    > **La madre** de _Antonio_ es policía. (Antonio 只有一个妈妈) <br>
-    > _Buenos Aires_ es **el capital** de _Argentina_. (阿根廷只有一个首都) <br>
-    > ¿Quién es **el presidente** de _Brasil_? (巴西只有一个总统)
 
-  - 提到一个特指的人或物，双方都明确这个人或物指的是什么。
-    > Quiero ver **al director**. (这个银行的负责人) <br>
-    > Enciende **la luz**, por favor. (这个房间的灯) <br>
-    > _Luis_ está en la cocina. (这个房子的厨房)
+  提到一个独特的人或物
 
-  - 提到一个一般性的人或物
-    > **El tabaco** es malo para la salud. (泛指烟草) <br>
-    > **Los chilenos** hablan español. (泛指智利人)
+  > **La madre** de _Antonio_ es policía. (Antonio 只有一个妈妈) <br>
+  > _Buenos Aires_ es **el capital** de _Argentina_. (阿根廷只有一个首都) <br>
+  > ¿Quién es **el presidente** de _Brasil_? (巴西只有一个总统)
+
+  提到一个特指的人或物，双方都明确这个人或物指的是什么。
+
+  > Quiero ver **al director**. (这个银行的负责人) <br>
+  > Enciende **la luz**, por favor. (这个房间的灯) <br>
+  > _Luis_ está en la cocina. (这个房子的厨房)
+
+  提到一个一般性的人或物
+
+  > **El tabaco** es malo para la salud. (泛指烟草) <br>
+  > **Los chilenos** hablan español. (泛指智利人)
 
 
 ----
