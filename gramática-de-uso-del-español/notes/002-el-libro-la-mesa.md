@@ -24,15 +24,17 @@
   > el dí**a**, el idiom**a**, el map**a**, el problem**a**, el pijam**a**, el planet**a**
 
 - 以 **-e** 或者以辅音 **consonante** 结尾可以是
+
   阳性
-  * 星期：el lune**s**, el miércole**s**...
-  * 复合名词：el paragua**s**, el cumpleaño**s**...
-  * 其他：el restaurant**e**, el coch**e**, el cin**e**, el hote**l**, el lápi**z**, el pa**n**, el pulvóe**r**...
+  > 星期：el lune**s**, el miércole**s**...  <br>
+  > 复合名词：el paragua**s**, el cumpleaño**s**...  <br>
+  > 其他：el restaurant**e**, el coch**e**, el cin**e**, el hote**l**, el lápi**z**, el pa**n**, el pulvóe**r**...
 
   阴性
-  * 以 **-ción, -sión** 结尾的名词：la can**ción**, la habita**ción**, la televi**sión**
-  * 以 **-dad, -tad** 结尾的名词：la ciu**dad**, la universi**dad**, la liber**tad**...
-  * 其他：la clas**e**, la lech**e**, la sa**l**, la flo**r**, la lu**z**...
+  
+  > 以 **-ción, -sión** 结尾的名词：la can**ción**, la habita**ción**, la televi**sión** <br>
+  > 以 **-dad, -tad** 结尾的名词：la ciu**dad**, la universi**dad**, la liber**tad**...  <br>
+  > 其他：la clas**e**, la lech**e**, la sa**l**, la flo**r**, la lu**z**...
 
 * 大部分表示动物的名词
 

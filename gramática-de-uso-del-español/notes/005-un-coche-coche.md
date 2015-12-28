@@ -18,7 +18,7 @@
   > _Chantal_ **es francesa**. **Es abogada**. <br>
   > _Lenin_ y _Stalin_ **eran comunistas**.
 
-* <font color="red">例外</font>：但在以下情况下要使用不定冠词
+  <font color="red">例外</font>：但在以下情况下要使用不定冠词
 
   名词后面有定性的修饰词
   > _Chantal_ es **una francesa muy simpática**. <br>
@@ -45,7 +45,8 @@
   > ¿Hay **pan**? <br>
   > _Tomás_ canta **flamenco**.
 
-* <font color="red">例外</font>：但是，在以下情况下需要使用不定冠词：
+  <font color="red">例外</font>：但是，在以下情况下需要使用不定冠词：
+
   表示数量：
 
   > La novia de _José Alfonso_ ha publicado **una novela**. (= 1) <br>

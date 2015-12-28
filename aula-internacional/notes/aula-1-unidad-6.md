@@ -21,7 +21,8 @@
 ### 星期 Los Días de la Semana
 
 - 周一到周五（单复数一样）：**lunes / martes / miércoles / jueves / viernes**
-- 周末：**sábado / domingo - fin de semana**
+
+  周末：**sábado / domingo - fin de semana**
 
 - 提问是星期几的时候不用冠词：
 
@@ -33,7 +34,7 @@
   > ¿Cuándo llegas? <br>
   > **El** viernes a las siete de la tarde.
 
-- 使用复数表示经常性的星期几：
+  使用复数表示经常性的星期几：
 
   > ¿Qué haces **los** domingos? <br>
   > Normalmente me levanto tarde y comi con mi familia.
@@ -44,7 +45,7 @@
 
   > **¿Qué hora es? / ¿Tienes/Tiene hora?**
 
-- 回答：
+  回答：
 
   > **La** una **en punto**. 一点整。<br>
   > **Las** dos **y** diez. 二点十分。<br>
@@ -57,14 +58,14 @@
 
   > ¿**A qué hora** llega el avión?
 
-- 回答一般用12小时制，用 **de** 表示一天中的时段：
+  回答一般用12小时制，用 **de** 表示一天中的时段：
 
   > **A las** seis **de la mañana**. (06:00) <br>
   > **A las** doce **del mediodía**. (12:00) <br>
   > **A las** seis y media **de la tarde**. (18:30) <br>
   > **A las** diez **de la noche**. (22:00)
 
-- 不过在一些公共场所也可以使用24小时制：
+  不过在一些公共场所也可以使用24小时制：
 
   > a las **dieciocho treinta**
   > a las **veintidós**
@@ -98,15 +99,15 @@
   > **Todos los** días / **Todos los** sábados / **Todos los** meses...
   > **Todas las** tardes / **Todas las** semanas...
 
-- 每周一次/每月一次
+  每周一次/每月一次
 
   > **Una vez a la semana / Una vez al mes**...
 
-- 每周两次/每月两次
+  每周两次/每月两次
 
   > **Dos veces a la semana / Dos veces al mes**...
 
-- 经常性的周五，周六，周日
+  经常性的周五，周六，周日
 
   > **Los viernes / Los sábados / Los domingos**...
 
@@ -133,7 +134,7 @@
   > **Yo también**. <br>
   > **Yo no**. Yo normalmente me acuesto a la una o a las dos.
 
-- 我也不是，我是：
+  我也不是，我是：
 
   > Yo nunca me levanto pronto los domingos.
   > **Yo tampoco**.

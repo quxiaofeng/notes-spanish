@@ -23,7 +23,7 @@
 
 - mayor, menor, mejor, peor 单数阴阳
 
-- mayores, menores, mejores, peores, 复数阴阳
+  mayores, menores, mejores, peores, 复数阴阳
   > **_Eva_** es **mayor** que _Javi_, pero **_Javi_** es **mayor** que su hermano. <br>
   > Estas **camisas** son más baratas, pero son **peores**.
 

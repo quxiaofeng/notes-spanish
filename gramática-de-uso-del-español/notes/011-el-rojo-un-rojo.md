@@ -11,7 +11,7 @@
 
 ----
 
-**El, la ,los, las, uno, una, unos, unas** 可以用在事物之前已经被提及或者指代的事物无需说明的情况。
+- **el, la ,los, las, uno, una, unos, unas** 可以用在事物之前已经被提及或者指代的事物无需说明的情况。
 
 - **el, la ,los, las, uno, una, unos, unas** + **adjetivo** 冠词 + 形容词
   > ¿Qué camisa te guata más? <br>

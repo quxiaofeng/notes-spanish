@@ -61,22 +61,25 @@
   > Buenos días. <br>
   > Buenas tardes. <br>
   > Buenas noches.
+
 - 招呼
   > ¡Hola! <br>
   > Hola, ¿qué tal?
+
 - 告别
   > ¡Adiós! <br>
   > ¡Hasta luego!
 
+
 ### 词性 El género
 
-国籍
+- 国籍
 
 |阳性|阴性|阴阳性一致|
 |---|---|---|
 |**-o** <br> italian**o** <br> turc**o** <br> **-consonante** <br> alemán <br> francés | **-a** <br> italian**a** <br> turc**a** <br> **-consonante + a** <br> aleman**a** <br> frances**a**| belg**a** <br> marroqu**í** <br> estadounid**ense** |
 
-职业
+- 职业
 
 |阳性|阴性|阴阳性一致|
 |---|---|---|
@@ -88,7 +91,7 @@
 | ----|----|----
 | estudi**ar**<br>cant**ar**<br>cocin**ar** | le**er**<br>ten**er**<br>s**er** | escrib**ir**<br>**ir**<br>viv**ir**　　
 
-ser, tener, llamarse 的变位
+- ser, tener, llamarse 的变位
 
 | | ser | tener | llamarse|
 |---|---|---|---|

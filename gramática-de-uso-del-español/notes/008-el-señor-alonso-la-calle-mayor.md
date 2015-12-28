@@ -52,8 +52,8 @@
   >***los (montes) Pirineos, los Andes***<br>
   >***el (desierto del) Sahara***
 
-  - <font color='red'>例外</font>：对于单独的岛屿不使用定冠词： <br>
-    >***Mallorca, Sicilia, Santo Domingo***
+  <font color='red'>例外</font>：对于单独的岛屿不使用定冠词： <br>
+  >***Mallorca, Sicilia, Santo Domingo***
 
 - 对于城市，地区，省，自治区，联邦，国家，大洲的名字前不加定冠词：
 

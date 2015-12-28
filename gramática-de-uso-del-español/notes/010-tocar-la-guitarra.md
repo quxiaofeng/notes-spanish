@@ -13,14 +13,14 @@
 - **tocar + el piano, la guitarra...** 演奏乐器
   > *Ana* está aprendiendo a __tocar el piano__.
 
-- <font color='red'>例外</font>：**tener, necesitar, comprar + una guitarra, un paino...**
+  <font color='red'>例外</font>：**tener, necesitar, comprar + una guitarra, un paino...**
   > **Tengo una guitarra** española.
 
 * **jugar + al fútbol, al tenis, al ajedrez, a las cartas...** jugar + 运动棋牌类
   > ¿Sabes jugar __al ajedrez__ <br>
   > **Jugamos al fútbol** todos los domingos.
 
-- <font color='red'>例外</font>：**hacer + gimnasia, natación, alpinismo...**
+  <font color='red'>例外</font>：**hacer + gimnasia, natación, alpinismo...**
   > **Hago gimnasia** todas las mañanas.
 
 
@@ -28,7 +28,7 @@
   > Mi asignatura prederida son **las matemáticas**. <br>
   > __El griego__ es una lengua muy sonora.
 
-- <font color='red'>例外</font>：与 **hablar, saber, enseñar, estudiar...** 使用时不加
+  <font color='red'>例外</font>：与 **hablar, saber, enseñar, estudiar...** 使用时不加
   > _Claudia_ __estudia Filosofía__. <br>
   > ¿Usted __habla chino__?
 
@@ -42,7 +42,7 @@
   > Siempre escuchamos __las noticias__ de las nueve. <br>
   > ¿Has leído __el periódico__ hoy?
 
-- <font color='red'>例外</font>：表示器材 una radio, una televisión(aparatos), una noticias
+  <font color='red'>例外</font>：表示器材 una radio, una televisión(aparatos), una noticias
   > Tengo __una radio__ nueva. (收音机) <br>
   > Me he comprado __una televisión__. (电视机) <br>
   > Tengo **una buena noticia**.
@@ -62,7 +62,7 @@
   > Mi hermana **está en la universidad**. <br>
   > Los domingos **voy a la iglesia**.
 
-- <font color='red'>例外</font>：**ir a... / venir de... / estar en... casa, correos, clase** 不加冠词的情况，家，邮局，课堂
+  <font color='red'>例外</font>：**ir a... / venir de... / estar en... casa, correos, clase** 不加冠词的情况，家，邮局，课堂
 
   > __Voy a correos__ a enviar un paquete. <br>
   > _Edgar_ __está en casa__ desde las doce.
