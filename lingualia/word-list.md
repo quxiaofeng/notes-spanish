@@ -44,3 +44,15 @@
 | <img src="pics/0036.jpg" width="50%"/> | siete | s.,m. | 七 | Hoy estamos a día siete. | | |
 | <img src="pics/0037.jpg" width="50%"/> | ocho | s.,m. | 八 | La bola de billar tiene el número ocho. | | |
 | <img src="pics/0038.jpg" width="50%"/> | nueve | s.,m. | 九 | La carta es es el nueve de picas. | | |
+| <img src="pics/0039.jpg" width="50%"/> | bombero | s.,m. | 消防员 | El bombero utiliza agua. | | |
+| <img src="pics/0040.jpg" width="50%"/> | fotógrafo | s.,m. | 摄影师 | El fotógrafo trabaja con la cámara. | | |
+| <img src="pics/0041.jpg" width="50%"/> | mecánico | s.,m. | 技师 | El mecánico prepara el coche. | | |
+| <img src="pics/0042.jpg" width="50%"/> | taxista | s.,m./f. | 出租车司机 | El taxista conduce su taxi.
+| <img src="pics/0043.jpg" width="50%"/> | sueldo | s.,m. | 工资，薪水 | Hoy recibo mi sueldo del mes. | salario | |
+| <img src="pics/0044.jpg" width="50%"/> | mapa | s.,m. | 地图 | Yo busco un lugar en el mapa. | plano | |
+| <img src="pics/0045.jpg" width="50%"/> | contratar | v.,tr. | 雇用 | Ellos contratan al chico para trabajar en el supermercado. | fichar | despedir |
+| <img src="pics/0046.jpg" width="50%"/> | dedicarse | v.,tr. | 从事 | Ellos se dedican a la medicina. | trabajar | |
+| <img src="pics/0047.jpg" width="50%"/> | recepcionista | s.,m./f. | 接待员 | La recepcionista atiende el teléfono.
+| <img src="pics/0048.jpg" width="50%"/> | tienda | s.,f. | 商店 | Esta tienda es de ropa. | | |
+| <img src="pics/0049.jpg" width="50%"/> | estar en paro | expr. | 失业 | Estas dos personas están en paro y buscan trabajo. | estar desempleado/a | |
+| <img src="pics/0050.jpg" width="50%"/> | supermercado | s.,m. | 超市 | Ellos compran en el supermercado. | | |

@@ -6,11 +6,11 @@
 
   动词 ser 的变位:
 
-|Verbo SER ||
-|---|---|
-|Yo | soy |
-|Tú | eres |
-|Él, ella, usted | es |
+  |Verbo SER ||
+  |---|---|
+  |Yo | soy |
+  |Tú | eres |
+  |Él, ella, usted | es |
 
   > Ella **es** profesora de Pilates.
 
@@ -30,13 +30,14 @@
 
   动词 estar 的变位:
 
+  > Yo estoy bien.
+
   |Verbo SER ||
   |---|---|
   |Yo | estoy |
   |Tú | estás |
   |Él, ella, usted | está |
 
-  > Yo estoy bien.
 
 - Demostrativos: este, ese, aquel
 
@@ -105,3 +106,87 @@
   > director-directores
 
   > En la imagen hay cuatro jugadores y un entrenador.
+
+## Lección 4: ¿A qué te dedicas?
+
+- 动词 Ser 用来
+
+  说明人物：
+
+  > Yo soy Juan. Ella es Meri.
+
+  说明职业：
+
+  > Meri y Olivia son cocineras.
+
+- Dedicarse (a)
+
+  跟 llamase 的用法一致，me, te, se, nos, os, se ...
+
+  > Julia se dedica a la enseñanza. <br>
+  > Julia se dedica a enseñar.
+
+- El gerundio
+
+  Estar + 副动词 表示一个正在进行的动作：
+
+  > Yo estoy estudiando español.
+
+  变位形式：
+
+  AR -> ANDO
+
+  IR, ER -> IENDO
+
+  > hablar - hablando <br>
+  > beber - bebiendo <br>
+  > vivir - viviendo
+
+- Formas impersonales del verbo
+
+  infinitivo 原形
+
+  > CANTAR
+
+  gerundio 副动词
+
+  > CANTANDO
+
+  participio 过去分词
+
+  > CANTADO
+
+- Diferencia entre qué y cuál
+
+  QUÉ 倾向于提问意思：
+
+  > ¿Qué es el español? Es el idioma que se habla en toda España.
+
+  CUÁL 倾向于提问名字：
+
+  > ¿Cuál es el idioma que se habla en toda España? El español.
+
+- El género
+
+  -o 结尾的大多是阳性，复数为 -os
+
+  -a 结尾的大多是阳性，复数为 -as
+
+  部分 -e 结尾的词既可以是阴性，也可以是阳性
+
+  > (el) estudiante/(la) estudiante.
+
+  例外：
+
+  -a 结尾的阳性：
+
+  > (el) día, (el) cometa, (el) tema, (el) problema, (el) sistema, (el) mapa...
+
+  -o 结尾的阴性：
+
+  > (la) radio, (la) mano, (la) foto(grafía), (la) moto(cicleta)...
+Hay otras
+
+  a 发音开头的单数名词用 el 不用 la
+
+  > (el) alma pero (las) almas, (el) águila pero (las) águilas, (el) agua, (el) hambre, (el) ala...
