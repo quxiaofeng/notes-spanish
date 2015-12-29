@@ -4,21 +4,6 @@
 
 ### 100以上的数字 Numerales
 
-| 数字 | 写法 |数字 | 写法 |
-| --- | --- |--- | --- |
-| 100 | cien | 1 000 | mil |
-| 101 | **ciento** uno/una | 2 000 | dos mil |
-| 102 | **ciento** dos | ... | ... |
-| ... | ... | 10 000 | diez mil |
-| 200 | doscientos/as | 20 000 | veinte mil |
-| 300 | trescientos/as | ... | ... |
-| 400 | cuatrocientos/as | 100 000 | cien mil |
-| 500 | **quinientos**/as | 200 000 | doscientos/as mil |
-| 600 | seiscientos/as | ... | ... |
-| 700 | **sete**cientos/as | 1 000 000 | un millón |
-| 800 | ochocientos/as | 2 000 000 | dos millones |
-| 900 | **nove**cientos/as | 1 000 000 000 | mil millones |
-
 - 3 453 276 = tres millones cuatrocientos/as cincuenta y
 tres mil doscientos/as setenta **y** seis
 
@@ -36,14 +21,22 @@ tres mil doscientos/as setenta **y** seis
 
   西语中 **un billón** 表示 1 000 000 000 000，而不是 1 000 000 000。
 
-### 指代某物 Referirse a Objetos
+  | 数字 | 写法 |数字 | 写法 |
+  | --- | --- |--- | --- |
+  | 100 | cien | 1 000 | mil |
+  | 101 | **ciento** uno/una | 2 000 | dos mil |
+  | 102 | **ciento** dos | ... | ... |
+  | ... | ... | 10 000 | diez mil |
+  | 200 | doscientos/as | 20 000 | veinte mil |
+  | 300 | trescientos/as | ... | ... |
+  | 400 | cuatrocientos/as | 100 000 | cien mil |
+  | 500 | **quinientos**/as | 200 000 | doscientos/as mil |
+  | 600 | seiscientos/as | ... | ... |
+  | 700 | **sete**cientos/as | 1 000 000 | un millón |
+  | 800 | ochocientos/as | 2 000 000 | dos millones |
+  | 900 | **nove**cientos/as | 1 000 000 000 | mil millones |
 
-| 指示形容词 | 指示代词 |
-| ---|--- |
-| **este** jersey | **este** |
-| **esta** camiseta | **esta** |
-| **estos** zapatos | **estos** |
-| **estas** sandalias | **estas** |
+### 指代某物 Referirse a Objetos
 
 - 形容词
   > ¡**Este** jersey es precioso! <br>
@@ -56,6 +49,13 @@ tres mil doscientos/as setenta **y** seis
   > 55 euros. <br>
 
 - **esto** 也可以当指示代词用，但是不用来指代具体的事物
+
+  | 指示形容词 | 指示代词 |
+  | ---|--- |
+  | **este** jersey | **este** |
+  | **esta** camiseta | **esta** |
+  | **estos** zapatos | **estos** |
+  | **estas** sandalias | **estas** |
 
 ### 名词的省略 El/la/los/las + Adjetivo
 
@@ -85,49 +85,50 @@ tres mil doscientos/as setenta **y** seis
   > ¿**De qué color** es el jersey?
   > Naranja.
 
-| 单词 | 颜色 <th> 色块 </th>
-| --- | ---
-| blanco/a | 白色 <th bgcolor=white>
-| rejo/a | 红色 <th bgcolor=red>
-| naranja | 橙色 <th bgcolor=orange>
-| amarillo/a | 黄色 <th bgcolor=yellow>
-| rosa | 粉色 <th bgcolor=pink>
-| azul | 蓝色 <th bgcolor=blue>
-| verde | 绿色 <th bgcolor=green>
-| lila | 丁香紫 <th bgcolor=#8A2BE2>
-| negro/a | 黑色 <th bgcolor=black>
-| gris | 灰色 <th bgcolor=gray>
-| marrón | 棕色 <th bgcolor=maroon>
-| beis | 米黄色 <th bgcolor=#FFFACD>
+  | 单词 | 颜色 <th> 色块 </th>
+  | --- | ---
+  | blanco/a | 白色 <th bgcolor=white>
+  | rejo/a | 红色 <th bgcolor=red>
+  | naranja | 橙色 <th bgcolor=orange>
+  | amarillo/a | 黄色 <th bgcolor=yellow>
+  | rosa | 粉色 <th bgcolor=pink>
+  | azul | 蓝色 <th bgcolor=blue>
+  | verde | 绿色 <th bgcolor=green>
+  | lila | 丁香紫 <th bgcolor=#8A2BE2>
+  | negro/a | 黑色 <th bgcolor=black>
+  | gris | 灰色 <th bgcolor=gray>
+  | marrón | 棕色 <th bgcolor=maroon>
+  | beis | 米黄色 <th bgcolor=#FFFACD>
 
 ### 表达需要 Expresar Necesidad
 
-| | tener | que + Infinitivo|
-| ---|---|---|
-| (yo) | **tengo** | |
-| (tú) | **tienes** | |
-| (él/ella/usted) | **tiene** | **que** + estudiar |
-| (nosotros/nosotras) | **tenemos** | |
-| (vosotros/vosotras) | **tenéis** | |
-| (ellos/ellas/ustedes) | **tienen** | <br> |
+
 
 - tener que + infinitivo 表示需要做某事
   > Esta noche voy a una fiesta de cumpleafios. Tengo que llevar un regalo.
 
+  | | tener | que + Infinitivo|
+  | ---|---|---|
+  | (yo) | **tengo** | |
+  | (tú) | **tienes** | |
+  | (él/ella/usted) | **tiene** | **que** + estudiar |
+  | (nosotros/nosotras) | **tenemos** | |
+  | (vosotros/vosotras) | **tenéis** | |
+  | (ellos/ellas/ustedes) | **tienen** | <br> |
+
 ### 表达喜好 Hablar de Preferencias
 
-| | preferir |
-| --- | --- |
-| (yo) | pref**ie**ro |
-| (tú) | pref**ie**res |
-| (él/ella/usted) | pref**ie**re |
-| (nosotros/nosotras) | preferimos |
-| (vosotros/vosotras) | preferís |
-| (ellos/ellas/ustedes) | pref**ie**ren |
-
 - 喜好
-  > ¿Cuál **prefieres**? <br>
-  > Yo el rojo. ¿Y tú?
+  > ¿Cuál **prefieres**? <br> Yo el rojo. ¿Y tú?
+
+  | | preferir |
+  | --- | --- |
+  | (yo) | pref**ie**ro |
+  | (tú) | pref**ie**res |
+  | (él/ella/usted) | pref**ie**re |
+  | (nosotros/nosotras) | preferimos |
+  | (vosotros/vosotras) | preferís |
+  | (ellos/ellas/ustedes) | pref**ie**ren |
 
 ### 买东西 De Compras
 

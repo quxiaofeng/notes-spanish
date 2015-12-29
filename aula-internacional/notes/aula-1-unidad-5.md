@@ -41,14 +41,14 @@
 
 - **gustar** 动词变位
 
-| | | gustar | |
-| --- | --- | --- | --- |
-| (A mí) | **me** | gusta | el cine|
-| (A ti) | **te** | | (单数名词) |
-| (A él/ella/usted) | **le** | gusta | ir al cine|
-| (A nosotros/nosotras) | **nos** | | (动词原形) |
-| (A vosotros/vosotras) | **os** | guata**n** | la**s** película**s** de acción|
-| (A ellos/ellas/uestedes) | **les** | | (复数名词) |
+  | | | gustar | |
+  | --- | --- | --- | --- |
+  | (A mí) | **me** | gusta | el cine|
+  | (A ti) | **te** | | (单数名词) |
+  | (A él/ella/usted) | **le** | gusta | ir al cine|
+  | (A nosotros/nosotras) | **nos** | | (动词原形) |
+  | (A vosotros/vosotras) | **os** | guata**n** | la**s** película**s** de acción|
+  | (A ellos/ellas/uestedes) | **les** | | (复数名词) |
 
 - 喜欢程度比较（依次减弱）
 
@@ -87,14 +87,14 @@
 
 - 形容词性物主代词的形式由修饰的名词决定
 
-| singular | plural |
-| --- | --- |
-| mi padre | mis hermanos |
-| mi madre | mis hermanas |
-| tu padre | tus hermanos |
-| tu padre | tus hermanas |
-| su padre | sus hermanos |
-| su padre | sus hermanas |
+  | singular | plural |
+  | --- | --- |
+  | mi padre | mis hermanos |
+  | mi madre | mis hermanas |
+  | tu padre | tus hermanos |
+  | tu padre | tus hermanas |
+  | su padre | sus hermanos |
+  | su padre | sus hermanas |
 
 - 名词性物主代词
   > mío/mía <br>
@@ -102,11 +102,11 @@
   > suyo/suyo <br>
   > de + 名词
 
-| 形容词性物主代词 | 名词性物主代词 |
-| ---- | ---- |
-| **mi** amigo Luis | **un** amigo (**mío**) |
-| **mi** amiga Carla | **una** amiga (**mía**) |
-| | **un** compañero de trabajo |
+  | 形容词性物主代词 | 名词性物主代词 |
+  | ---- | ---- |
+  | **mi** amigo Luis | **un** amigo (**mío**) |
+  | **mi** amiga Carla | **una** amiga (**mía**) |
+  | | **un** compañero de trabajo |
 
 - 阳性名词+阴性名词=阳性名词复数
 

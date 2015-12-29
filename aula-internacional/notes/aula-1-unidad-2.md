@@ -65,24 +65,19 @@
 
 - **al = a + el**
 
-||动词|宾语|
-|---|---|---|
-|| visitar | Barcelona.|
-|Quiero| **conocer** | México.|
-| | **aprender** | otras lenguas.|
-| | **practicar** | español.|
-| | **estudiar** | fotografía.|
-| | **hacer** | muchas fotos.|
-| | **descubrir** | lugares nuevos.|
-|Quiero | **ir** | **a** la playa / **al** cine / **a** bailar / **de** compras.|
-| | **salir** | **con** mis compañeros / **de** noche.|
+  ||动词|宾语|
+  |---|---|---|
+  || visitar | Barcelona.|
+  |Quiero| **conocer** | México.|
+  | | **aprender** | otras lenguas.|
+  | | **practicar** | español.|
+  | | **estudiar** | fotografía.|
+  | | **hacer** | muchas fotos.|
+  | | **descubrir** | lugares nuevos.|
+  |Quiero | **ir** | **a** la playa / **al** cine / **a** bailar / **de** compras.|
+  | | **salir** | **con** mis compañeros / **de** noche.|
 
 ### 定冠词 El Artículo Determinado
-
-||singular|plural
-|--- | --- | ---
-|**masculino** | **el** puebl**o** <br> **el** muse**o** <br> **el** curs**o** | **los** puebl**os** <br> **los** muse**os** <br> **los** curs**os**
-|**femenino** | **la** play**a** <br> **la** fiest**a** <br> **la** discotec**a** | **las** play**as** <br> **las** fiest**as** <br> **las** discotec**as**
 
 - 一般来说以 **-o** 结尾的名词是阳性的，以 **-a** 结尾的名词是阴性的
 
@@ -94,12 +89,22 @@
 - 以 **a** 发音开头的阴性名词单数使用阳性定冠词 **el**
   > **el a**ula, **el a**ve
 
+
 - 熟练程度从高到低
   > **muy bien** <br>
   > **bastante bien** <br>
   > **regular (un poco de)** <br>
   > **muy mal**
 
+
+  ||singular|plural
+  |--- | --- | ---
+  |**masculino** | **el** puebl**o** <br> **el** muse**o** <br> **el** curs**o** | **los** puebl**os** <br> **los** muse**os** <br> **los** curs**os**
+  |**femenino** | **la** play**a** <br> **la** fiest**a** <br> **la** discotec**a** | **las** play**as** <br> **las** fiest**as** <br> **las** discotec**as**
+  ||singular|plural
+  |--- | --- | ---
+  |**masculino** | **el** puebl**o** <br> **el** muse**o** <br> **el** curs**o** | **los** puebl**os** <br> **los** muse**os** <br> **los** curs**os**
+  |**femenino** | **la** play**a** <br> **la** fiest**a** <br> **la** discotec**a** | **las** play**as** <br> **las** fiest**as** <br> **las** discotec**as**
 
 ###  文化小知识
 

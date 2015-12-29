@@ -75,32 +75,34 @@
 
 - 国籍
 
-|阳性|阴性|阴阳性一致|
-|---|---|---|
-|**-o** <br> italian**o** <br> turc**o** <br> **-consonante** <br> alemán <br> francés | **-a** <br> italian**a** <br> turc**a** <br> **-consonante + a** <br> aleman**a** <br> frances**a**| belg**a** <br> marroqu**í** <br> estadounid**ense** |
+  |阳性|阴性|阴阳性一致|
+  |---|---|---|
+  |**-o** <br> italian**o** <br> turc**o** <br> **-consonante** <br> alemán <br> francés | **-a** <br> italian**a** <br> turc**a** <br> **-consonante + a** <br> aleman**a** <br> frances**a**| belg**a** <br> marroqu**í** <br> estadounid**ense** |
 
 - 职业
 
-|阳性|阴性|阴阳性一致|
-|---|---|---|
-|camarer**o**<br>cociner**o**<br>secretari**o** | camarer**a**<br>cociner**a**<br>secretari**a** | period**ista**<br>deport**ista**<br>estudiant**e**
+  |阳性|阴性|阴阳性一致|
+  |---|---|---|
+  |camarer**o**<br>cociner**o**<br>secretari**o** | camarer**a**<br>cociner**a**<br>secretari**a** | period**ista**<br>deport**ista**<br>estudiant**e**|
 
 ### 动词变位
 
-| -ar | -er | -ir
-| ----|----|----
-| estudi**ar**<br>cant**ar**<br>cocin**ar** | le**er**<br>ten**er**<br>s**er** | escrib**ir**<br>**ir**<br>viv**ir**　　
+- 动词分类
+
+  | -ar | -er | -ir
+  | ----|----|----
+  | estudi**ar**<br>cant**ar**<br>cocin**ar** | le**er**<br>ten**er**<br>s**er** | escrib**ir**<br>**ir**<br>viv**ir**|　　
 
 - ser, tener, llamarse 的变位
 
-| | ser | tener | llamarse|
-|---|---|---|---|
-|(yo) | soy | tengo | me llamo|
-|(tú) | eres | tienes | te llamas|
-|(él/ella/usted) | es | tiene |se llama|
-|(nosotros/nosotras) | somos | tenemos | nos llamamos|
-|(vosotros/vosotras) | sois | tenéis | os llamáis|
-|(ellos/ellas/ustedes) | son | tienen | se llaman|
+  | | ser | tener | llamarse|
+  |---|---|---|---|
+  |(yo) | soy | tengo | me llamo|
+  |(tú) | eres | tienes | te llamas|
+  |(él/ella/usted) | es | tiene |se llama|
+  |(nosotros/nosotras) | somos | tenemos | nos llamamos|
+  |(vosotros/vosotras) | sois | tenéis | os llamáis|
+  |(ellos/ellas/ustedes) | son | tienen | se llaman|
 　　
 ### 文化小知识
 #### 姓名

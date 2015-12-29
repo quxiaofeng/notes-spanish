@@ -21,15 +21,14 @@
   > La Giralda **está** en Sevilla.
   > Las islas Cíes **están** en Galicia.
 
-
-| | estar |
-| --- | --- |
-| (yo) | estoy |
-| (tú) | estás |
-| (él/ella/usted) | está |
-| (nosotros/nosotras) | estamos |
-| (vosotros/vosotras) | estáis |
-| (ellos/ellas/ustedes) | está |
+  | | estar |
+  | --- | --- |
+  | (yo) | estoy |
+  | (tú) | estás |
+  | (él/ella/usted) | está |
+  | (nosotros/nosotras) | estamos |
+  | (vosotros/vosotras) | estáis |
+  | (ellos/ellas/ustedes) | está |
 
 - 注意：
 
@@ -92,17 +91,17 @@
 
 - 形容词与冠词与修饰指代的名词要保持一致：
 
-| | masculino | femenino |
-| --- | --- | ---|
-| **singular** | **un** lugar turístic**o** | **una** playa turístic**a**|
-| **plural** | **unos** lugares turístic**os** | **unas** playas turístic**as**|
+  | | masculino | femenino |
+  | --- | --- | ---|
+  | **singular** | **un** lugar turístic**o** | **una** playa turístic**a**|
+  | **plural** | **unos** lugares turístic**os** | **unas** playas turístic**as**|
 
 - 以 **-e**, **-consonante** 结尾的单词阴阳性的变化是一样的。
 
-| | masculino | femenino |
-|--- | --- | ---|
-| **singular** | **un** país grande <br> **un** plato traditional | **una** ciudad grande <br> **una** bebida traditional |
-| **plural** | **unos** países grande**s** <br> **unos** plato traditional**es** | **unas** ciudades grande**s** <br> **unas** bebidas traditional**es** |
+  | | masculino | femenino |
+  |--- | --- | ---|
+  | **singular** | **un** país grande <br> **un** plato traditional | **una** ciudad grande <br> **una** bebida traditional |
+  | **plural** | **unos** países grande**s** <br> **unos** plato traditional**es** | **unas** ciudades grande**s** <br> **unas** bebidas traditional**es** |
 
 ### 提问与回答 Preguntar y Responder
 

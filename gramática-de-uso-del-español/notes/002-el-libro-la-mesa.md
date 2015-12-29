@@ -31,7 +31,7 @@
   > 其他：el restaurant**e**, el coch**e**, el cin**e**, el hote**l**, el lápi**z**, el pa**n**, el pulvóe**r**...
 
   阴性
-  
+
   > 以 **-ción, -sión** 结尾的名词：la can**ción**, la habita**ción**, la televi**sión** <br>
   > 以 **-dad, -tad** 结尾的名词：la ciu**dad**, la universi**dad**, la liber**tad**...  <br>
   > 其他：la clas**e**, la lech**e**, la sa**l**, la flo**r**, la lu**z**...
@@ -46,14 +46,14 @@
 
   <font color="red">例外</font>：有些既有阳性形式又有阴性形式
 
-| masculino |femenino | 释义 |
-| --- | --- | --- |
-| el gato | la gata | 猫 |
-| el perro | la perra | 狗 |
-| el león | la leona | 狮子 |
-| el caballo | la yegua | 马 |
-| el toro | la vaca | 牛 |
-| el gallo | la gallina | 鸡 |
+  | masculino |femenino | 释义 |
+  | --- | --- | --- |
+  | el gato | la gata | 猫 |
+  | el perro | la perra | 狗 |
+  | el león | la leona | 狮子 |
+  | el caballo | la yegua | 马 |
+  | el toro | la vaca | 牛 |
+  | el gallo | la gallina | 鸡 |
 
 ----
 

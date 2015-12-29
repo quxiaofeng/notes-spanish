@@ -25,12 +25,10 @@
 
   也可以用 **ese, esa, esos, esas** 指代离说话双方都远的事物。
 
-| | masculino | femenino |
-| --- | --- | --- |
-| **singular** | **este** <br> **ese** <br> **aquel** | **esta** <br> **esa** <br> **aquella** |
-| **plural** | **estos** <br> **esos** <br> **aquellos** | **estas**　<br> **esas** <br> **aquellas** |
-
------
+  | | masculino | femenino |
+  | --- | --- | --- |
+  | **singular** | **este** <br> **ese** <br> **aquel** | **esta** <br> **esa** <br> **aquella** |
+  | **plural** | **estos** <br> **esos** <br> **aquellos** | **estas**　<br> **esas** <br> **aquellas** |
 
 - **este, ese, aquel** 与名词连用，两者的性数保持一致
   > **Esa chica** es amiga de _Ana_. <br>
@@ -39,7 +37,6 @@
 - **este, ese, aquel** 也可以单独使用
   > ¿Cuál es tu maleta, **esta, esa** o **aquella**? <br>
   > **Este** es _Juan_, mi novio.
-
 
 - **este, ese, aquel** 可以用来指代时间
 

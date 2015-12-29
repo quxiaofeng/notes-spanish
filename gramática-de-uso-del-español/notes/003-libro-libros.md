@@ -11,12 +11,12 @@
 
 * 复数变化规则
 
-| singular | plural | ejemplos |
-| --- | --- | --- |
-| **-a, -e, -i, -o, -u <br> -á, -é, -ó, -ú** | **+s** | casa - casa**s**, libro - libro**s** <br> café - café**s**, <br> menú - menú**s** |
-| **-consonante <br> -, -y** | **+es** | frijol - frijoles, reloj - relojes, mes, meses <br> rubí - rubíes, ley - leyes |
-| **-as, -es, -is, -os, -us <br> (双音节或多音节单词)** | **no cambian** | el lun**es** - los lun**es** <br> el paragu**as** - los paragu**as** |
-| **-z** | **-z > c + es** | actri**z** - actri**ces**, pe**z** - pe**ces** |
+  | singular | plural | ejemplos |
+  | --- | --- | --- |
+  | **-a, -e, -i, -o, -u <br> -á, -é, -ó, -ú** | **+s** | casa - casa**s**, libro - libro**s** <br> café - café**s**, <br> menú - menú**s** |
+  | **-consonante <br> -, -y** | **+es** | frijol - frijoles, reloj - relojes, mes, meses <br> rubí - rubíes, ley - leyes |
+  | **-as, -es, -is, -os, -us <br> (双音节或多音节单词)** | **no cambian** | el lun**es** - los lun**es** <br> el paragu**as** - los paragu**as** |
+  | **-z** | **-z > c + es** | actri**z** - actri**ces**, pe**z** - pe**ces** |
 
 * 重音变化：
 
@@ -25,12 +25,12 @@
 
 * 有些词用复数形式表示单复数
 
-| singular | plural | 释义 |
-| --- | --- | --- |
-| tijeras | tijeras | 剪子 |
-| gafas | gafas | 眼镜 |
-| pantalones | pantalones | 裤子 |
-| vaqueros | vaqueros | 牛仔裤 |
+  | singular | plural | 释义 |
+  | --- | --- | --- |
+  | tijeras | tijeras | 剪子 |
+  | gafas | gafas | 眼镜 |
+  | pantalones | pantalones | 裤子 |
+  | vaqueros | vaqueros | 牛仔裤 |
 
 * 阳性 + 阴性 = 阳性复数
 

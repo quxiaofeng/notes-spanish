@@ -17,10 +17,10 @@
 
 - tan..., igual de ... 用来比较两个事物的某个性质是否相同，其形式为
 
-| igualdad (=) |  desigualdad (≠) |
-| ---- | ---- |
-| tan + adjetivo + como |  Soy **tan alto como** tú, pero no soy **tan fuerte**. <br> Un toro no es **tan rápido como** un caballo.
-| igual de + adjetivo (+ que) |  Soy **igual de alto que** mi hermano. <br> Mi hermano y yo somos **igual de altos**.
+  | igualdad (=) |  desigualdad (≠) |
+  | ---- | ---- |
+  | tan + adjetivo + como |  Soy **tan alto como** tú, pero no soy **tan fuerte**. <br> Un toro no es **tan rápido como** un caballo.
+  | igual de + adjetivo (+ que) |  Soy **igual de alto que** mi hermano. <br> Mi hermano y yo somos **igual de altos**. |
 
 - 一般把比较的两个事物放在一起时用 igual de + adjetivo
 
@@ -36,14 +36,14 @@
 
 - 比较
 
-| 肯定情况 | 否定情况 |
-| ---- | ---- |
-| _Juani_ es simpática. |  _Felipe_ es muy trabajador.  |
-| 肯定句中，tan + adjetivo + como 的 como 不可省略  |  否定句中 como 可以省略  |
-| <del>Pues _Loli_ es **tan simpática**.</del> |  Pues sus hermanos no son **tan trabajadores**.  |
-| Pues _Loli_ es **tan simpática** como ella. |  Pues sus hermanos no son **tan trabajadores como él**.  |
-| 肯定否定句中，igual de + adjetivo (+ que) 的 que 可以省略  |   |
-| Pues _Loli_ es **igual de simpática**.  |  Pues sus hermanos no son igual de trabajadores.  |
+  | 肯定情况 | 否定情况 |
+  | ---- | ---- |
+  | _Juani_ es simpática. |  _Felipe_ es muy trabajador.  |
+  | 肯定句中，tan + adjetivo + como 的 como 不可省略  |  否定句中 como 可以省略  |
+  | <del>Pues _Loli_ es **tan simpática**.</del> |  Pues sus hermanos no son **tan trabajadores**.  |
+  | Pues _Loli_ es **tan simpática** como ella. |  Pues sus hermanos no son **tan trabajadores como él**.  |
+  | 肯定否定句中，igual de + adjetivo (+ que) 的 que 可以省略  |   |
+  | Pues _Loli_ es **igual de simpática**.  |  Pues sus hermanos no son igual de trabajadores.  |
 
 - 有时候，使用 no + tan + adjetivo positivo (褒义形容词) 来替代 más + adjetivo negativo (贬义形容词) 或者 menos + adjetivo positivo 的情况
 

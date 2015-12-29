@@ -6,14 +6,14 @@
 
 - 反身动词可以理解为动作的主语和宾语都是同一个人
 
-| | levantarse |
-| --- | --- |
-| (yo) | **me** levant**o** |
-| (tú) | **te** levant**as** |
-| (él/ella/usted) | **se** levant**a** |
-| (nosotros/nosotras) | **nos** levant**amos** |
-| (vosotros/vosotras) | **os** levant**áis** |
-| (ellos/ellas/ustedes) | **se** levant**an** |
+  | | levantarse |
+  | --- | --- |
+  | (yo) | **me** levant**o** |
+  | (tú) | **te** levant**as** |
+  | (él/ella/usted) | **se** levant**a** |
+  | (nosotros/nosotras) | **nos** levant**amos** |
+  | (vosotros/vosotras) | **os** levant**áis** |
+  | (ellos/ellas/ustedes) | **se** levant**an** |
 
 - 其他动词：
 **despertarse, acostarse, vestirse, ducharse...**

@@ -11,10 +11,10 @@
 
 - 形容词的比较级用来比较人，动物或者事物。其形式如下：
 
-| superioridad (+) | inferioridad (-) | viejo | bueno |
-| --- | --- | --- | --- |
-| más + adjetivo (+ que) | menos + adjetivo (+ que) | +viejo > **mayor** <br> -viejo > **menor** | +bueno > **mejor** <br> -bueno > **peor** |
-| _Felipe_ es **más alto** que su hermana. <br> Necesitamos un piso **más grande**. | _Clara_ es **menos trabajadora** que _Gilberto_. | _Eva_ es **mayor** que _Javi_. <br> _Javi_ es **menor** que _Eva_. | El coche de _Ana_ es **mejor** que el de _Álvalo_. <br> El coche de _Álvalo_ es **peor** que el de _Ana_. |
+  | superioridad (+) | inferioridad (-) | viejo | bueno |
+  | --- | --- | --- | --- |
+  | más + adjetivo (+ que) | menos + adjetivo (+ que) | +viejo > **mayor** <br> -viejo > **menor** | +bueno > **mejor** <br> -bueno > **peor** |
+  | _Felipe_ es **más alto** que su hermana. <br> Necesitamos un piso **más grande**. | _Clara_ es **menos trabajadora** que _Gilberto_. | _Eva_ es **mayor** que _Javi_. <br> _Javi_ es **menor** que _Eva_. | El coche de _Ana_ es **mejor** que el de _Álvalo_. <br> El coche de _Álvalo_ es **peor** que el de _Ana_. |
 
 - 形容词与比较中指代的名词的性数一致。
   > Mis **hermanos** son más **altos** que yo. <br>

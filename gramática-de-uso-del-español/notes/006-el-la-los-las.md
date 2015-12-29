@@ -11,10 +11,10 @@
 
 - 定冠词的形式
 
-| | masculino | femenino |
-| --- | --- | --- |
-| **singular** | **el** <br> **el** padre, **el** libro | **la** <br> **la** madre, **la** hoja |
-| **plural** | **los** <br> **los** padres, **los** libros | **las**　<br> **las** madres, **las** hojas |
+  | | masculino | femenino |
+  | --- | --- | --- |
+  | **singular** | **el** <br> **el** padre, **el** libro | **la** <br> **la** madre, **la** hoja |
+  | **plural** | **los** <br> **los** padres, **los** libros | **las**　<br> **las** madres, **las** hojas |
 
 - 对于以 **a(á), ha(á)** 开头的单数阴性名词，使用 **el**
 

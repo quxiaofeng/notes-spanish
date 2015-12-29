@@ -11,10 +11,10 @@
 
 * 不定冠词形式
 
-||masculino|femenino|
-|--- | --- | ---|
-|**singular** | **un** <br> **un** chico, **un** abrigo | **una** <br> **una** chica, **una** casa|
-|**plural** | **unos** <br> **unos** chicos, **unos** abrigos | **unas**　<br> **unas** chicas, **unas** casas|
+  ||masculino|femenino|
+  |--- | --- | ---|
+  |**singular** | **un** <br> **un** chico, **un** abrigo | **una** <br> **una** chica, **una** casa|
+  |**plural** | **unos** <br> **unos** chicos, **unos** abrigos | **unas**　<br> **unas** chicas, **unas** casas|
 
 - 对于以 **a(á), ha(á)** 开头的单数阴性名词，使用 **un**
 
