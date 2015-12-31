@@ -190,3 +190,47 @@ Hay otras
   a 发音开头的单数名词用 el 不用 la
 
   > (el) alma pero (las) almas, (el) águila pero (las) águilas, (el) agua, (el) hambre, (el) ala...
+
+## Lección 5: Ana es muy alta
+
+- 比较级
+
+  > de superioridad <br>
+  > de igualdad <br>
+  > de inferioridad <br>
+
+  Superioridad
+
+  `A es/son más + adjetivo + que + B`
+
+  > Ana es más alta que Roberto.
+
+  Igualdad
+
+  `A es/son tan + adjetivo + como + B`
+
+  > El pelo de Mamen es tan rizado como el (pelo) de Teresa.
+
+  Inferioridad
+
+  `A es/son menos + adjetivo + que + B`
+
+  > Roberto es menos alto que Ana.
+
+- llamarse
+
+  Yo me llamo
+
+  > Yo me llamo Alberto.
+
+  Tú te llamas
+
+  > Tú te llamas Ana.
+
+  Ella se llama
+
+  > Ella se llama Blanca.
+
+  Él se llama
+
+  > Él se llama George Clooney.
