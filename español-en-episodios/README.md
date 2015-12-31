@@ -13,3 +13,5 @@ Youtube 上 `Español en Episodios` 系列的的笔记。
 - [Cap 04 Hay gustos y gustos](notes/episodio-4.md)
 - [Cap 05 Turistas con Problemas](notes/episodio-5.md)
 - [Cap 06 El genio incomprendido](notes/episodio-6.md)
+- [Cap 07 Confidencias Inesperadas](notes/episodio-7.md)
+- [Cap 08 Retrasos Justificados](notes/episodio-8.md)
