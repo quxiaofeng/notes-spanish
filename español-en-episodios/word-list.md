@@ -8,3 +8,5 @@
 | la cuenta | f. | 账户 | account |
 | el despacho | m. | 办公室 | office |
 | el genio | m. | 天才 | genius |
+| inesperado/a | adj. | 预料之外的 | unexpected |
+| el retraso | m. | 延缓，延迟 | delay | 
