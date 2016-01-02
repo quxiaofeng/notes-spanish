@@ -1013,3 +1013,57 @@
 | el salchichón | m. | 香肠 | sausage |
 | el jamón | m. | 火腿 | ham |
 | el atún | m. | 金枪鱼 | tuna |
+| la anchoa | f. | 凤尾鱼 | anchovy |
+| vegetal | adj. | 植物的 | vegetal |
+| la lechuga | f. | 生菜 | lettuce |
+| el tomate | m. | 西红柿 | tomato |
+| duro/a | adj. | 硬的 | hard |
+| el huevo | m. | 鸡蛋 | egg |
+| la cebolla | f. | 洋葱 | onion |
+| la tortilla | f. | 玉米饼 | tortilla |
+| la patata | f. | 土豆 | potato |
+| el bacon | m. | 培根 | bacon |
+| la hamburguesa | f. | 汉堡 | hamburger |
+| el lomo | m. | 背部，腰部 | back, loin |
+| el caramar | m. | 鱿鱼 | caramari |
+| mixto/a | adj. | 组合的，混合的 | mixed |
+| la salchicha | f. | 香肠 | sausage |
+| el pescado | m. | 鱼肉 | fish |
+| el embutido | m. | 冷鲜肉 | cold meat |
+| la verdura | f. | 蔬菜 | vagetable |
+| el lácteo | m. | 牛奶 | milk |
+| la salsa | f. | 酱汁 | sauce |
+| el condimento | m. | 调味品 | condiment |
+| imaginar | v. | 想象 | imagine |
+| probar | v. | 尝试 | taste, try |
+| la mayonesa | f. | 蛋黄酱 | mayonnaise |
+| la sopa | f. | 汤 | soup |
+| la ensalada | f. | 沙拉 | salad |
+| el macarrón | m. | 意大利面 | macaroni |
+| gratinado/a | adj. | 烤的 | grilled |
+| el pollo | m. | 猪肉 | pork |
+| la plancha | f. | 锅 | pan |
+| el pimiento | m. | 辣椒，胡椒粉 | pepper |
+| el flan | m. | 奶油蛋糕 | flan |
+| el melón | m. | 瓜 | melon |
+| el arroz | m. | 米饭 | rice |
+| la merluza | f. | 鳕鱼 | hake |
+| el gazpacho | m. | 西班牙冷汤菜 | gazpacho |
+| el canelón | m. | 意大利肉卷 | cannelloni |
+| el helado | m. | 冰淇淋 | ice cream |
+| el bistec | m. | 牛排 | beefsteak |
+| la fruta | f. | 水果 | fruit |
+| la lenteja | f. | 扁豆 | lentil |
+| la sardina | f. | 沙丁鱼 | sardine |
+| frito/a | adj. | 炒的 | fried |
+| la cuenta | f. | 账单 | bill |
+| mismo/a | adj. | 一样的 | same |
+| el gas | m. | 气 | gas |
+| enseguida | adv. | 马上 | right away |
+| ahora mismo | expr. | 马上 | right away |
+| el fideo | m. | 面 | noodle |
+| la situación | f. | 情况 | situation |
+| parecido/a | adj. | 相似的 | similar |
+| el cariño | m. | 亲爱的 | darling |
+| el zumo | m. | 果汁 | juice |
+| el cruasán | m. | 羊角面包 | croissant |

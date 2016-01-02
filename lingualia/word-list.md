@@ -66,5 +66,5 @@
 | ![](images/a1/0058.jpg) | rubio | adj., m. | 金色头发的（人） | Marylin Monroe es una de las rubias más famosas. | | |
 | ![](images/a1/0059.jpg) | romántico | adj., m. | 浪漫的 | Este chico es muy romántico. | apasionado | |
 | ![](images/a1/0060.jpg) | casarse | v., intr. | 结婚 | Ellos compran en el supermercado. | desposarse | divorciarse, separarse |
-| ![](images/a1/0061.jpg) | inteligente | adj., m./f. | 聪明的 | Albert Einstein es una persona inteligente. | tonto | tonto, ignorante |
+| ![](images/a1/0061.jpg) | inteligente | adj., m./f. | 聪明的 | Albert Einstein es una persona inteligente. | listo | tonto, ignorante |
 | ![](images/a1/0062.jpg) | rizado | adj., m. | 卷发的 | La chica de la foto tiene el pelo rizado. | ondulado | liso |
