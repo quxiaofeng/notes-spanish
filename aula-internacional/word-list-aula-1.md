@@ -1067,3 +1067,14 @@
 | el cariño | m. | 亲爱的 | darling |
 | el zumo | m. | 果汁 | juice |
 | el cruasán | m. | 羊角面包 | croissant |
+| el licor | m. | 酒 | liquor |
+| el pepino | m. | 黄瓜 | cucumber |
+| el ajo | m. | 大蒜 | garlic |
+| el vinagre | m. | 醋 | vinegar |
+| la sangría | f. | 桑格利亚酒 | sangria |
+| el guisado | m. | 炖菜 | stew |
+| cocido/a | adj. | 煮的 | cooked, boiled |
+| crudo/a | adj. | 生的，未煮熟的 | raw, undercooked |
+| el horno | m. | 烤箱 | oven |
+| la romana | f. | 秤 | steelyard |
+| el acompañamiento | m. | 附加物 | accompaniment |
