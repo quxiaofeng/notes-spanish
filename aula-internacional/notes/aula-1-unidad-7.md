@@ -74,7 +74,7 @@
 
 - 食物的做法 Maneras de cocinar
 
-  > frito/a/os/as 炒的 <br>
+  > frito/a/os/as 炸的 <br>
   > guisado/a/os/as 炖的 <br>
   > cocido/a/os/as 煮的 <br>
   > asado/a/os/as 烤的 <br>
@@ -94,3 +94,20 @@
 
   > ¿El pollo va **con** acompañamiento? <br>
   > Sí, **con** ensalada o **con** patatas.
+
+- 一日三餐
+
+  早餐：el desayuno, desayunar
+
+  午餐：la comida / el almuerzo, comer / almorzar
+
+  下午茶：la merienda, merendar (i -> ie)
+
+  晚餐：la cena, cenar
+
+  > ¿Qué **desayunas** normalmente? <br>
+  > Un zumo y unas tostadas.
+
+### 文化小知识
+
+西班牙是世界上第二大鱼肉消费国。
