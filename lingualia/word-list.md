@@ -68,3 +68,50 @@
 | ![](images/a1/0060.jpg) | casarse | v., intr. | 结婚 | Ellos compran en el supermercado. | desposarse | divorciarse, separarse |
 | ![](images/a1/0061.jpg) | inteligente | adj., m./f. | 聪明的 | Albert Einstein es una persona inteligente. | listo | tonto, ignorante |
 | ![](images/a1/0062.jpg) | rizado | adj., m. | 卷发的 | La chica de la foto tiene el pelo rizado. | ondulado | liso |
+| ![](images/a1/0063.jpg) | ayuntamiento | s., m. | 市政厅 | El Ayuntamiento de mi pueblo está en la plaza principal. | casa consistorial | |
+| ![](images/a1/0064.jpg) | catedral | s., f. | 教堂 | La catedral de Notre Dame en París es muy bonita. | | |
+| ![](images/a1/0065.jpg) | estación | s., f. | 车站 | Esta estación de metro se llama Chueca. | parada, apeadero, terminal | |
+| ![](images/a1/0066.jpg) | metro | s., m. | 地铁 | El metro es un medio de transporte muy rápido. | | |
+| ![](images/a1/0067.jpg) |
+| ![](images/a1/0068.jpg) |
+| ![](images/a1/0069.jpg) |
+| ![](images/a1/0070.jpg) |
+| ![](images/a1/0071.jpg) |
+| ![](images/a1/0072.jpg) |
+| ![](images/a1/0073.jpg) |
+| ![](images/a1/0074.jpg) |
+| ![](images/a1/0075.jpg) |
+| ![](images/a1/0076.jpg) |
+| ![](images/a1/0077.jpg) |
+| ![](images/a1/0078.jpg) |
+| ![](images/a1/0079.jpg) |
+| ![](images/a1/0080.jpg) |
+| ![](images/a1/0081.jpg) |
+| ![](images/a1/0082.jpg) |
+| ![](images/a1/0083.jpg) |
+| ![](images/a1/0084.jpg) |
+| ![](images/a1/0085.jpg) |
+| ![](images/a1/0086.jpg) |
+| ![](images/a1/0087.jpg) |
+| ![](images/a1/0088.jpg) |
+| ![](images/a1/0089.jpg) |
+| ![](images/a1/0080.jpg) |
+| ![](images/a1/0081.jpg) |
+| ![](images/a1/0082.jpg) |
+| ![](images/a1/0083.jpg) |
+| ![](images/a1/0084.jpg) |
+| ![](images/a1/0085.jpg) |
+| ![](images/a1/0086.jpg) |
+| ![](images/a1/0087.jpg) |
+| ![](images/a1/0088.jpg) |
+| ![](images/a1/0089.jpg) |
+| ![](images/a1/0090.jpg) |
+| ![](images/a1/0091.jpg) |
+| ![](images/a1/0092.jpg) |
+| ![](images/a1/0093.jpg) |
+| ![](images/a1/0094.jpg) |
+| ![](images/a1/0095.jpg) |
+| ![](images/a1/0096.jpg) |
+| ![](images/a1/0097.jpg) |
+| ![](images/a1/0098.jpg) |
+| ![](images/a1/0099.jpg) |

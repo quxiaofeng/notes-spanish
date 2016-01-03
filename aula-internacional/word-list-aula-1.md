@@ -1037,7 +1037,7 @@
   | la ensalada | f. | 沙拉 | salad |
   | el macarrón | m. | 意大利面 | macaroni |
   | gratinado/a | adj. | 烤的 | grilled |
-  | el pollo | m. | 猪肉 | pork |
+  | el pollo | m. | 小鸡，鸡肉 | chicken |
   | la plancha | f. | 锅 | pan |
   | el pimiento | m. | 辣椒，胡椒粉 | pepper |
   | el flan | m. | 奶油蛋糕 | flan |
