@@ -72,14 +72,14 @@
 | ![](images/a1/0064.jpg) | catedral | s., f. | 教堂 | La catedral de Notre Dame en París es muy bonita. | | |
 | ![](images/a1/0065.jpg) | estación | s., f. | 车站 | Esta estación de metro se llama Chueca. | parada, apeadero, terminal | |
 | ![](images/a1/0066.jpg) | metro | s., m. | 地铁 | El metro es un medio de transporte muy rápido. | | |
-| ![](images/a1/0067.jpg) |
-| ![](images/a1/0068.jpg) |
-| ![](images/a1/0069.jpg) |
-| ![](images/a1/0070.jpg) |
-| ![](images/a1/0071.jpg) |
-| ![](images/a1/0072.jpg) |
-| ![](images/a1/0073.jpg) |
-| ![](images/a1/0074.jpg) |
+| ![](images/a1/0067.jpg) | autobús | s., m. | 公交车 | Yo todos los días tomo el autobús para ir al trabajo. | autocar, colectivo, guagua | |
+| ![](images/a1/0068.jpg) | bicicleta | s., f. | 自行车 | La bicicleta es muy práctica en pequeñas ciudades. | | |
+| ![](images/a1/0069.jpg) | cruzar | v., tr. | 穿过 | Yo cruzo la calle por el paso de cebra. | | |
+| ![](images/a1/0070.jpg) | ruidoso | adj., m. | 吵闹的 | El tráfico en las grandes ciudades es muy ruidoso. | sonoro | silencioso, tranquilo |
+| ![](images/a1/0071.jpg) | barato | adj. m. | 便宜的 | Este ordenador es más barato que aquel. | económico | caro |
+| ![](images/a1/0072.jpg) | Correos | s., m. | 邮局 | Voy a Correos a mandar una carta para mi familia. | | |
+| ![](images/a1/0073.jpg) | barrio | s., m. | 社区 | Nosotros vivimos en el barrio de Lavapiés en Madrid. | distrito, barriada, zona | |
+| ![](images/a1/0074.jpg) | teatro | s., m. | 剧院 | El Teatro Principal es el más grande de la ciudad. | sala | |
 | ![](images/a1/0075.jpg) |
 | ![](images/a1/0076.jpg) |
 | ![](images/a1/0077.jpg) |
