@@ -14,6 +14,15 @@
 
   > Ella **es** profesora de Pilates.
 
+- 27 个字母
+
+  > a, A (a); b, B (be); c, C (ce); d, D (de); <br>
+  > e, E (e); f, F (efe); g, G (ge); h, H (hache); i, I (i); <br>
+  > j, J (jota); k, K (ca); l, L (ele); m, M (eme); <br>
+  > n, N (ene); ñ, Ñ (eñe); o, O (o); p, P (pe); q, Q (cu); <br>
+  > r, R (erre); s, S (ese); t, T (te); u, U (u); <br>
+  > v, V (uve); w, W (uve doble); x, X (equis); y, Y (i griega); z, Z (zeta)
+
 ## Lección 2: Buenos días, ¿cómo está usted?
 
 - Tú y usted
@@ -52,6 +61,53 @@
   aquel/aquella 表示离说话人距离很远的人或物：
 
   > Aquel es Dawei.
+
+- 元音发音：
+
+  A, a
+
+  [a]
+
+  > [aɾ.má.ɾjo] armario <br>
+  > [á.ɲo] año <br>
+  > [pá.lo] palo <br>
+  > [ó.la] ola
+
+  E, e
+
+  [e]
+
+  > [en.ten.di.mjén.to] entendimiento <br>
+  > [pé.lo] pelo <br>
+  > [an.té.na] antena <br>
+  > [me.ɾen.dáɾ] merendar
+
+  I, i
+
+  [i]
+
+  > [í.po] hipo <br>
+  > [í.xa] hija <br>
+  > [i.ɾi.sá.ðo] irisado <br>
+  > [mí.na] mina
+
+  O, o
+
+  [o]
+
+  > [ó.xo] ojo <br>
+  > [mó.no] mono <br>
+  > [go.ló.so] goloso <br>
+  > [to.má.te] tomate
+
+  U, u
+
+  [u]
+
+  > [u.ma.ni.ðád] humanidad <br>
+  > [un.dí.ðo] hundido <br>
+  > [mún.do] mundo <br>
+  > [tu.li.pán] tulipán
 
 ## Lección 3: ¿Cuál es tu número de teléfono?
 
@@ -106,6 +162,46 @@
   > director-directores
 
   > En la imagen hay cuatro jugadores y un entrenador.
+
+- 辅音发音
+
+  B, b
+
+  > [bwé.no] bueno <br>
+  > [óm.bɾe] hombre <br>
+  > [kú.βo] cubo
+
+  C, c
+
+  在 a, o, u 前面：[k]
+
+  > [ká.sa] casa <br>
+  > [sá.ko] saco <br>
+  > [kwán.do] cuando
+
+  c, C
+
+  在 e, i 前面：[θ]
+
+  > [θé.ro] cero <br>
+  > [θíɾ.ku.lo] círculo <br>
+  > [re.θé.ta] receta
+
+  D, d
+
+  [d]：
+
+  > [dós] dos <br>
+  > [mún.do] mundo <br>
+  > [tól.do] toldo
+
+  d, D
+
+  [ð]：
+
+  > [pa.ɾá.ða] parada <br>
+  > [táɾ.ðe] tarde <br>
+  > [dá.ðo] dado
 
 ## Lección 4: ¿A qué te dedicas?
 
@@ -191,6 +287,43 @@ Hay otras
 
   > (el) alma pero (las) almas, (el) águila pero (las) águilas, (el) agua, (el) hambre, (el) ala...
 
+
+- 辅音发音
+
+  F, f
+
+  > [fɾí.o] frío <br>
+  > [em.féɾ.mo] enfermo <br>
+  > [so.fá] sofá <br>
+  > [ka.fé] café
+
+  G, g
+
+  后面是 a, o, u, ue, ui：[g]
+
+  > [gá.to] gato <br>
+  > [gó.ma] goma <br>
+  > [gwán.te] guante <br>
+  > [gé.ra] guerra <br>
+  > [gi.tá.ra] guitarra
+
+  g, G
+
+  后面是 e, i：[x]
+
+  > [xe.ne.ɾa.θjón] generación <br>
+  > [xim.ná.sja] gimnasia <br>
+  > [áŋ.xel] ángel
+
+  H, h
+
+  一般不发音
+
+  ch 发音：[t∫]
+  > [kó.t∫e] coche <br>
+  > [ku.ku.ɾú.t∫o] cucurucho <br>
+  > [t∫í.ko] chico
+
 ## Lección 5: Ana es muy alta
 
 - 比较级
@@ -234,3 +367,24 @@ Hay otras
   Él se llama
 
   > Él se llama George Clooney.
+
+- 辅音发音
+
+  J, j
+
+  > [xa.món] jamón <br>
+  > [ró.xo] rojo <br>
+  > [xúŋ.ko] junco <br>
+  > [ma.sá.xe] masaje
+
+  K, k
+
+  > [kí.lo] kilo <br>
+  > [ko.á.la] koala <br>
+  > [ka.ɾa.ó.ke] karaoke
+
+  L, l
+
+  > [lú.nes] lunes <br>
+  > [kál.do] caldo <br>
+  > [lón.dɾes] Londres

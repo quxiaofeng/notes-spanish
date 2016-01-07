@@ -80,38 +80,88 @@
 | ![](images/a1/0072.jpg) | Correos | s., m. | 邮局 | Voy a Correos a mandar una carta para mi familia. | | |
 | ![](images/a1/0073.jpg) | barrio | s., m. | 社区 | Nosotros vivimos en el barrio de Lavapiés en Madrid. | distrito, barriada, zona | |
 | ![](images/a1/0074.jpg) | teatro | s., m. | 剧院 | El Teatro Principal es el más grande de la ciudad. | sala | |
-| ![](images/a1/0075.jpg) |
-| ![](images/a1/0076.jpg) |
-| ![](images/a1/0077.jpg) |
-| ![](images/a1/0078.jpg) |
-| ![](images/a1/0079.jpg) |
-| ![](images/a1/0080.jpg) |
-| ![](images/a1/0081.jpg) |
-| ![](images/a1/0082.jpg) |
-| ![](images/a1/0083.jpg) |
-| ![](images/a1/0084.jpg) |
-| ![](images/a1/0085.jpg) |
-| ![](images/a1/0086.jpg) |
-| ![](images/a1/0087.jpg) |
-| ![](images/a1/0088.jpg) |
-| ![](images/a1/0089.jpg) |
-| ![](images/a1/0080.jpg) |
-| ![](images/a1/0081.jpg) |
-| ![](images/a1/0082.jpg) |
-| ![](images/a1/0083.jpg) |
-| ![](images/a1/0084.jpg) |
-| ![](images/a1/0085.jpg) |
-| ![](images/a1/0086.jpg) |
-| ![](images/a1/0087.jpg) |
-| ![](images/a1/0088.jpg) |
-| ![](images/a1/0089.jpg) |
-| ![](images/a1/0090.jpg) |
-| ![](images/a1/0091.jpg) |
-| ![](images/a1/0092.jpg) |
-| ![](images/a1/0093.jpg) |
-| ![](images/a1/0094.jpg) |
-| ![](images/a1/0095.jpg) |
-| ![](images/a1/0096.jpg) |
-| ![](images/a1/0097.jpg) |
-| ![](images/a1/0098.jpg) |
-| ![](images/a1/0099.jpg) |
+| ![](images/a1/0075.jpg) | playa | s., f. | 海滩 | En verano estamos en la playa. | | |
+| ![](images/a1/0076.jpg) | monumento | s., m. | 纪念碑 | El Taj Mahal es uno de los monumentos más visitados de la India. | | |
+| ![](images/a1/0077.jpg) | farmacia | s., f. | 药店 | La farmacia tiene una cruz de color verde. | botica, laboratorio, herbolario | |
+| ![](images/a1/0078.jpg) | hospital | s., m. | 医院 | Esta es la puerta de urgencias del hospital. | clínica | | |
+| ![](images/a1/0079.jpg) | iglesia | s., f. | 教堂 | En la iglesia se celebra una boda. | templo, basílica, parroquia, ermita, catedral, santuario, capilla | |
+| ![](images/a1/0080.jpg) | cine | s., m. | 电影院 | Hay muchas personas en la taquilla del cine. | | |
+| ![](images/a1/0081.jpg) | centro comercial | s., m. | 商业中心 | Harrods es el centro comercial más famoso de Londres. | grandes almacenes | |
+| ![](images/a1/0082.jpg) | moderno | adj., m. | 现代的 | nuevo, actual, reciente, fresco | antiguo, obsoleto |
+| ![](images/a1/0083.jpg) | caminar | v., intr. | 走路 | Yo camino para ir a la escuela. | andar, pasear | detenerse |
+| ![](images/a1/0084.jpg) | girar | v., intr. | 转 | Giras a la derecha y está la escuela. | torcer, doblar | ir recto |
+| ![](images/a1/0085.jpg) | reservar | v., tr. | 保留，预定 | Esta mesa del restaurante está reservada. | hacer una reserva, concertar |
+| ![](images/a1/0086.jpg) | restaurante | s., m. | 餐厅 | En este restaurante sirven comida italiana. | bar, cafetería |
+| ![](images/a1/0087.jpg) | gordo | adj. | 肥胖的 | Este niño está muy gordo. | grueso, obeso | delgado, flaco |  
+| ![](images/a1/0088.jpg) | bocadillo | s., m. | 夹心面包 | Este bocadillo es de jamón. | bocata | |
+| ![](images/a1/0089.jpg) | fruta | s., f. | 水果 | La fruta que más me gusta es la manzana. | | |
+| ![](images/a1/0090.jpg) | beber | v., tr. | 喝 | Hoy bebo una cerveza. | tomar | |
+| ![](images/a1/0091.jpg) | comer | v., tr. | 吃 | Julia, Luca y sus amigos comen pizza. | tragar, zampar | ayunar |
+| ![](images/a1/0092.jpg) | ensalada | s., f. | 沙拉 | La ensalada es un plato frío. | | |
+| ![](images/a1/0093.jpg) | paella | s., f. | 菜饭 | Esta paella es muy grande. | | |
+| ![](images/a1/0094.jpg) | tortilla | s., f. | 鸡蛋卷 | La tortilla española lleva patata y cebolla. | | |
+| ![](images/a1/0095.jpg) | frío | adj., m. | 冷的 | Esta ciudad es muy fría. | | |
+| ![](images/a1/0096.jpg) | camarero | s., m. | 服务员 | El camarero sirve las bebidas. | mesero (en Argentina) | |
+| ![](images/a1/0097.jpg) | menú | s., m. | 菜单 | El menú del día cuesta 10 euros. | carta | |
+| ![](images/a1/0098.jpg) | postre | s., m. | 甜点 | Hoy de postre como flan. | | |
+| ![](images/a1/0099.jpg) | desayunar | v., tr. | 吃早饭 | Ella desayuna un café y tostadas. | almorzar | ayunar |
+| ![](images/a1/0100.jpg) | leche | s., f. | 牛奶 | El niño bebe un vaso de leche. | | |
+| ![](images/a1/0101.jpg) | sándwich | s. m. | 三明治 | Este sándwich es vegetal: sólo está relleno de verdura, no carne. | bocadillo | |
+| ![](images/a1/0102.jpg) | queso | s., m. | 奶酪 | A los niños les gusta mucho el queso. | | |
+| ![](images/a1/0103.jpg) | jamón | s., m. | 火腿 | El camarero corta jamón. | | |
+| ![](images/a1/0104.jpg) | ordenar | v., tr. | 整理 | Yo ordeno mi habitación. | organizar, arreglar, clasificar | desordenar |
+| ![](images/a1/0105.jpg) | limpiar | v., tr. | 清理 | El chico limpia la casa. | lavar | manchar, ensuciar |
+| ![](images/a1/0106.jpg) | cenar | v., tr. | 吃晚餐 | Ellos cenan en un restaurante. | | |
+| ![](images/a1/0107.jpg) | yogur | s., m. | 酸奶 | Este yogur es de fresa. | | |
+| ![](images/a1/0108.jpg) | pescado | s., m. | 鱼肉 | Este pescado es muy grande. | pez | |
+| ![](images/a1/0109.jpg) | agua | s., f. | 水 | Esta botella de agua es de dos litros. | | |
+| ![](images/a1/0110.jpg) | correr | v., tr. | 跑 | El atleta corre en el maratón. | | |
+| ![](images/a1/0111.jpg) | periódico | s., m. | 报纸 | Mi abuelo lee el periódico. | diario | |
+| ![](images/a1/0112.jpg) |
+| ![](images/a1/0113.jpg) |
+| ![](images/a1/0114.jpg) |
+| ![](images/a1/0115.jpg) |
+| ![](images/a1/0116.jpg) |
+| ![](images/a1/0117.jpg) |
+| ![](images/a1/0118.jpg) |
+| ![](images/a1/0119.jpg) |
+| ![](images/a1/0120.jpg) |
+| ![](images/a1/0121.jpg) |
+| ![](images/a1/0122.jpg) |
+| ![](images/a1/0123.jpg) |
+| ![](images/a1/0124.jpg) |
+| ![](images/a1/0125.jpg) |
+| ![](images/a1/0126.jpg) |
+| ![](images/a1/0127.jpg) |
+| ![](images/a1/0128.jpg) |
+| ![](images/a1/0129.jpg) |
+| ![](images/a1/0130.jpg) |
+| ![](images/a1/0131.jpg) |
+| ![](images/a1/0132.jpg) |
+| ![](images/a1/0133.jpg) |
+| ![](images/a1/0134.jpg) |
+| ![](images/a1/0135.jpg) |
+| ![](images/a1/0136.jpg) |
+| ![](images/a1/0137.jpg) |
+| ![](images/a1/0138.jpg) |
+| ![](images/a1/0139.jpg) |
+| ![](images/a1/0140.jpg) |
+| ![](images/a1/0141.jpg) |
+| ![](images/a1/0142.jpg) |
+| ![](images/a1/0143.jpg) |
+| ![](images/a1/0144.jpg) |
+| ![](images/a1/0145.jpg) |
+| ![](images/a1/0146.jpg) |
+| ![](images/a1/0147.jpg) |
+| ![](images/a1/0148.jpg) |
+| ![](images/a1/0149.jpg) |
+| ![](images/a1/0150.jpg) |
+| ![](images/a1/0151.jpg) |
+| ![](images/a1/0152.jpg) |
+| ![](images/a1/0153.jpg) |
+| ![](images/a1/0154.jpg) |
+| ![](images/a1/0155.jpg) |
+| ![](images/a1/0156.jpg) |
+| ![](images/a1/0157.jpg) |
+| ![](images/a1/0158.jpg) |
+| ![](images/a1/0159.jpg) |
