@@ -75,15 +75,15 @@
 
 - 国籍
 
-  |阳性|阴性|阴阳性一致|
-  |---|---|---|
-  |**-o** <br> italian**o** <br> turc**o** <br> **-consonante** <br> alemán <br> francés | **-a** <br> italian**a** <br> turc**a** <br> **-consonante + a** <br> aleman**a** <br> frances**a**| belg**a** <br> marroqu**í** <br> estadounid**ense** |
+  | 阳性 | 阴性 | 阴阳性一致 |
+  | --- | --- | --- |
+  | **-o** <br> italian**o** <br> turc**o** <br> **-consonante** <br> alemán <br> francés | **-a** <br> italian**a** <br> turc**a** <br> **-consonante + a** <br> aleman**a** <br> frances**a**| belg**a** <br> marroqu**í** <br> estadounid**ense** |
 
 - 职业
 
-  |阳性|阴性|阴阳性一致|
-  |---|---|---|
-  |camarer**o**<br>cociner**o**<br>secretari**o** | camarer**a**<br>cociner**a**<br>secretari**a** | period**ista**<br>deport**ista**<br>estudiant**e**|
+  | 阳性 | 阴性 | 阴阳性一致 |
+  | --- | --- | --- |
+  | camarer**o**<br>cociner**o**<br>secretari**o** | camarer**a**<br>cociner**a**<br>secretari**a** | period**ista**<br>deport**ista**<br>estudiant**e**|
 
 ### 动词变位
 
@@ -95,14 +95,14 @@
 
 - ser, tener, llamarse 的变位
 
-  | | ser | tener | llamarse|
-  |---|---|---|---|
-  |(yo) | soy | tengo | me llamo|
-  |(tú) | eres | tienes | te llamas|
-  |(él/ella/usted) | es | tiene |se llama|
-  |(nosotros/nosotras) | somos | tenemos | nos llamamos|
-  |(vosotros/vosotras) | sois | tenéis | os llamáis|
-  |(ellos/ellas/ustedes) | son | tienen | se llaman|
+  | | ser | tener | llamarse |
+  | --- | --- | --- | --- |
+  | (yo) | soy | tengo | me llamo |
+  | (tú) | eres | tienes | te llamas |
+  | (él/ella/usted) | es | tiene |se llama |
+  | (nosotros/nosotras) | somos | tenemos | nos llamamos |
+  | (vosotros/vosotras) | sois | tenéis | os llamáis |
+  | (ellos/ellas/ustedes) | son | tienen | se llaman |
 　　
 ### 文化小知识
 #### 姓名
@@ -119,10 +119,10 @@
 
 #### 不同国家打招呼和告别的差异
 
-|País | Saludos | Despedidas |
-|----|-----|-----|
+| País | Saludos | Despedidas |
+| ---- | ---- | ---- |
 | Argentina | Hola, ¿qué tal? ¿Todo bien? | Chau, nos vemos |
 | Venezuela | Hola, ¿comó están? | Chao y hasta la próxima. |
 | Cuba | Hola, ¿qué tal? | Hasta luego. |
 | España | | Adiós, hasta luego. |
-| México | ¿Qué ondá? ¿Comó estás? | <br> |
+| México | ¿Qué ondá? ¿Comó estás? | |
