@@ -1,7 +1,7 @@
 ﻿# Masculinos, femeninos (1)
 阳性，阴性名词(1)
 
------
+----
 
 > El hijo, el padre son nombres masculinos. 儿子、父亲是阳性名词。
 > <br>
@@ -9,7 +9,7 @@
 
 ----
 
-* 在西语中，表示人物的名词是有阳性和阴性之分的。
+- 在西语中，表示人物的名词是有阳性和阴性之分的。
 
   指代男性的名词是阳性的。
 
@@ -19,7 +19,7 @@
   | --- | --- | ---|
   | el hijo <br> el padre <br> el camarero <br> el doctor <br> el estudiante <br> el taxista | la hija <br> la madre <br> la camarera <br> la doctora <br> la estudiante <br> la taxista | 儿子/女儿 <br> 父亲/母亲 <br> 男/女服务员 <br> 男/女医生 <br> 男/女学生 <br> 男/女出租司机|
 
-* 阴性变化规则
+- 阴性变化规则
 
   大多数名词根据结尾的不同来变换词性（见下表）
 
@@ -51,7 +51,7 @@
   |**-o, -e** <br> el niñ**o** <br> el cociner**o** <br> el dependient**e** | **-a** <br> la niñ**a** <br> la cociner**a** <br> la dependient**a** | **pero** <br> el pilot**o** - la pilot**o** <br> el pacient**e** - la pacient**e** <br> el model**o** - la model**o**|
   |**-consonante(辅音)** <br> el profeso**r** <br> el directo**r** <br> el marqué**s** | **+a** <br> la profesor**a** <br> la director**a** <br> la marqués**a** | **pero** <br> el jove**n** - la jove**n**|
 
-* 修饰名词的词也随名词词性变化而变化
+- 修饰名词的词也随名词词性变化而变化
   > **aquel** chico **rubio** - **aquela** chica **rubia** <br>
   > **un** hombre **alto** - **una** mujer **alta**
 
