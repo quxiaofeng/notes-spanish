@@ -4,59 +4,66 @@
 
 ### 字母表 Abecedario
 
-| 字母 | 读音 | 字母 | 读音 | 字母 | 读音 | 字母 | 读音 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| A | a | H | hache | Ñ | eñe | U | u |
-| B | be | I | i | O | o | V | uve |
-| C | ce | J | jota | P | pe | W | uve |
-| D | de | K | ca | Q | cu |  | doble |
-| E | e | L | ele | R | erre | X | equis |
-| F | efe | M | eme | S | ese | Y | i griega |
-| G | ge | N | ene | T | te | Z | ceta |
+- 字母表
+
+  | 字母 | 读音 | 字母 | 读音 | 字母 | 读音 | 字母 | 读音 |
+  | --- | --- | --- | --- | --- | --- | --- | --- |
+  | A | a | H | hache | Ñ | eñe | U | u |
+  | B | be | I | i | O | o | V | uve |
+  | C | ce | J | jota | P | pe | W | uve |
+  | D | de | K | ca | Q | cu |  | doble |
+  | E | e | L | ele | R | erre | X | equis |
+  | F | efe | M | eme | S | ese | Y | i griega |
+  | G | ge | N | ene | T | te | Z | ceta |
 
 ### 个人资料 Datos Personales
 
-| 提问 | 回答 |
-| --- | ---- |
-| **¿Cómo te llamas / se llama?** | **(Me llamo)** Katia Vigny. |
-| **¿Cuál es tu / su nombre?** | Katia. |
-| **¿Cuál es tu / su apellido?** | Vigny. |
-| **¿De dónde eres?** | **Soy** alemán/alemania. |
-| | **(Soy) de** Berlín. |
-| **¿Eres/Es francesa?** | **No, soy** italiano/a. |
-| | **Sí, (soy) de** París. |
-| **¿Cuántos años tienes/tiene?** | 23. |
-| | **Tengo** 23 **años**. |
-| **¿En qué trabajas / trabaja?** | **Soy** profesor/a. |
-| **¿A qué te dedicas / se dedica?** | **Trabajo en** un banco. |
-| | **Trabajo de** camarero/a. |
-| **¿Cuál es tu número de teléfono?** | **(Es el)** 93 555689. |
-| **¿Tienes / tiene móvil?** | **Sí, es el** 627629047 |
-| **¿Tienes / tiene correo electrónico?** | **Sí**, predo86@aula.com |
+- 个人信息
+
+  | 提问 | 回答 |
+  | --- | ---- |
+  | **¿Cómo te llamas / se llama?** | **(Me llamo)** Katia Vigny. |
+  | **¿Cuál es tu / su nombre?** | Katia. |
+  | **¿Cuál es tu / su apellido?** | Vigny. |
+  | **¿De dónde eres?** | **Soy** alemán/alemania. |
+  | | **(Soy) de** Berlín. |
+  | **¿Eres/Es francesa?** | **No, soy** italiano/a. |
+  | | **Sí, (soy) de** París. |
+  | **¿Cuántos años tienes/tiene?** | 23. |
+  | | **Tengo** 23 **años**. |
+  | **¿En qué trabajas / trabaja?** | **Soy** profesor/a. |
+  | **¿A qué te dedicas / se dedica?** | **Trabajo en** un banco. |
+  | | **Trabajo de** camarero/a. |
+  | **¿Cuál es tu número de teléfono?** | **(Es el)** 93 555689. |
+  | **¿Tienes / tiene móvil?** | **Sí, es el** 627629047 |
+  | **¿Tienes / tiene correo electrónico?** | **Sí**, predo86@aula.com |
 
 ### 数字 Números
 
-| 数字 | 读音 | 数字 | 读音 |
-| ---- | ---- | ---- | ---- |
-| 0 | cero | 17 | diecisiete |
-| 1 | uno | 18 | dieciocho |
-| 2 | dos | 19 | diecinueve |
-| 3 | tres | 20 | veinte |
-| 4 | cuatro | 21 | veintiuno |
-| 5 | cinco | 22 | veintidós |
-| 6 | seis | 23 | veintitrés |
-| 7 | siete | 24 | veinticuatro |
-| 8 | ocho | 30 | treinta |
-| 9 | nueve | 31 | trienta y uno |
-| 10 | diez | 40 | cuarenta |
-| 11 | once | 50 | cincuenta |
-| 12 | doce | 60 | sesenta |
-| 13 | trece | 70 | setenta |
-| 14 | catorce | 80 | ochenta |
-| 15 | quince | 90 | noventa |
-| 16 | dieciséis | 100 | cien |
+- 数字
+
+  | 数字 | 读音 | 数字 | 读音 |
+  | ---- | ---- | ---- | ---- |
+  | 0 | cero | 17 | diecisiete |
+  | 1 | uno | 18 | dieciocho |
+  | 2 | dos | 19 | diecinueve |
+  | 3 | tres | 20 | veinte |
+  | 4 | cuatro | 21 | veintiuno |
+  | 5 | cinco | 22 | veintidós |
+  | 6 | seis | 23 | veintitrés |
+  | 7 | siete | 24 | veinticuatro |
+  | 8 | ocho | 30 | treinta |
+  | 9 | nueve | 31 | trienta y uno |
+  | 10 | diez | 40 | cuarenta |
+  | 11 | once | 50 | cincuenta |
+  | 12 | doce | 60 | sesenta |
+  | 13 | trece | 70 | setenta |
+  | 14 | catorce | 80 | ochenta |
+  | 15 | quince | 90 | noventa |
+  | 16 | dieciséis | 100 | cien |
 
 ### 招呼和告别 Saludar y Despedirse
+
 - 招呼
   > Buenos días. <br>
   > Buenas tardes. <br>
@@ -105,6 +112,7 @@
   | (ellos/ellas/ustedes) | son | tienen | se llaman |
 　　
 ### 文化小知识
+
 #### 姓名
 
 在大多数说西语的国家，人们有两个姓氏：第一个是父亲的第一姓氏，第二个是母亲的第一姓氏。

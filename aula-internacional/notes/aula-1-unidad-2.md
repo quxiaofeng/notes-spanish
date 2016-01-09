@@ -4,78 +4,86 @@
 
 ### 表达想法 Expresar Intención
 
-|  | querer | + Infinitivo |
-| --- | --- | --- |
-| (yo) | qu**ie**ro | |
-| (tú) | qu**ie**res | viajar |
-| (él/ella/usted) | qu**ie**re | tener hijos |
-| (nosotros/nosotras) | queremos | ir a la Luna |
-| (vosotros/vosotras) | queréis | |
-| (ellos/ellas/ustedes) | qu**ie**ren | |
+- querer
+
+  |  | querer | + Infinitivo |
+  | --- | --- | --- |
+  | (yo) | qu**ie**ro | |
+  | (tú) | qu**ie**res | viajar |
+  | (él/ella/usted) | qu**ie**re | tener hijos |
+  | (nosotros/nosotras) | queremos | ir a la Luna |
+  | (vosotros/vosotras) | queréis | |
+  | (ellos/ellas/ustedes) | qu**ie**ren | |
 
 ### 表达兴趣 Expresar Intereses
 
-| | |interesar|
-|---|---|---|
-|(A mí) | me | |
-|(A ti) | te | |
-|(A él/ella/usted) | se | interes**a el curso** de gramática. |
-|(A nosotros/nosotras) | nos | interes**an los cursos** de cocina. |
-|(A vosotros/vosotras) | os | |
-|(A ellos/ellas/ustedes) | les | |
+- interesar
+
+  | | | interesar |
+  | --- | --- | --- |
+  | (A mí) | me | |
+  | (A ti) | te | |
+  | (A él/ella/usted) | se | interes**a el curso** de gramática. |
+  | (A nosotros/nosotras) | nos | interes**an los cursos** de cocina. |
+  | (A vosotros/vosotras) | os | |
+  | (A ellos/ellas/ustedes) | les | |
 
 ### 说明理由 Hablar de Motivos
 
-| 提问 Preguntar | 回答 Responder |
-| ----|----- |
-| | Porque + verbo conjugado <br> **Porque** quiero vivir en Cuba.
-| Por qué + verbo conjugado <br> ¿**Por qué** estudias español?| Para + infinitivo <br> **Para** viajar por chile.
-| | **Por** + sustantivo <br> Por mi trabajo.
+- 理由
+
+  | 提问 | 回答 |
+  | ---- | --- |
+  | | Porque + verbo conjugado <br> **Porque** quiero vivir en Cuba. |
+  | Por qué + verbo conjugado <br> ¿**Por qué** estudias español? | Para + infinitivo <br> **Para** viajar por chile. |
+  | | **Por** + sustantivo <br> Por mi trabajo. |
 
 ### 人称代词主格 Pronombres Personales Sujeto
 
-| |Singular|Plural|
-|---|---|---|
-|1<sup>a</sup> personal | yo | nosotros/nosotras|
-|2<sup>a</sup> personal | tú/usted | vosotros/vosotras/ustedes|
-|3<sup>a</sup> personal | él/ella | ellos/ellas|
+- 人称代词主格
+  | | singular | plural |
+  | --- | --- | --- |
+  | 1<sup>a</sup> personal | yo | nosotros/nosotras |
+  | 2<sup>a</sup> personal | tú/usted | vosotros/vosotras/ustedes |
+  | 3<sup>a</sup> personal | él/ella | ellos/ellas |
 
 - 注：Usted/ustedes 的动词变位使用第三人称。
 
 ### 陈述式，现在时 Presente de Indicativo
 
-| |-ar|-er|-ir|
-|----|----|----|----|
-| | **hablar** | **comprender** | **escribir**|
-|(yo) | habl**o** | comprend**o** | escrib**o**|
-|(tú) | habl**as** | comprend**es** | escrib**es**|
-|(él/ella/usted) | habl**a** | comprend**e** | escrib**e**|
-|(nosotros/nosotras) | habl**amos** | comprend**emos** | escrib**imos**|
-|(vosotros/vosotras) | habl**áis** | comprend**éis** | escrib**ís**|
-|(ellos/ellas/ustedes) | habl**an** | comprend**en** | escrib**en**|
-
 - -ar : estidiar, trabajar, viajar, bailar, visitar, entrar, comprar, ...
 - -er : leer, aprender, comer, ...
 - -ir : vivir, descubrir, ...
 
+  | | -ar | -er | -ir |
+  | ---- | ---- | ---- | ---- |
+  | | **hablar** | **comprender** | **escribir** |
+  | (yo) | habl**o** | comprend**o** | escrib**o** |
+  | (tú) | habl**as** | comprend**es** | escrib**es** |
+  | (él/ella/usted) | habl**a** | comprend**e** | escrib**e** |
+  | (nosotros/nosotras) | habl**amos** | comprend**emos** | escrib**imos** |
+  | (vosotros/vosotras) | habl**áis** | comprend**éis** | escrib**ís** |
+  | (ellos/ellas/ustedes) | habl**an** | comprend**en** | escrib**en** |
+
 ### 动词和介词 Verbos y Preposiciones
 
 - 动词的直接宾语如果是人，需要在前面加上介词 **a**
+
   > Quiero conocer **a tu hermano**.
 
 - **al = a + el**
 
-  ||动词|宾语|
-  |---|---|---|
-  || visitar | Barcelona.|
-  |Quiero| **conocer** | México.|
-  | | **aprender** | otras lenguas.|
-  | | **practicar** | español.|
-  | | **estudiar** | fotografía.|
-  | | **hacer** | muchas fotos.|
-  | | **descubrir** | lugares nuevos.|
-  |Quiero | **ir** | **a** la playa / **al** cine / **a** bailar / **de** compras.|
-  | | **salir** | **con** mis compañeros / **de** noche.|
+  | | 动词 | 宾语 |
+  | --- | --- | --- |
+  | | visitar | Barcelona. |
+  |Quiero| **conocer** | México. |
+  | | **aprender** | otras lenguas. |
+  | | **practicar** | español. |
+  | | **estudiar** | fotografía. |
+  | | **hacer** | muchas fotos. |
+  | | **descubrir** | lugares nuevos. |
+  |Quiero | **ir** | **a** la playa / **al** cine / **a** bailar / **de** compras. |
+  | | **salir** | **con** mis compañeros / **de** noche. |
 
 ### 定冠词 El Artículo Determinado
 
@@ -89,22 +97,25 @@
 - 以**重音** **a** 发音开头的阴性名词单数使用阳性定冠词 **el**
   > **el a**ula, **el a**ve
 
+  **非重音不需要变**：
+  > la arana
 
 - 熟练程度从高到低
+
   > **muy bien** <br>
   > **bastante bien** <br>
   > **regular (un poco de)** <br>
   > **muy mal**
 
+  | | singular | plural |
+  | --- | --- | --- |
+  | **masculino** | **el** puebl**o** <br> **el** muse**o** <br> **el** curs**o** | **los** puebl**os** <br> **los** muse**os** <br> **los** curs**os** |
+  | **femenino** | **la** play**a** <br> **la** fiest**a** <br> **la** discotec**a** | **las** play**as** <br> **las** fiest**as** <br> **las** discotec**as** |
 
-  ||singular|plural
-  |--- | --- | ---
-  |**masculino** | **el** puebl**o** <br> **el** muse**o** <br> **el** curs**o** | **los** puebl**os** <br> **los** muse**os** <br> **los** curs**os**
-  |**femenino** | **la** play**a** <br> **la** fiest**a** <br> **la** discotec**a** | **las** play**as** <br> **las** fiest**as** <br> **las** discotec**as**
-  ||singular|plural
-  |--- | --- | ---
-  |**masculino** | **el** puebl**o** <br> **el** muse**o** <br> **el** curs**o** | **los** puebl**os** <br> **los** muse**os** <br> **los** curs**os**
-  |**femenino** | **la** play**a** <br> **la** fiest**a** <br> **la** discotec**a** | **las** play**as** <br> **las** fiest**as** <br> **las** discotec**as**
+  | | singular | plural |
+  | --- | --- | --- |
+  | **masculino** | **el** puebl**o** <br> **el** muse**o** <br> **el** curs**o** | **los** puebl**os** <br> **los** muse**os** <br> **los** curs**os** |
+  | **femenino** | **la** play**a** <br> **la** fiest**a** <br> **la** discotec**a** | **las** play**as** <br> **las** fiest**as** <br> **las** discotec**as** |
 
 ###  文化小知识
 
