@@ -44,6 +44,10 @@ _Gramática de uso del español_ 一书的中文笔记。
   - 形容词比较级(2)
 - [017. Superlativo](notes/017-la-más-alta-el-menos-trabajador.md)
   - 形容词最高级
+- [018. Posesivos (1)](notes/018-mi-tu-su.md)
+  - 所有格(1)
+- [019. Posesivos (2)](notes\019-mío-tuyo-suyo.md)
+  - 所有格(2)
 - [034. Pronombres personales de sujeto](notes/034-yo-tú-él.md)
   - 人称代词主格
 - [046. Presente de indicativo de haber impersonal](notes/047-hay-un-vaso-en-la-mesa.md)

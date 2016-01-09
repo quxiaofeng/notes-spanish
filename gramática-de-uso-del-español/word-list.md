@@ -22,7 +22,8 @@
 | el presente | m. | 现在时 | present |
 | el pasado | m. | 过去时 | past |
 | el futuro | m. | 将来时 | future |
-| el superlativo | m. |	最高级 | superlative |
+| el superlativo | m. |	最高级 | superlative  | m. |
+| el posesivo | m. | 所有格 | possessive |
 | el piloto <br> la piloto | m.<br>f. | 飞行员<br>女飞行员 | pilot |
 | el marqués <br> la marquesa | m.<br>f. | 侯爵<br>侯爵夫人 | marquis/marchioness |
 | el brazo | m. | 手臂 | arm |
@@ -128,3 +129,5 @@
 | contaminado/a | adj. | 污染的 | polluted |
 | cariñoso/a | adj. | 有感情的，深情的 | loving |
 | hablador/a | adj. | 爱说话的 | chatty |
+| estropearse | v. | 损坏，不工作 | break down |
+| la maleta | f. | 箱，包 | suitcase |
