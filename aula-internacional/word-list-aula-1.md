@@ -984,6 +984,12 @@
   | reponer | v. | 替换，恢复 | replace, recover |
   | la fuerza | f. | 力气 | strength |
   | el asado | m. | 烧烤 | roast |
+  | miope | adj. | 近视的 | short-sighted |
+  | lógicamente | adv. | 逻辑上 | logically |
+  | la piscina | f. | 游泳池 | swimming pool |
+  | la lente | f. | 镜片 | lens |
+  | el contacto | m. | 接触 | contact |
+  | lente de contacto | expr. | 隐形眼镜 | contact lens |
 
 - **Unidad 7 ¡A comer!**
 
@@ -1058,6 +1064,8 @@
   | enseguida | adv. | 马上 | right away |
   | ahora mismo | expr. | 马上 | right away |
   | el fideo | m. | 面 | noodle |
+  | el maíz | m. | 玉米 | corn |
+  | el calabacín | m. | 西葫芦 | zucchini |
   | la situación | f. | 情况 | situation |
   | parecido/a | adj. | 相似的 | similar |
   | el cariño | m. | 亲爱的 | darling |
@@ -1095,4 +1103,32 @@
   | el frijol | m. | 豆 | bean |
   | el harina | f. | 面粉 | flour |
   | picada | adj. | 切碎的 | minced |
-  |
+  | el horario | m. | 时间表 | schedule |
+  | cada vez más/menos | expr. | 越来越 | more and more |
+  | la pausa | f. | 间隔，暂停 | pause, break |
+  | la costumbre | f. | 习惯，传统 | costum, habit |
+  | la esquina | f. | 角落 | corner |
+  | el ejemplo | m. | 例子 | example |
+  | el propirtario | m. | 物主，所有人 | owner |
+  | elegir | v. | 选择 | choose |
+  | casero/a | adj. | 家庭式的 | home-made |
+  | sencillo/a | adj. | 简单的 | simple |
+  | o sea | expr. | 我的意思是 | I mean |
+  | ligero/a | adj. | 快的，轻的 | light, fast |
+  | básico/a | adj. | 基础的 | basic |
+  | fijo/a | adj. | 固定的 | fixed |
+  | la fiambrera | f. | 便当 | lunch box |
+  | el microondas | m. | 微波炉 | microwave |
+  | el/la comerciante | m./f. | 商人 | businessman |
+  | eso sí | expr. | 当然 | for sure |
+  | el filete | m. | 肉排 | steak |
+  | importante | adj. | 重要的 | important |
+  | el ejecutivo | m. | 总经理 | executive |
+  | menú del día | expr. | 每日特餐 | daily special menu |
+  | el problema | m. | 问题 | problem |
+  | cansarse | v. | 劳累 | get tired |
+  | el combinado | m. | 鸡尾酒 | cocktail |
+  | la verdad | f. | 真相 | truth |
+  | el aguacate | m. | 鳄梨 | avocado |
+  | el cacahuete | m. | 花生 | peanut |
+  | el cacao | m. | 可可 | cocoa |
