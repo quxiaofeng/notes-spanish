@@ -117,18 +117,18 @@
 | ![](images/a1/0109.jpg) | agua | s., f. | 水 | Esta botella de agua es de dos litros. | | |
 | ![](images/a1/0110.jpg) | correr | v., tr. | 跑 | El atleta corre en el maratón. | | |
 | ![](images/a1/0111.jpg) | periódico | s., m. | 报纸 | Mi abuelo lee el periódico. | diario | |
-| ![](images/a1/0112.jpg) |
-| ![](images/a1/0113.jpg) |
-| ![](images/a1/0114.jpg) |
-| ![](images/a1/0115.jpg) |
-| ![](images/a1/0116.jpg) |
-| ![](images/a1/0117.jpg) |
-| ![](images/a1/0118.jpg) |
-| ![](images/a1/0119.jpg) |
-| ![](images/a1/0120.jpg) |
-| ![](images/a1/0121.jpg) |
-| ![](images/a1/0122.jpg) |
-| ![](images/a1/0123.jpg) |
+| ![](images/a1/0112.jpg) | levantarse | v., pml. | 起床 | Él se levanta a las 8 de la mañana. | despertarse | acostarse |
+| ![](images/a1/0113.jpg) | peinarse | v., pml. | 梳头 | Violeta se peina con el secador de pelo. | | despeinarse |
+| ![](images/a1/0114.jpg) | ducharse | v., pml. | 淋浴 | Yo me ducho todos los días. | bañarse, lavarse | ensuciarse, mancharse |
+| ![](images/a1/0115.jpg) | maquillarse | v., pml | 化妆 | Ella se maquilla los ojos. | pintarse | |
+| ![](images/a1/0116.jpg) | gafas | s., f. | 眼镜 | Él lleva unas gafas de color azul. | lentes (en Argentina) | |
+| ![](images/a1/0117.jpg) | baño | s., m. | 浴室，洗手间 | El cuarto de baño es muy grande. | cuarto de baño, lavabo, servicio, aseo |
+| ![](images/a1/0118.jpg) | cómodo | adj., m. | 舒服的 | Este sofá es muy cómodo. | confortable | incómodo |
+| ![](images/a1/0119.jpg) | estudio | s., m. | 书房 | Ellos viven en un estudio en el centro de la ciudad. | apartamento | |
+| ![](images/a1/0120.jpg) | aparcamiento | s., m. | 停车位 | En este aparcamiento sólo hay un coche. | garaje, parking | |
+| ![](images/a1/0121.jpg) | televisión | s., f. | 电视 | Los niños están viendo la televisión. | televisor (s., m.) | |
+| ![](images/a1/0122.jpg) | radio | s., f. | 广播 | Las señoras escuchan la radio. | | |
+| ![](images/a1/0123.jpg) | libro | s., m. | 书 | Este libro tiene más de 300 páginas. | obra, ejemplar | |
 | ![](images/a1/0124.jpg) |
 | ![](images/a1/0125.jpg) |
 | ![](images/a1/0126.jpg) |

@@ -9,3 +9,4 @@ Lingualia 网站的笔记。
 # 目录
 
 - [A1 Unidad 1](notes/a-1-unidad-1.md)
+- [A1 Unidad 2](notes/a-1-unidad-2.md)

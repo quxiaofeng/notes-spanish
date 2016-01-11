@@ -198,3 +198,40 @@
   > [to.má.te] tomate <br>
   > [te.lé.fo.no] teléfono <br>
   > [fɾú.ta] fruta
+
+## Lección 9: Todos los días leo el periódico
+
+- AR, IR, ER 的变位
+
+  > Tú ordenas tu habitación. Él limpia el suelo. <br>
+  > Ellos beben café. Tú comes un sándwich. <br>
+  > Roberto, Ana y Jose viven en Valencia. Amy vive en Nueva York.
+
+- 现在时用于以下情况
+
+  现在的事件：
+  > Yo estudio español.
+
+  现在的习惯：
+  > Todos los días desayuno un café.
+
+  未来的事件：
+  > Mañana como en un restaurante coreano.
+
+- 辅音发音：
+
+  V, v
+
+  > [bí.no] vino <br>
+  > [be.ɾá.no] verano <br>
+  > [ba.lén.θja] Valencia
+
+  W, w
+
+  用于外来词，读音不定
+  > [bá.g.ner] Wagner <br>
+  > [γwa.teɾ.pólo] waterpolo <br> Taiwán [tai.γwán].
+
+  X, x
+  > [ek.sá.men] examen <br>
+  > [si.ló.fo.no] xilófono
