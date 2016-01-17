@@ -129,39 +129,27 @@
 | ![](images/a1/0121.jpg) | televisión | s., f. | 电视 | Los niños están viendo la televisión. | televisor (s., m.) | |
 | ![](images/a1/0122.jpg) | radio | s., f. | 广播 | Las señoras escuchan la radio. | | |
 | ![](images/a1/0123.jpg) | libro | s., m. | 书 | Este libro tiene más de 300 páginas. | obra, ejemplar | |
-| ![](images/a1/0124.jpg) |
-| ![](images/a1/0125.jpg) |
-| ![](images/a1/0126.jpg) |
-| ![](images/a1/0127.jpg) |
-| ![](images/a1/0128.jpg) |
-| ![](images/a1/0129.jpg) |
-| ![](images/a1/0130.jpg) |
-| ![](images/a1/0131.jpg) |
-| ![](images/a1/0132.jpg) |
-| ![](images/a1/0133.jpg) |
-| ![](images/a1/0134.jpg) |
-| ![](images/a1/0135.jpg) |
-| ![](images/a1/0136.jpg) |
-| ![](images/a1/0137.jpg) |
-| ![](images/a1/0138.jpg) |
-| ![](images/a1/0139.jpg) |
-| ![](images/a1/0140.jpg) |
-| ![](images/a1/0141.jpg) |
-| ![](images/a1/0142.jpg) |
-| ![](images/a1/0143.jpg) |
-| ![](images/a1/0144.jpg) |
-| ![](images/a1/0145.jpg) |
-| ![](images/a1/0146.jpg) |
-| ![](images/a1/0147.jpg) |
-| ![](images/a1/0148.jpg) |
-| ![](images/a1/0149.jpg) |
-| ![](images/a1/0150.jpg) |
-| ![](images/a1/0151.jpg) |
-| ![](images/a1/0152.jpg) |
-| ![](images/a1/0153.jpg) |
-| ![](images/a1/0154.jpg) |
-| ![](images/a1/0155.jpg) |
-| ![](images/a1/0156.jpg) |
-| ![](images/a1/0157.jpg) |
-| ![](images/a1/0158.jpg) |
-| ![](images/a1/0159.jpg) |
+| ![](images/a1/0124.jpg) | activo | adj., m. | 活跃的 | Juan es un niño muy activo, siempre está moviéndose. | dinámico, vivo, enérgico | pasivo, inactivo |
+| ![](images/a1/0125.jpg) | sociable | adj., m./f. | 爱交际的 | Los burros son animales muy sociables. | simpático, accesible | antisociable, antipático |
+| ![](images/a1/0126.jpg) | parecer | v., copul. | 看起来 | Lucía parece muy simpática. | aparentar |  |
+| ![](images/a1/0127.jpg) | pollo | s., m. | 小鸡，鸡肉 | Los pollos son de color amarillo. |  |  |
+| ![](images/a1/0128.jpg) | zapatos | s., m. | 鞋 | Estos zapatos tienen mucho tacón. |  |  |
+| ![](images/a1/0129.jpg) | zoológico | s., m. | 动物园 | En este zoológico hay osos panda. |  |  |
+| ![](images/a1/0130.jpg) | perro | s., m. | 狗 | El chihuahua es un perro muy pequeño. | can |  |
+| ![](images/a1/0131.jpg) | gato | s., m. | 猫 | El gato persa tiene un pelo precioso. | minino, micho |  |
+| ![](images/a1/0132.jpg) | sillón | s., m. | 扶手椅 | Mi abuelo lee un libro en el sillón. | butaca |  |
+| ![](images/a1/0133.jpg) | jugar | v., tr./intr. | 玩 | El perro juega con la pelota. |  |  |
+| ![](images/a1/0134.jpg) | calefacción | s., f. | 暖气 | La calefacción está encendida. |  |  |
+| ![](images/a1/0135.jpg) | parque | s., m. | 公园 | Muchas personas pasean por el parque. |  |  |
+| ![](images/a1/0136.jpg) | pesimista | adj., m./f. | 悲观的 | El chico es pesimista, piensa que va a suspender el examen. |  | optimista |
+| ![](images/a1/0137.jpg) | separado | adj., m. | 分居 | Toni y María están separados desde hace quince meses. |  |  |
+| ![](images/a1/0138.jpg) | merendar | v., tr. | 吃下午茶 | El niño merienda un vaso de leche después del colegio. |  |  |
+| ![](images/a1/0139.jpg) | zumo | s., m. | 果汁 | Conchi hace un zumo de naranja. | jugo (en Argentina y México), néctar |  |
+| ![](images/a1/0140.jpg) | luminoso | adj., m. | 有光的，发亮的 | La lámpara es muy luminosa. | brillante, radiante | oscuro, apagado |
+| ![](images/a1/0141.jpg) | exterior | adj., m/f | 外部的 | Mi piso tiene una terraza exterior. |  | interior |
+| ![](images/a1/0142.jpg) | reproductor | s., m. | 播放器 | Este reproductor de DVD cuesta más de 50 euros. |  |  |
+| ![](images/a1/0143.jpg) | microondas | s., m. | 微波炉 | El microondas está encendido. |  |  |
+| ![](images/a1/0144.jpg) | palomitas | s., f. | 爆米花 | Ellos comen palomitas de maíz. |  |  |
+| ![](images/a1/0145.jpg) | actor | s., m. | 男演员 | Mi actor favorito es Johnny Depp. | intérprete |  |
+| ![](images/a1/0146.jpg) | casado | adj., m. | 已婚的 | Guillermo de Inglaterra y Kate Middleton están casados desde el año 2011. | desposado | divorciado, separado soltero |
+| ![](images/a1/0147.jpg) | ojo | s., m. | 眼睛 | El bebé tiene los ojos de color azul. |  |  |

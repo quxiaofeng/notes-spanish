@@ -2,15 +2,15 @@
 
 ## Lección 1: ¡Hola!
 
-- Ser
+- 动词 `Ser`
 
-  动词 ser 的变位:
+  动词 `ser` 的变位:
 
-  |Verbo SER ||
-  |---|---|
-  |Yo | soy |
-  |Tú | eres |
-  |Él, ella, usted | es |
+  | Verbo SER ||
+  | --- | --- |
+  | Yo | soy |
+  | Tú | eres |
+  | Él, ella, usted | es |
 
   > Ella **es** profesora de Pilates.
 
@@ -25,7 +25,7 @@
 
 ## Lección 2: Buenos días, ¿cómo está usted?
 
-- Tú y usted
+- 你和您 `Tú y usted`
 
   tú 用于非正式的场合：
 
@@ -35,7 +35,7 @@
 
   > Buenas tardes, señor Hernández, ¿cómo está (usted)?
 
-- Estar
+- 动词 `Estar`
 
   动词 estar 的变位:
 
@@ -48,7 +48,7 @@
   |Él, ella, usted | está |
 
 
-- Demostrativos: este, ese, aquel
+- 指示代词 `Demostrativos: este, ese, aquel`
 
   este/esta 表示离说话人较近的人或物：
 
@@ -111,33 +111,33 @@
 
 ## Lección 3: ¿Cuál es tu número de teléfono?
 
-- Pronombres y adjetivos posesivos
+- 形容词性物主代词 `Pronombres y adjetivos posesivos`
 
   形容词性物主代词：
 
-  第一人称单数：mi / mis
+  第一人称单数：`mi / mis`
 
   > Yo tengo un perro. <br>
   > Hoy es el cumpleaños de mi perro Jet.
 
-  第二人称单数：u / tus
+  第二人称单数：`tu / tus`
 
   > Tú tienes dos compañeros: Jose y Roberto. <br>
   > Jose y Roberto son tus compañeros
 
-  第三人称单数：su / sus
+  第三人称单数：`su / sus`
 
   > La mujer tiene un hijo. <br>
   > Su hijo se llama Tomás.
 
-- Pronombre interrogativo: cuál
+- 疑问代词 `Pronombre interrogativo: cuál`
 
-  疑问代词 cuál / cuáles：
+  疑问代词 `cuál / cuáles`：
 
   > ¿Cuál es su número favorito? <br>
   > El tres.
 
-- El número: singular y plural
+- 数字 `El número: singular y plural`
 
   大部分的名词和形容词都有数的变化。
 
@@ -205,7 +205,7 @@
 
 ## Lección 4: ¿A qué te dedicas?
 
-- 动词 Ser 用来
+- 动词 `Ser`
 
   说明人物：
 
@@ -215,54 +215,52 @@
 
   > Meri y Olivia son cocineras.
 
-- Dedicarse (a)
+  `Dedicarse (a)``
 
   跟 llamase 的用法一致，me, te, se, nos, os, se ...
 
   > Julia se dedica a la enseñanza. <br>
   > Julia se dedica a enseñar.
 
-- El gerundio
+- 副动词 `Gerundio`
 
-  Estar + 副动词 表示一个正在进行的动作：
+  `Estar` + 副动词 表示一个正在进行的动作：
 
   > Yo estoy estudiando español.
 
   变位形式：
 
-  AR -> ANDO
+  `AR` -> `ANDO`
 
-  IR, ER -> IENDO
+  `IR, ER` -> `IENDO`
 
   > hablar - hablando <br>
   > beber - bebiendo <br>
   > vivir - viviendo
 
-- Formas impersonales del verbo
-
-  infinitivo 原形
+  `infinitivo` 原形
 
   > CANTAR
 
-  gerundio 副动词
+  `gerundio` 副动词
 
   > CANTANDO
 
-  participio 过去分词
+  `participio` 过去分词
 
   > CANTADO
 
-- Diferencia entre qué y cuál
+- 疑问代词 `Pronombres interrogativos: qué, cuál`
 
-  QUÉ 倾向于提问意思：
+  `QUÉ` 倾向于提问意思：
 
   > ¿Qué es el español? Es el idioma que se habla en toda España.
 
-  CUÁL 倾向于提问名字：
+  `CUÁL` 倾向于提问名字：
 
   > ¿Cuál es el idioma que se habla en toda España? El español.
 
-- El género
+- 词性 `Género`
 
   -o 结尾的大多是阳性，复数为 -os
 
@@ -326,7 +324,7 @@ Hay otras
 
 ## Lección 5: Ana es muy alta
 
-- 比较级
+- 比较级 `Comparativo con adjetivos`
 
   > de superioridad <br>
   > de igualdad <br>
@@ -350,7 +348,7 @@ Hay otras
 
   > Roberto es menos alto que Ana.
 
-- llamarse
+- 动词 `Llamarse`
 
   Yo me llamo
 
