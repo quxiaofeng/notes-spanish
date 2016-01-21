@@ -91,12 +91,21 @@
 
   `Por`
 
-  表示时间：
+  时间：
 
   > **Por** la mañana <br> **Por** la tarde <br> **Por** la noche <br>
   > **Por** la mañana desayuno con café. <br>
 
-  表示原因：
+  原因：
 
   > Pablo está enfadado **por** el jarrón. <br>
   > Han cancelado el concierto **por** la lluvia.
+
+  经过某地：
+
+  > El tren pasa **por** Madrid. <br>
+  > Paseo **por** el centro.
+
+  作为代表：
+
+  > Yo hablo **por** todos.

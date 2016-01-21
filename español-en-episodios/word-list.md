@@ -16,4 +16,5 @@
 | pelirrojo/a | adj. | 红头发的 | red-haired |
 | maleducado/a | adj. | 没有礼貌的 | rude |
 | la finalidad | f. | 目的 | purpose |
-| enfadado/a | adj. | 生气的 | angry | 
+| enfadado/a | adj. | 生气的 | angry |
+| el lío | m. | 麻烦，杂乱 | trouble, mess |
