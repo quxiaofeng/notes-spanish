@@ -15,3 +15,4 @@ Youtube 上 `Español en Episodios` 系列的的笔记。
 - [Cap 06 El genio incomprendido](notes/episodio-6.md)
 - [Cap 07 Confidencias Inesperadas](notes/episodio-7.md)
 - [Cap 08 Retrasos Justificados](notes/episodio-8.md)
+- [Cap 09 Un lío inesperado](notes/episodio-9.md)

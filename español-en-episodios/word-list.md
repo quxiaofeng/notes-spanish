@@ -13,3 +13,7 @@
 | el tranvía | m. | 有轨电车 | streetcar |
 | proseguir | v. | 继续 | continue |
 | tardar | v. | 迟到，费时 | be late, take |
+| pelirrojo/a | adj. | 红头发的 | red-haired |
+| maleducado/a | adj. | 没有礼貌的 | rude |
+| la finalidad | f. | 目的 | purpose |
+| enfadado/a | adj. | 生气的 | angry | 
