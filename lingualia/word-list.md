@@ -92,7 +92,7 @@
 	| ![](images/a1/0084.jpg) | girar | v., intr. | 转 | Giras a la derecha y está la escuela. | torcer, doblar | ir recto |
 	| ![](images/a1/0085.jpg) | reservar | v., tr. | 保留，预定 | Esta mesa del restaurante está reservada. | hacer una reserva, concertar |
 	| ![](images/a1/0086.jpg) | restaurante | s., m. | 餐厅 | En este restaurante sirven comida italiana. | bar, cafetería |
-	| ![](images/a1/0087.jpg) | gordo | adj. | 肥胖的 | Este niño está muy gordo. | grueso, obeso | delgado, flaco |  
+	| ![](images/a1/0087.jpg) | gordo | adj. | 肥胖的 | Este niño está muy gordo. | grueso, obeso | delgado, flaco |
 	| ![](images/a1/0088.jpg) | bocadillo | s., m. | 夹心面包 | Este bocadillo es de jamón. | bocata | |
 	| ![](images/a1/0089.jpg) | fruta | s., f. | 水果 | La fruta que más me gusta es la manzana. | | |
 	| ![](images/a1/0090.jpg) | beber | v., tr. | 喝 | Hoy bebo una cerveza. | tomar | |
@@ -131,25 +131,40 @@
 	| ![](images/a1/0123.jpg) | libro | s., m. | 书 | Este libro tiene más de 300 páginas. | obra, ejemplar | |
 	| ![](images/a1/0124.jpg) | activo | adj., m. | 活跃的 | Juan es un niño muy activo, siempre está moviéndose. | dinámico, vivo, enérgico | pasivo, inactivo |
 	| ![](images/a1/0125.jpg) | sociable | adj., m./f. | 爱交际的 | Los burros son animales muy sociables. | simpático, accesible | antisociable, antipático |
-	| ![](images/a1/0126.jpg) | parecer | v., copul. | 看起来 | Lucía parece muy simpática. | aparentar |  |
-	| ![](images/a1/0127.jpg) | pollo | s., m. | 小鸡，鸡肉 | Los pollos son de color amarillo. |  |  |
-	| ![](images/a1/0128.jpg) | zapatos | s., m. | 鞋 | Estos zapatos tienen mucho tacón. |  |  |
-	| ![](images/a1/0129.jpg) | zoológico | s., m. | 动物园 | En este zoológico hay osos panda. |  |  |
-	| ![](images/a1/0130.jpg) | perro | s., m. | 狗 | El chihuahua es un perro muy pequeño. | can |  |
-	| ![](images/a1/0131.jpg) | gato | s., m. | 猫 | El gato persa tiene un pelo precioso. | minino, micho |  |
-	| ![](images/a1/0132.jpg) | sillón | s., m. | 扶手椅 | Mi abuelo lee un libro en el sillón. | butaca |  |
-	| ![](images/a1/0133.jpg) | jugar | v., tr./intr. | 玩 | El perro juega con la pelota. |  |  |
-	| ![](images/a1/0134.jpg) | calefacción | s., f. | 暖气 | La calefacción está encendida. |  |  |
-	| ![](images/a1/0135.jpg) | parque | s., m. | 公园 | Muchas personas pasean por el parque. |  |  |
-	| ![](images/a1/0136.jpg) | pesimista | adj., m./f. | 悲观的 | El chico es pesimista, piensa que va a suspender el examen. |  | optimista |
-	| ![](images/a1/0137.jpg) | separado | adj., m. | 分居 | Toni y María están separados desde hace quince meses. |  |  |
-	| ![](images/a1/0138.jpg) | merendar | v., tr. | 吃下午茶 | El niño merienda un vaso de leche después del colegio. |  |  |
-	| ![](images/a1/0139.jpg) | zumo | s., m. | 果汁 | Conchi hace un zumo de naranja. | jugo (en Argentina y México), néctar |  |
+	| ![](images/a1/0126.jpg) | parecer | v., copul. | 看起来 | Lucía parece muy simpática. | aparentar | |
+	| ![](images/a1/0127.jpg) | pollo | s., m. | 小鸡，鸡肉 | Los pollos son de color amarillo. | | |
+	| ![](images/a1/0128.jpg) | zapatos | s., m. | 鞋 | Estos zapatos tienen mucho tacón. | | |
+	| ![](images/a1/0129.jpg) | zoológico | s., m. | 动物园 | En este zoológico hay osos panda. | | |
+	| ![](images/a1/0130.jpg) | perro | s., m. | 狗 | El chihuahua es un perro muy pequeño. | can | |
+	| ![](images/a1/0131.jpg) | gato | s., m. | 猫 | El gato persa tiene un pelo precioso. | minino, micho | |
+	| ![](images/a1/0132.jpg) | sillón | s., m. | 扶手椅 | Mi abuelo lee un libro en el sillón. | butaca | |
+	| ![](images/a1/0133.jpg) | jugar | v., tr./intr. | 玩 | El perro juega con la pelota. | | |
+	| ![](images/a1/0134.jpg) | calefacción | s., f. | 暖气 | La calefacción está encendida. | | |
+	| ![](images/a1/0135.jpg) | parque | s., m. | 公园 | Muchas personas pasean por el parque. | | |
+	| ![](images/a1/0136.jpg) | pesimista | adj., m./f. | 悲观的 | El chico es pesimista, piensa que va a suspender el examen. | | optimista |
+	| ![](images/a1/0137.jpg) | separado | adj., m. | 分居 | Toni y María están separados desde hace quince meses. | | |
+	| ![](images/a1/0138.jpg) | merendar | v., tr. | 吃下午茶 | El niño merienda un vaso de leche después del colegio. | | |
+	| ![](images/a1/0139.jpg) | zumo | s., m. | 果汁 | Conchi hace un zumo de naranja. | jugo (en Argentina y México), néctar | |
 	| ![](images/a1/0140.jpg) | luminoso | adj., m. | 有光的，发亮的 | La lámpara es muy luminosa. | brillante, radiante | oscuro, apagado |
-	| ![](images/a1/0141.jpg) | exterior | adj., m/f | 外部的 | Mi piso tiene una terraza exterior. |  | interior |
-	| ![](images/a1/0142.jpg) | reproductor | s., m. | 播放器 | Este reproductor de DVD cuesta más de 50 euros. |  |  |
-	| ![](images/a1/0143.jpg) | microondas | s., m. | 微波炉 | El microondas está encendido. |  |  |
-	| ![](images/a1/0144.jpg) | palomitas | s., f. | 爆米花 | Ellos comen palomitas de maíz. |  |  |
-	| ![](images/a1/0145.jpg) | actor | s., m. | 男演员 | Mi actor favorito es Johnny Depp. | intérprete |  |
+	| ![](images/a1/0141.jpg) | exterior | adj., m/f | 外部的 | Mi piso tiene una terraza exterior. | | interior |
+	| ![](images/a1/0142.jpg) | reproductor | s., m. | 播放器 | Este reproductor de DVD cuesta más de 50 euros. | | |
+	| ![](images/a1/0143.jpg) | microondas | s., m. | 微波炉 | El microondas está encendido. | | |
+	| ![](images/a1/0144.jpg) | palomitas | s., f. | 爆米花 | Ellos comen palomitas de maíz. | | |
+	| ![](images/a1/0145.jpg) | actor | s., m. | 男演员 | Mi actor favorito es Johnny Depp. | intérprete | |
 	| ![](images/a1/0146.jpg) | casado | adj., m. | 已婚的 | Guillermo de Inglaterra y Kate Middleton están casados desde el año 2011. | desposado | divorciado, separado soltero |
-	| ![](images/a1/0147.jpg) | ojo | s., m. | 眼睛 | El bebé tiene los ojos de color azul. |  |  |
+	| ![](images/a1/0147.jpg) | ojo | s., m. | 眼睛 | El bebé tiene los ojos de color azul. | | |
+	| ![](images/a1/0148.jpg) | primo | s., m. | 表，堂兄弟 | David (izquierda) es el primo de Dani (derecha). | | |
+	| ![](images/a1/0149.jpg) | Universidad | s., f. | 大学 | La Universidad de Harvard es la más famosa y conocida del mundo. | | |
+	| ![](images/a1/0150.jpg) | comprender | v., tr. | 理解 | El chico no comprende la fórmula matemática. | | |
+	| ![](images/a1/0151.jpg) | repetir | v., tr. | 重复 | Siempre se repite la misma frase. | rehacer | |
+	| ![](images/a1/0152.jpg) | horario | s., m. | 时间表 | El horario de apertura de la consulta es de 16 a 18h. | programa, agenda | |
+	| ![](images/a1/0153.jpg) | currículum | s., m. | 简历 | Su currículum vitae no tiene foto. | currículum vitae, historial, hoja de vida | |
+	| ![](images/a1/0154.jpg) | secretario | s., m. | 秘书 | La secretaria de la empresa habla con el jefe. | | |
+	| ![](images/a1/0155.jpg) | turista | s., m./f. | 游客 | Los turistas japoneses hacen muchas fotos. | visitante, excursionista, viajero | |
+	| ![](images/a1/0156.jpg) | excursión | s., f. | 远足 | Ellos van de excursión por la montaña. | paseo, caminata, salida | |
+	| ![](images/a1/0157.jpg) | memoria | s., f. | 记忆 | Hacer puzzles es muy práctico para reforzar la memoria. | recuerdo | |
+  | ![](images/a1/0158.jpg) | tinta | s., f. | 墨水 | El profesor está pintando con tinta china. | colorante, tinte | |
+  | ![](images/a1/0159.jpg) | pincel | s., m. | 画刷 | El artista usa pincel para pintar. | brocha | |
+	| ![](images/a1/0160.jpg) | mesa | s., f. | 桌子 | No hay nada encima de la mesa. | | |
+  | ![](images/a1/0161.jpg) | lavadora | s., f. | 洗衣机 | La ropa está dentro de la lavadora. | lavarropas (en Argentina) | |
+  | ![](images/a1/0162.jpg) | abrigo | s., m. | 大衣 | El abrigo es de color azul. | | |
