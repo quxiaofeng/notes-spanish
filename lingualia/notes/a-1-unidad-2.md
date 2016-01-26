@@ -248,7 +248,7 @@
 
 ## Lección 10: Jose se levanta a las 7
 
-- 反身动词 `Verbos reflexivos`
+- 代词式动词 `Pronominales` (1)
 
   代词式动词 `Pronominales` 形式如下：
 
@@ -256,7 +256,7 @@
   > Tú te + verbo <br> Vosotros/-as os + verbo <br>
   > Él/ella se + verbo <br> Ellos/ellas se + verbo
 
-  反身动词是一种常见的代词式动词，即动作的主语和宾语是同一个个体，这些动词有：
+  反身动词 `Verbos reflexivos` 是一种常见的代词式动词，即动作的主语和宾语是同一个个体，这些动词有：
 
   > levantarse, despertarse, ducharse, bañarse, lavarse, maquillarse, peinarse, afeitarse, acostarse
 

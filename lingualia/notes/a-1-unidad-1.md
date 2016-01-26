@@ -222,7 +222,9 @@
   > Julia se dedica a la enseñanza. <br>
   > Julia se dedica a enseñar.
 
-- 副动词 `Gerundio`
+- 动词的非人称形式 `Formas impersonales` (1)
+
+  副动词 `Gerundio`
 
   `Estar` + 副动词 表示一个正在进行的动作：
 
