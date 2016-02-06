@@ -141,3 +141,85 @@
 
   > pez - peces <br>
   > arroz - arroces
+
+## Lección 14: ¿Dónde está mi estuche?
+
+- 形容词性物主代词
+
+  单数人称：
+
+  > (yo): mi, mis <br> (tú): tu, tus <br> (él, ella, usted): su, sus
+
+  没有词性的变化，单复数形式与所修饰的名词一致：
+
+  > La bailarina danza sobre su pie. (su = de ella)
+
+  复数人称：
+  > (nosotros/as): nuestro/a, nuestros/as <br> (vosotros/as): vuestro/a, vuestros/as <br> (ellos, ellas, ustedes): su, sus
+
+  一二人称复数有性数的变化，第三人称复数于单数相同：
+  > Vosotros tenéis un coche. Vuestro coche es rojo.
+
+- 名词性物主代词
+
+  > (yo): mío/a, míos/as <br> (tú): tuyo/a, tuyos/as <br> (él, ella, usted): suyo/a, suyos/as
+  > (nosotros/as): nuestro/a, nuestros/as <br> (vosotros/as): vuestro/a, vuestros/as <br> (ellos, ellas, ustedes): suyo/a suyos/as
+
+  用来代替 `mi/su/tu... + nombre`：
+
+  > A: ¿Es tuyo este libro? B: No, no es mío, es de Toni. <br>
+  > A: ¿La casa blanca es vuestra? B: Sí, es nuestra.
+
+- 位置关系的副词：`encima, debajo, fuera, dentro`
+
+  `encima de / debajo de` 在某物上面/在某物下面
+
+  > La botella de agua está encima de la mesa. <br> El niño está debajo de la mesa.
+
+  `dentro de / fuera de` 在某物里面/在某物外面
+
+  > La pizza está dentro del horno. <br> El pez está fuera del agua.
+
+- `solo` 和 `sólo`
+
+  `solo` 是形容词，有性数的变化，表示独自的，单独的：
+
+  > Hoy estoy sola en casa. (sola = no hay nadie más)
+
+  `sólo`
+  是副词，表示只，只有的意思
+
+  > Hoy sólo quiero un café. (sólo = no quiero nada más)
+
+## Lección 15: Quiero un café largo
+
+- 一般现在时，不规则变位(1)
+
+  不规则变位(1) 词根变位，元音：`e < ie`
+
+  例如 `QUERER` 的词根不是 `QUER-` 而是 `QUIER-` （你们和我们除外，是规则的）：
+
+  > (Yo) quiero un café con leche.
+
+  变位：
+
+  > Yo quiero <br>
+  > Tú quieres <br>
+  > Él quiere <br>
+  > Nosotros queremos <br>
+  > Vosotros queréis <br>
+  > Ellos quieren
+
+  其他不规则动词
+
+  `cerrar, comenzar, empezar, pensar, entender, perder, regar, merendar`
+
+  > Ana cierra la puerta después de salir de casa.
+
+- 在词中使用 `rr`：`arruga, correr, perro`
+
+  > Damián corre por la carretera.
+
+  在词的开头，以及辅音 `l, n, s` 后面：`Roma, alrededor, honrado, Israe`
+
+  > Nosotros queremos ir de viaje a Roma.
