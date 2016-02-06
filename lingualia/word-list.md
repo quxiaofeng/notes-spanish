@@ -1,7 +1,5 @@
 # 单词表
 
-----
-
 - **A1**
 
 	| 图片 | 单词 | 词性 | 释义 | 例句 | 近义词 | 反义词 |
@@ -168,3 +166,48 @@
 	| ![](images/a1/0160.jpg) | mesa | s., f. | 桌子 | No hay nada encima de la mesa. | | |
   | ![](images/a1/0161.jpg) | lavadora | s., f. | 洗衣机 | La ropa está dentro de la lavadora. | lavarropas (en Argentina) | |
   | ![](images/a1/0162.jpg) | abrigo | s., m. | 大衣 | El abrigo es de color azul. | | |
+	| ![](images/a1/0163.jpg) | carné de identidad | s., m. | 身份证 | Este es el carné de identidad de Pedro. | documento de identidad, carnet, documentación | |
+  | ![](images/a1/0164.jpg) | bolso | s., m. | 包 | El bolso de la chica es muy grande. | | |
+  | ![](images/a1/0165.jpg) | llevar | v., tr. | 穿，戴 | Ana lleva un sombrero. | vestir | |
+  | ![](images/a1/0166.jpg) | concierto | s., m. | 演唱会 | Esta noche hay un concierto de Robbie Williams. | audición, función, sesión | |
+  | ![](images/a1/0167.jpg) | entrada | s., f. | 入场券 | La entrada del cine cuesta 3,50 euros. | billete, tarjeta, tique | |
+  | ![](images/a1/0168.jpg) | bailar | v., tr./intr. | 跳舞 | Ellos bailan un tango. | danzar | |
+  | ![](images/a1/0169.jpg) | cantar | v., tr./intr. | 唱歌 | Anabel canta una canción. | | |
+  | ![](images/a1/0170.jpg) | cama | s., f. | 床 | Su cama es muy grande. | | |
+  | ![](images/a1/0171.jpg) | rojo | adj., m. | 红色的 | El pintalabios es de color rojo. | encarnado, escarlata | |
+  | ![](images/a1/0172.jpg) | cuchara | s., f. | 勺子 | Ella toma la sopa con cuchara. | | |
+  | ![](images/a1/0173.jpg) | cuchillo | s., m. | 刀 | El chico corta el pan con un cuchillo. | | |
+  | ![](images/a1/0174.jpg) | tenedor | s., m. | 叉子 | Yo como la ensalada con tenedor. | | |
+  | ![](images/a1/0175.jpg) | azúcar | s., m. | 糖 | Mario añade azúcar a su café. | | |
+  | ![](images/a1/0176.jpg) | naranja | s., f. | 橘子 | La chica exprime una naranja. | | |
+  | ![](images/a1/0177.jpg) | vaso | s., m. | 瓶子 | El niño bebe un vaso de agua. | copa | |
+  | ![](images/a1/0178.jpg) | café | s., m. | 咖啡 | Por las mañanas tomo un café. | | |
+  | ![](images/a1/0179.jpg) | aceite | s., m. | 油 | El aceite de oliva es uno de los símbolos de la cultura mediterránea. | óleo | |
+  | ![](images/a1/0180.jpg) | sal | s., f. | 盐 | Nosotros cocinamos el pescado con sal. | | |
+  | ![](images/a1/0181.jpg) | cocina | s., f. | 厨房 | Los cocineros preparan la cena en la cocina. | | |
+  | ![](images/a1/0182.jpg) | pagar | v., tr. | 付款 | La mujer paga la compra del mercado. | abonar | cobrar |
+  | ![](images/a1/0183.jpg) | pensar | v., tr. | 想，思考 | El estudiante piensa la respuesta de la fórmula matemática. | razonar, reflexionar | |
+  | ![](images/a1/0184.jpg) | volver | v., tr. | 返回，回到 | La familia vuelve a casa de sus vacaciones. | | |
+  | ![](images/a1/0185.jpg) | calle | s., f. | 街道 | La calle está vacía. | vía | |
+  | ![](images/a1/0186.jpg) | estrecho | adj., m. | 窄的 | El paso más estrecho del mundo está en Praga. | ajustado | ancho, amplio |
+  | ![](images/a1/0187.jpg) | entrar | v., intr. | 进入 | La persona entra por la puerta. | | salir |
+  | ![](images/a1/0188.jpg) | ir a pie | expr. | 步行 | Ellos van a pie al trabajo. | caminar, andar | |
+  | ![](images/a1/0189.jpg) | falda | s., f. | 短裙 | La chica lleva una falda de color verde. | pollera (en Argentina) | |
+  | ![](images/a1/0190.jpg) | verde | adj., m./.f | 绿色 | La hierba es de color verde. | | |
+  | ![](images/a1/0191.jpg) | verano | s., m. | 夏天 | En verano vamos a la playa. | estío | invierno |
+  | ![](images/a1/0192.jpg) | discoteca | s., f. | 歌舞厅 | En Ibiza hay muchas discotecas. | disco, club | |
+  | ![](images/a1/0193.jpg) | vestido | s., m. | 连衣裙 | La actriz Salma Hayek lleva un bonito vestido. | | |
+  | ![](images/a1/0194.jpg) | sol | s., m. | 太阳 | Hoy hace un día con mucho sol. | | |
+  | ![](images/a1/0195.jpg) | guapo | adj., m. | 帅的，好看的 | Ryan Gosling, además de buen actor, es muy guapo. | | feo |
+	| ![](images/a1/0196.jpg) | oferta | s., f. |  | En esta tienda hay una oferta. | promoción | |
+  | ![](images/a1/0197.jpg) | viejo | adj., m. |  | El coche está muy viejo. | | |
+  | ![](images/a1/0198.jpg) | dependiente | s., m. |  | La dependienta atiende al hombre. | empleado, vendedor | |
+  | ![](images/a1/0199.jpg) | invierno | s., m. |  | En invierno las personas llevan abrigo. | | verano, estío |
+  | ![](images/a1/0200.jpg) | blusa | s., f. |  | La chica viste una blusa blanca. | túnica, camisola | |
+  | ![](images/a1/0201.jpg) | sandalias | s., f. |  | Estas sandalias llevan un poco de tacón. | chanclas, ojotas (en Argentina) | |
+  | ![](images/a1/0202.jpg) | pantalón | s., m. |  | Elena lleva un pantalón de vestir de color negro. | | |
+  | ![](images/a1/0203.jpg) | bufanda | s., f. |  | Hoy hace mucho frío y la chica se abriga con una bufanda. | | |
+  | ![](images/a1/0204.jpg) | gorro | s., m. |  | La chica lleva un gorro de varios colores. | | |
+  | ![](images/a1/0205.jpg) | azul | adj., m./f. |  | El pez es azul. | | |
+  | ![](images/a1/0206.jpg) | rosa | adj., m./f. |  | La niña lleva un vestido rosa. | | |
+  | ![](images/a1/0207.jpg) | talla | s., f. |  | La camisa roja es de la talla S. | medida | |
