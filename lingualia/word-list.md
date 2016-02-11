@@ -199,15 +199,15 @@
   | ![](images/a1/0193.jpg) | vestido | s., m. | 连衣裙 | La actriz Salma Hayek lleva un bonito vestido. | | |
   | ![](images/a1/0194.jpg) | sol | s., m. | 太阳 | Hoy hace un día con mucho sol. | | |
   | ![](images/a1/0195.jpg) | guapo | adj., m. | 帅的，好看的 | Ryan Gosling, además de buen actor, es muy guapo. | | feo |
-	| ![](images/a1/0196.jpg) | oferta | s., f. |  | En esta tienda hay una oferta. | promoción | |
-  | ![](images/a1/0197.jpg) | viejo | adj., m. |  | El coche está muy viejo. | | |
-  | ![](images/a1/0198.jpg) | dependiente | s., m. |  | La dependienta atiende al hombre. | empleado, vendedor | |
-  | ![](images/a1/0199.jpg) | invierno | s., m. |  | En invierno las personas llevan abrigo. | | verano, estío |
-  | ![](images/a1/0200.jpg) | blusa | s., f. |  | La chica viste una blusa blanca. | túnica, camisola | |
-  | ![](images/a1/0201.jpg) | sandalias | s., f. |  | Estas sandalias llevan un poco de tacón. | chanclas, ojotas (en Argentina) | |
-  | ![](images/a1/0202.jpg) | pantalón | s., m. |  | Elena lleva un pantalón de vestir de color negro. | | |
-  | ![](images/a1/0203.jpg) | bufanda | s., f. |  | Hoy hace mucho frío y la chica se abriga con una bufanda. | | |
-  | ![](images/a1/0204.jpg) | gorro | s., m. |  | La chica lleva un gorro de varios colores. | | |
-  | ![](images/a1/0205.jpg) | azul | adj., m./f. |  | El pez es azul. | | |
-  | ![](images/a1/0206.jpg) | rosa | adj., m./f. |  | La niña lleva un vestido rosa. | | |
-  | ![](images/a1/0207.jpg) | talla | s., f. |  | La camisa roja es de la talla S. | medida | |
+	| ![](images/a1/0196.jpg) | oferta | s., f. | 折扣 | En esta tienda hay una oferta. | promoción | |
+  | ![](images/a1/0197.jpg) | viejo | adj., m. | 旧的，老的 | El coche está muy viejo. | | |
+  | ![](images/a1/0198.jpg) | dependiente | s., m. | 店员 | La dependienta atiende al hombre. | empleado, vendedor | |
+  | ![](images/a1/0199.jpg) | invierno | s., m. | 冬天 | En invierno las personas llevan abrigo. | | verano, estío |
+  | ![](images/a1/0200.jpg) | blusa | s., f. | 女衬衣 | La chica viste una blusa blanca. | túnica, camisola | |
+  | ![](images/a1/0201.jpg) | sandalias | s., f. | 拖鞋 | Estas sandalias llevan un poco de tacón. | chanclas, ojotas (en Argentina) | |
+  | ![](images/a1/0202.jpg) | pantalón | s., m. | 裤子 | Elena lleva un pantalón de vestir de color negro. | | |
+  | ![](images/a1/0203.jpg) | bufanda | s., f. | 围巾 | Hoy hace mucho frío y la chica se abriga con una bufanda. | | |
+  | ![](images/a1/0204.jpg) | gorro | s., m. | 无檐帽 | La chica lleva un gorro de varios colores. | | |
+  | ![](images/a1/0205.jpg) | azul | adj., m./f. | 蓝色 | El pez es azul. | | |
+  | ![](images/a1/0206.jpg) | rosa | adj., m./f. | 粉红色的，玫瑰色的 | La niña lleva un vestido rosa. | | |
+  | ![](images/a1/0207.jpg) | talla | s., f. | 型号 | La camisa roja es de la talla S. | medida | |
