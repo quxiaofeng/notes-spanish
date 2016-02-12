@@ -3,7 +3,7 @@
 - **A1**
 
 	| 图片 | 单词 | 词性 | 释义 | 例句 | 近义词 | 反义词 |
-	| :---: | --- | ---- | ---- | ---- | ---- | ----- |
+	| :----: | --- | ---- | ---- | ---- | ---- | ---- |
 	| ![](images/a1/0001.jpg) | nombre | s., m. | 名字 | Mi nombre es Isabel. | identidad | |
 	| ![](images/a1/0002.jpg) | apellido | s., m. | 姓 | Mi apellido es Martínez. | nombre de familia | |
 	| ![](images/a1/0003.jpg) | abecedario | s., m. | 字母表 | El abecedario español tiene 27 letras. | alfabeto | |
