@@ -195,7 +195,7 @@
 
 - 一般现在时，不规则变位(1)
 
-  不规则变位(1)词根变位，元音：`e < ie`
+  第一种不规则变位，词根：`e < ie`
 
   例如 `QUERER` 的词根不是 `QUER-` 而是 `QUIER-` （你们和我们除外，是规则的）：
 
@@ -203,12 +203,12 @@
 
   变位：
 
-  > Yo quiero <br>
-  > Tú quieres <br>
-  > Él quiere <br>
+  > Yo **quiero** <br>
+  > Tú **quieres** <br>
+  > Él **quiere** <br>
   > Nosotros queremos <br>
   > Vosotros queréis <br>
-  > Ellos quieren
+  > Ellos **quieren**
 
   其他不规则动词
 

@@ -210,4 +210,40 @@
   | ![](images/a1/0204.jpg) | gorro | s., m. | 无檐帽 | La chica lleva un gorro de varios colores. | | |
   | ![](images/a1/0205.jpg) | azul | adj., m./f. | 蓝色 | El pez es azul. | | |
   | ![](images/a1/0206.jpg) | rosa | adj., m./f. | 粉红色的，玫瑰色的 | La niña lleva un vestido rosa. | | |
-  | ![](images/a1/0207.jpg) | talla | s., f. | 型号 | La camisa roja es de la talla S. | medida | |
+  | ![](images/a1/0207.jpg) | talla | s., f. | 型号，大小 | La camisa roja es de la talla S. | medida | |
+  | ![](images/a1/0208.jpg) | guardar | v., tr. | 保存，保留 | La señora guarda la comida en la nevera. | | |
+  | ![](images/a1/0209.jpg) | banco | s., m. | 银行 | Ellos van al banco a sacar dinero. | | |
+  | ![](images/a1/0210.jpg) | norte | s., m. | 北方 | España está al norte de África. | | sur |
+  | ![](images/a1/0211.jpg) | sur | s., m. | 南方 | España está al sur de Francia. | | norte |
+  | ![](images/a1/0212.jpg) | este | s., m. | 东方 | Valencia está al este de España. | oriente | |
+  | ![](images/a1/0213.jpg) | oeste | s., m. | 西方 | Portugal está al oeste de la Península Ibérica. | occidente | |
+  | ![](images/a1/0214.jpg) | camisa | s., f. | 衬衫 | El chico viste una camisa con cuello a rayas. | blusa (para mujer) | |
+  | ![](images/a1/0215.jpg) | corbata | s., f. | 领带 | El modelo lleva un traje con corbata. | | |
+  | ![](images/a1/0216.jpg) | zapatillas | s., f. | 运动鞋 | Estas zapatillas tienen un color muy llamativo. | deportivas, bambas (en Barcelona), tenis (en México), playeras (en el norte de España) | |
+  | ![](images/a1/0217.jpg) | marrón | adj., m./f. | 棕色的 | La chica tiene los ojos de color marrón. | castaño (para cabello) | |
+  | ![](images/a1/0218.jpg) | primavera | s., f. | 春天 | Las flores se abren en primavera. | | |
+  | ![](images/a1/0219.jpg) | pedir | v., tr. | 请求 | El perro pide la comida. | | |
+  | ![](images/a1/0220.jpg) | viudo | adj., m. | 丧偶的 | La madre de Ana y Pedro es viuda. | | |
+  | ![](images/a1/0221.jpg) | serio | adj., m. | 严肃的 | Nuestro jefe es muy serio. | seco (coloq.) | alegre |
+  | ![](images/a1/0222.jpg) | bigote | s., m. | 胡子 | El hombre lleva un bigote muy largo. | mostacho | |
+  | ![](images/a1/0223.jpg) | barba | s., f. | 络腮胡 | Manuel tiene barba. | perilla | |
+  | ![](images/a1/0224.jpg) | edificio | s., m. | 建筑物 | Este edificio es muy moderno y alto. | | |
+  | ![](images/a1/0225.jpg) | calcetines | s., m. | 袜子 | Este hombre lleva calcetines para andar por casa. | zoquetes (en Argentina) | |
+  | ![](images/a1/0226.jpg) | jersey | s., m. | 毛衣 | Su jersey es muy ancho. | pulóver (en Argentina), suéter | |
+  | ![](images/a1/0227.jpg) | traje | s., m. | 西装 | El niño lleva un traje negro a la fiesta. | | |
+  | ![](images/a1/0228.jpg) | tío | s., m. | 叔叔 | Mi tío se parece a mi padre. | | |
+  | ![](images/a1/0229.jpg) | soltero | adj., m. | 单身的 | Julieta no tiene novio, está soltera. | | |
+  | ![](images/a1/0230.jpg) | coger | v., tr. | 拿起 | El niño coge una manzana del árbol. | | |
+  | ![](images/a1/0231.jpg) | policía | s., m./f. | 警察 | El policía dirige el tráfico. | agente | |
+  | ![](images/a1/0232.jpg) | primero | adj., m. | 第一的 | La chica llega la primera a la meta de la carrera. | | último |
+  | ![](images/a1/0233.jpg) | segundo | adj., m. | 第二的 | Julián es el segundo en la cola. | | |
+  | ![](images/a1/0234.jpg) | amplio | adj., m. | 宽的 | La plaza de Tian’anmen en China es la más amplia del mundo. | | estrecho |
+  | ![](images/a1/0235.jpg) | alfombra | s., f. | 地毯 | En mi habitación hay una pequeña alfombra de colores. | | |
+  | ![](images/a1/0236.jpg) | dormitorio | s., m. | 卧室 | Este es el dormitorio del bebé. | cuarto | |
+  | ![](images/a1/0237.jpg) | cajero | s., m. | 收银员 | Mariví trabaja como cajera en el supermercado. | | |
+  | ![](images/a1/0238.jpg) | recto | adj., m. | 直的，直接的 | Todo recto está la plaza principal de la ciudad. | | |
+  | ![](images/a1/0239.jpg) | bañador | s., m. | 泳衣 | El chico viste un bañador gris para ir a la playa. | | |
+  | ![](images/a1/0240.jpg) | museo | s., m. | 博物馆 | Hoy vamos al museo de arte. | | |
+  | ![](images/a1/0241.jpg) | exposición | s., f. | 展览 | Estamos en la exposición de automóviles clásicos. | | |
+  | ![](images/a1/0242.jpg) | nadar | v., intr. | 游泳 | El perro nada muy bien. | bracear | hundirse |
+  | ![](images/a1/0243.jpg) | piscina | s., f. | 游泳池 | Los niños están dentro de la piscina. | | |
