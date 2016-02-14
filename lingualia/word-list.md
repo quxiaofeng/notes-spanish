@@ -138,7 +138,7 @@
   | ![](images/a1/0132.jpg) | sillón | s., m. | 扶手椅 | Mi abuelo lee un libro en el sillón. | butaca | |
   | ![](images/a1/0133.jpg) | jugar | v., tr./intr. | 玩 | El perro juega con la pelota. | | |
   | ![](images/a1/0134.jpg) | calefacción | s., f. | 暖气 | La calefacción está encendida. | | |
-  | ![](images/a1/0135.jpg) | parque | s., m. | 公园 | Muchas personas pasean por el parque. | | |
+  | ![](images/a1/0135.jpg) | parque | s., m. | 公园 | Muchas personas pasean por el parque. | jardín, bosque | |
   | ![](images/a1/0136.jpg) | pesimista | adj., m./f. | 悲观的 | El chico es pesimista, piensa que va a suspender el examen. | | optimista |
   | ![](images/a1/0137.jpg) | separado | adj., m. | 分居 | Toni y María están separados desde hace quince meses. | | |
   | ![](images/a1/0138.jpg) | merendar | v., tr. | 吃下午茶 | El niño merienda un vaso de leche después del colegio. | | |
@@ -153,7 +153,7 @@
   | ![](images/a1/0147.jpg) | ojo | s., m. | 眼睛 | El bebé tiene los ojos de color azul. | | |
   | ![](images/a1/0148.jpg) | primo | s., m. | 表，堂兄弟 | David (izquierda) es el primo de Dani (derecha). | | |
   | ![](images/a1/0149.jpg) | Universidad | s., f. | 大学 | La Universidad de Harvard es la más famosa y conocida del mundo. | | |
-  | ![](images/a1/0150.jpg) | comprender | v., tr. | 理解 | El chico no comprende la fórmula matemática. | | |
+  | ![](images/a1/0150.jpg) | comprender | v., tr. | 理解 | El chico no comprende la fórmula matemática. | entender, captar, enterarse | ignorar, desconocer |
   | ![](images/a1/0151.jpg) | repetir | v., tr. | 重复 | Siempre se repite la misma frase. | rehacer | |
   | ![](images/a1/0152.jpg) | horario | s., m. | 时间表 | El horario de apertura de la consulta es de 16 a 18h. | programa, agenda | |
   | ![](images/a1/0153.jpg) | currículum | s., m. | 简历 | Su currículum vitae no tiene foto. | currículum vitae, historial, hoja de vida | |
@@ -172,7 +172,7 @@
   | ![](images/a1/0166.jpg) | concierto | s., m. | 演唱会 | Esta noche hay un concierto de Robbie Williams. | audición, función, sesión | |
   | ![](images/a1/0167.jpg) | entrada | s., f. | 入场券 | La entrada del cine cuesta 3,50 euros. | billete, tarjeta, tique | |
   | ![](images/a1/0168.jpg) | bailar | v., tr./intr. | 跳舞 | Ellos bailan un tango. | danzar | |
-  | ![](images/a1/0169.jpg) | cantar | v., tr./intr. | 唱歌 | Anabel canta una canción. | | |
+  | ![](images/a1/0169.jpg) | cantar | v., tr./intr. | 唱歌 | Anabel canta una canción. | entonar, interpretar | |
   | ![](images/a1/0170.jpg) | cama | s., f. | 床 | Su cama es muy grande. | | |
   | ![](images/a1/0171.jpg) | rojo | adj., m. | 红色的 | El pintalabios es de color rojo. | encarnado, escarlata | |
   | ![](images/a1/0172.jpg) | cuchara | s., f. | 勺子 | Ella toma la sopa con cuchara. | | |
@@ -187,10 +187,10 @@
   | ![](images/a1/0181.jpg) | cocina | s., f. | 厨房 | Los cocineros preparan la cena en la cocina. | | |
   | ![](images/a1/0182.jpg) | pagar | v., tr. | 付款 | La mujer paga la compra del mercado. | abonar | cobrar |
   | ![](images/a1/0183.jpg) | pensar | v., tr. | 想，思考 | El estudiante piensa la respuesta de la fórmula matemática. | razonar, reflexionar | |
-  | ![](images/a1/0184.jpg) | volver | v., tr. | 返回，回到 | La familia vuelve a casa de sus vacaciones. | | |
+  | ![](images/a1/0184.jpg) | volver | v., tr. | 返回，回到 | La familia vuelve a casa de sus vacaciones. | regresar, retornar | irse, marcharse |
   | ![](images/a1/0185.jpg) | calle | s., f. | 街道 | La calle está vacía. | vía | |
   | ![](images/a1/0186.jpg) | estrecho | adj., m. | 窄的 | El paso más estrecho del mundo está en Praga. | ajustado | ancho, amplio |
-  | ![](images/a1/0187.jpg) | entrar | v., intr. | 进入 | La persona entra por la puerta. | | salir |
+  | ![](images/a1/0187.jpg) | entrar | v., intr. | 进入 | La persona entra por la puerta. | pasar, acceder | salir |
   | ![](images/a1/0188.jpg) | ir a pie | expr. | 步行 | Ellos van a pie al trabajo. | caminar, andar | |
   | ![](images/a1/0189.jpg) | falda | s., f. | 短裙 | La chica lleva una falda de color verde. | pollera (en Argentina) | |
   | ![](images/a1/0190.jpg) | verde | adj., m./.f | 绿色 | La hierba es de color verde. | | |
@@ -198,9 +198,9 @@
   | ![](images/a1/0192.jpg) | discoteca | s., f. | 歌舞厅 | En Ibiza hay muchas discotecas. | disco, club | |
   | ![](images/a1/0193.jpg) | vestido | s., m. | 连衣裙 | La actriz Salma Hayek lleva un bonito vestido. | | |
   | ![](images/a1/0194.jpg) | sol | s., m. | 太阳 | Hoy hace un día con mucho sol. | | |
-  | ![](images/a1/0195.jpg) | guapo | adj., m. | 帅的，好看的 | Ryan Gosling, además de buen actor, es muy guapo. | | feo |
+  | ![](images/a1/0195.jpg) | guapo | adj., m. | 帅的，好看的 | Ryan Gosling, además de buen actor, es muy guapo. | lindo (en Argentina), atractivo, bello, hermoso | feo |
   | ![](images/a1/0196.jpg) | oferta | s., f. | 折扣 | En esta tienda hay una oferta. | promoción | |
-  | ![](images/a1/0197.jpg) | viejo | adj., m. | 旧的，老的 | El coche está muy viejo. | | |
+  | ![](images/a1/0197.jpg) | viejo | adj., m. | 旧的，老的 | El coche está muy viejo. | anciano, abuelo (persona), anticuado, estropeado (objetos) | joven (persona), moderno (objeto) |
   | ![](images/a1/0198.jpg) | dependiente | s., m. | 店员 | La dependienta atiende al hombre. | empleado, vendedor | |
   | ![](images/a1/0199.jpg) | invierno | s., m. | 冬天 | En invierno las personas llevan abrigo. | | verano, estío |
   | ![](images/a1/0200.jpg) | blusa | s., f. | 女衬衣 | La chica viste una blusa blanca. | túnica, camisola | |
@@ -211,7 +211,7 @@
   | ![](images/a1/0205.jpg) | azul | adj., m./f. | 蓝色 | El pez es azul. | | |
   | ![](images/a1/0206.jpg) | rosa | adj., m./f. | 粉红色的，玫瑰色的 | La niña lleva un vestido rosa. | | |
   | ![](images/a1/0207.jpg) | talla | s., f. | 型号，大小 | La camisa roja es de la talla S. | medida | |
-  | ![](images/a1/0208.jpg) | guardar | v., tr. | 保存，保留 | La señora guarda la comida en la nevera. | | |
+  | ![](images/a1/0208.jpg) | guardar | v., tr. | 保存，保留 | La señora guarda la comida en la nevera. | esconder, conservar, tener, almacenar | sacar, entregar, dar |
   | ![](images/a1/0209.jpg) | banco | s., m. | 银行 | Ellos van al banco a sacar dinero. | | |
   | ![](images/a1/0210.jpg) | norte | s., m. | 北方 | España está al norte de África. | | sur |
   | ![](images/a1/0211.jpg) | sur | s., m. | 南方 | España está al sur de Francia. | | norte |
@@ -222,28 +222,88 @@
   | ![](images/a1/0216.jpg) | zapatillas | s., f. | 运动鞋 | Estas zapatillas tienen un color muy llamativo. | deportivas, bambas (en Barcelona), tenis (en México), playeras (en el norte de España) | |
   | ![](images/a1/0217.jpg) | marrón | adj., m./f. | 棕色的 | La chica tiene los ojos de color marrón. | castaño (para cabello) | |
   | ![](images/a1/0218.jpg) | primavera | s., f. | 春天 | Las flores se abren en primavera. | | |
-  | ![](images/a1/0219.jpg) | pedir | v., tr. | 请求 | El perro pide la comida. | | |
+  | ![](images/a1/0219.jpg) | pedir | v., tr. | 请求 | El perro pide la comida. | solicitar, reclamar | dar, ofrecer |
   | ![](images/a1/0220.jpg) | viudo | adj., m. | 丧偶的 | La madre de Ana y Pedro es viuda. | | |
   | ![](images/a1/0221.jpg) | serio | adj., m. | 严肃的 | Nuestro jefe es muy serio. | seco (coloq.) | alegre |
   | ![](images/a1/0222.jpg) | bigote | s., m. | 胡子 | El hombre lleva un bigote muy largo. | mostacho | |
   | ![](images/a1/0223.jpg) | barba | s., f. | 络腮胡 | Manuel tiene barba. | perilla | |
-  | ![](images/a1/0224.jpg) | edificio | s., m. | 建筑物 | Este edificio es muy moderno y alto. | | |
+  | ![](images/a1/0224.jpg) | edificio | s., m. | 建筑物 | Este edificio es muy moderno y alto. | bloque, finca | |
   | ![](images/a1/0225.jpg) | calcetines | s., m. | 袜子 | Este hombre lleva calcetines para andar por casa. | zoquetes (en Argentina) | |
   | ![](images/a1/0226.jpg) | jersey | s., m. | 毛衣 | Su jersey es muy ancho. | pulóver (en Argentina), suéter | |
   | ![](images/a1/0227.jpg) | traje | s., m. | 西装 | El niño lleva un traje negro a la fiesta. | | |
   | ![](images/a1/0228.jpg) | tío | s., m. | 叔叔 | Mi tío se parece a mi padre. | | |
   | ![](images/a1/0229.jpg) | soltero | adj., m. | 单身的 | Julieta no tiene novio, está soltera. | | |
-  | ![](images/a1/0230.jpg) | coger | v., tr. | 拿起 | El niño coge una manzana del árbol. | | |
+  | ![](images/a1/0230.jpg) | coger | v., tr. | 拿起 | El niño coge una manzana del árbol. | tomar, agarrar, sujetar | soltar, dejar, liberar |
   | ![](images/a1/0231.jpg) | policía | s., m./f. | 警察 | El policía dirige el tráfico. | agente | |
-  | ![](images/a1/0232.jpg) | primero | adj., m. | 第一的 | La chica llega la primera a la meta de la carrera. | | último |
-  | ![](images/a1/0233.jpg) | segundo | adj., m. | 第二的 | Julián es el segundo en la cola. | | |
-  | ![](images/a1/0234.jpg) | amplio | adj., m. | 宽的 | La plaza de Tian’anmen en China es la más amplia del mundo. | | estrecho |
-  | ![](images/a1/0235.jpg) | alfombra | s., f. | 地毯 | En mi habitación hay una pequeña alfombra de colores. | | |
+  | ![](images/a1/0232.jpg) | primero | adj., m. | 第一的 | La chica llega la primera a la meta de la carrera. | inicial, principal | último |
+  | ![](images/a1/0233.jpg) | segundo | adj., m. | 第二的 | Julián es el segundo en la cola. | posterior, siguiente | |
+  | ![](images/a1/0234.jpg) | amplio | adj., m. | 宽的 | La plaza de Tian’anmen en China es la más amplia del mundo. | grande, ancho | estrecho |
+  | ![](images/a1/0235.jpg) | alfombra | s., f. | 地毯 | En mi habitación hay una pequeña alfombra de colores. | moqueta, tapiz, felpudo | |
   | ![](images/a1/0236.jpg) | dormitorio | s., m. | 卧室 | Este es el dormitorio del bebé. | cuarto | |
   | ![](images/a1/0237.jpg) | cajero | s., m. | 收银员 | Mariví trabaja como cajera en el supermercado. | | |
-  | ![](images/a1/0238.jpg) | recto | adj., m. | 直的，直接的 | Todo recto está la plaza principal de la ciudad. | | |
+  | ![](images/a1/0238.jpg) | recto | adj., m. | 直的，直接的 | Todo recto está la plaza principal de la ciudad. | derecho, directo | |
   | ![](images/a1/0239.jpg) | bañador | s., m. | 泳衣 | El chico viste un bañador gris para ir a la playa. | | |
-  | ![](images/a1/0240.jpg) | museo | s., m. | 博物馆 | Hoy vamos al museo de arte. | | |
-  | ![](images/a1/0241.jpg) | exposición | s., f. | 展览 | Estamos en la exposición de automóviles clásicos. | | |
+  | ![](images/a1/0240.jpg) | museo | s., m. | 博物馆 | Hoy vamos al museo de arte. | galería, sala | |
+  | ![](images/a1/0241.jpg) | exposición | s., f. | 展览 | Estamos en la exposición de automóviles clásicos. | muestra, exhibición | |
   | ![](images/a1/0242.jpg) | nadar | v., intr. | 游泳 | El perro nada muy bien. | bracear | hundirse |
-  | ![](images/a1/0243.jpg) | piscina | s., f. | 游泳池 | Los niños están dentro de la piscina. | | |
+  | ![](images/a1/0243.jpg) | piscina | s., f. | 游泳池 | Los niños están dentro de la piscina. | alberca (en México y Honduras, piscina deportiva), pileta (en Argentina, Bolivia y Uruguay) | |
+  | ![](images/a1/0244.jpg) | tímido | adj., m. | 害羞的 | El chico es demasiado tímido y se pone rojo. | | extrovertido |
+  | ![](images/a1/0245.jpg) | pareja | s., f. | 伴侣 | Julia es la pareja de Luis. | | |
+  | ![](images/a1/0246.jpg) | avenida | s., f. | 大道 | Los novios pasean por la avenida de los Campos Elíseos de París. | vía, paseo | |
+  | ![](images/a1/0247.jpg) | ópera | s., f. | 歌剧 | Esta es la cantante de ópera. | | |
+  | ![](images/a1/0248.jpg) | actuar | v. intr. | 表演 | Los actores actúan en la obra de teatro. | | |
+  | ![](images/a1/0249.jpg) | música | s., f. | 音乐 | Nosotros vamos a un concierto de música clásica. | | |
+  | ![](images/a1/0250.jpg) | pase | s., m. | 通行证 | Ella tiene un pase de prensa. | | |
+  | ![](images/a1/0251.jpg) | prismáticos | s., m. | 望远镜 | Él utiliza los prismáticos para ver mejor. | anteojos, binoculares | |
+  | ![](images/a1/0252.jpg) | vino | s., m. | 葡萄酒，白酒 | El camarero sirve una botella de vino. | caldo | |
+  | ![](images/a1/0253.jpg) | copa | s., f. | 杯子 | Ellos brindan con copas de cristal. | vaso | |
+  | ![](images/a1/0254.jpg) | exótico | adj., m. | 外来的 | El durián es un fruto exótico de Asia. | extravagante, forastero | autóctono, nacional |
+  | ![](images/a1/0255.jpg) | palco | s., m. | 包厢 | Los espectadores están en el palco del teatro. | platea, balcón | |
+  | ![](images/a1/0256.jpg) | aeropuerto | s., m. | 飞机场 | Nosotros estamos en el aeropuerto. | aeródromo | |
+  | ![](images/a1/0257.jpg) | mochila | s., f. | 背包 | Los chicos van con mochila a la escuela. | | |
+  | ![](images/a1/0258.jpg) | pasaporte | s., m. | 护照 | Ella enseña su pasaporte. | | |
+  | ![](images/a1/0259.jpg) | avión | s., m. | 飞机 | Ese avión es el nuestro. | aeronave, aeroplano | |
+  | ![](images/a1/0260.jpg) | montaña | s., f. | 山 | Esta montaña está en Tenerife. | monte, sierra | |
+  | ![](images/a1/0261.jpg) | volar | v., intr. | 飞 | El pájaro vuela muy alto. | | |
+  | ![](images/a1/0262.jpg) | miedo | s., m. | 害怕，恐惧 | Scooby-Doo siempre tiene miedo. | temor, terror, pánico | valor, valentía |
+  | ![](images/a1/0263.jpg) | otoño | s., m. | 秋天 | El paisaje en otoño es de color marrón. | | |
+  | ![](images/a1/0264.jpg) | maleta | s., f. | 箱子 | No puedo cerrar la maleta. | valija, equipaje | |
+  | ![](images/a1/0265.jpg) | hotel | s., m. | 旅店，宾馆 | Este hotel es enorme. | | |
+  | ![](images/a1/0266.jpg) | recuerdo | s., m. | 纪念品 | Estos recuerdos son de Holanda. | souvenir (voz francesa) | |
+  | ![](images/a1/0267.jpg) | hostal | s., m. | 小旅馆 | Nuestro hostal es un poco antiguo. | | |
+  | ![](images/a1/0268.jpg) | gimnasio | s., m. | 体育馆 | Los chicos están haciendo deporte en el gimnasio. | | |
+  | ![](images/a1/0269.jpg) | baloncesto | s., m. | 篮球 | Nosotros jugamos a baloncesto por las tardes. | básquet (en Argentina), basket | |
+  | ![](images/a1/0270.jpg) | fútbol | s., m. | 足球 | El chico juega al fútbol. | balompié | |
+  | ![](images/a1/0271.jpg) | partido | s., m. | 比赛 | El partido va a comenzar. | competición, partida | |
+  | ![](images/a1/0272.jpg) | esquiar | v., intr. | 滑雪 | Las personas esquían en la nieve. | | |
+  | ![](images/a1/0273.jpg) | ganar | v., tr. | 赢得，获胜 | Los jugadores que ganan levantan la copa. | vencer | perder |
+  | ![](images/a1/0274.jpg) | deportista | s./adj., m./f. | 运动员 | Rafa Nadal es uno de los mejores deportistas españoles. | gimnasta, jugador, atleta | |
+  | ![](images/a1/0275.jpg) | estadio | s., m. | 体育场 | El estadio es bastante grande. | | |
+  | ![](images/a1/0276.jpg) | tenis | s., m. | 网球 | Las chicas juegan a tenis. | | |
+  | ![](images/a1/0277.jpg) | raqueta | s., f. | 球拍 | Estas son mis raquetas. | pala | |
+  | ![](images/a1/0278.jpg) | equipo | s., m. | 球队 | El equipo saluda a los espectadores. | conjunto | |
+  | ![](images/a1/0279.jpg) | balón | s., m. | 球 | El balón está muy usado. | pelota, bola, esférico, cuero | |
+  | ![](images/a1/0280.jpg) | disco | s., m. | 光碟 | Vamos a escuchar este disco. | CD (cedé) | |
+  | ![](images/a1/0281.jpg) | festival | s., m. | 节日 | Los actores van al festival de cine. | certamen, muestra | |
+  | ![](images/a1/0282.jpg) | programa | s., m. | 计划，项目 | Los espectadores leen el programa de las fiestas. | plan, programación | |
+  | ![](images/a1/0283.jpg) | escenario | s., m. | 舞台，场景 | Los artistas no están aún sobre el escenario. | | |
+  | ![](images/a1/0284.jpg) | espectacular | adj., m./f. | 壮观的 | Esta limusina es espectacular. | grandioso | |
+  | ![](images/a1/0285.jpg) | de bote en bote | expr. coloq. | 人山人海的 | La discoteca está de bote en bote esta noche. | lleno, hasta los topes (expr.), hasta la bandera (expr.) | |
+  | ![](images/a1/0286.jpg) | gira | s., f. | 巡回演出 | Este cantante tiene una gran gira por delante. | tournée, tour (voz francesa), turné | |
+  | ![](images/a1/0287.jpg) | mundial | adj., m./f. | 全球的 | El día de la madre es una celebración mundial. | internacional | local, nacional |
+  | ![](images/a1/0288.jpg) | revista | s., f. | 杂志 | Ellas leen una revista. | | |
+  | ![](images/a1/0289.jpg) | hacer cola | expr. coloq. | 排队 | Las personas hacen cola en la taquilla del cine. | | |
+  | ![](images/a1/0290.jpg) | oportunidad | s., f. | 机会 | El precio de estos ordenadores es una oportunidad única. | ocasión | |
+  | ![](images/a1/0291.jpg) | en directo | expr. | 直接 | El locutor de radio explica el partido en directo. | en vivo | en diferido (para tv y radio), en play-back (voz inglesa, para la música) |
+  | ![](images/a1/0292.jpg) | almorzar | v., tr. | 吃午餐 | Ellos almuerzan un bocadillo en el bar. | | |
+  | ![](images/a1/0293.jpg) | plátano | s., m. | 香蕉 | El postre es plátano con chocolate. | banana (en Argentina) | |
+  | ![](images/a1/0294.jpg) | melocotón | s., m. | 桃子 | El niño come un melocotón. | durazno (en Argentina y México) | |
+  | ![](images/a1/0295.jpg) | té | s., m. | 茶 | A María le gusta beber té. | infusión | |
+  | ![](images/a1/0296.jpg) | cafetería | s., f. | 咖啡厅 | Las amigas toman algo en la cafetería. | café | |
+  | ![](images/a1/0297.jpg) | plaza | s., f. |  | Esta es la plaza Quancheng de la ciudad de Jinan. | glorieta, ciudadela | |
+  | ![](images/a1/0298.jpg) | fuente | s., f. | 喷泉 | El perro bebe agua de la fuente. | fontana, manantial | |
+  | ![](images/a1/0299.jpg) | terraza | s., f. | 屋顶，阳台 | Mis amigas y yo tomamos unas tapas en la terraza del bar. | | |
+  | ![](images/a1/0300.jpg) | antiguo | adj., m. | 古老的 | Esta escultura es muy antigua. | viejo, anticuado, tradicional | reciente, actual, moderno |
+  | ![](images/a1/0301.jpg) | dar una vuelta | expr. | 出去走走 | Ellos dan una vuelta por la playa. | | |
+  | ![](images/a1/0302.jpg) | domingo | s., m. | 周日 | El domingo las tiendas están cerradas. | | |
+  | ![](images/a1/0303.jpg) | acompañar | v., tr. | 陪伴 | La madre acompaña a sus hijas al colegio. | | abandonar |

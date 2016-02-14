@@ -143,14 +143,18 @@
   > El chico coge a su gato en brazos <br>
   > Yo salgo de casa.
 
-  有些动词的变位是两种或多种变位的组合：
+- 一般现在时：不规则变位(6)
+
+  第六种不规则变位，两种或多种变位的组合：
 
   > decir: <br> (yo) **digo**, (tú) **dices**, (él) **dice**, (nos.) decimos, (vos.) decís, (ellos) **dicen** <br>
   > tener: <br> (yo) **tengo**, (tú) **tienes**, (él) **tiene**, (nos.) tenemos, (vos.) tenéis, (ellos) **tienen** <br>
   > venir: <br> (yo) **vengo**, (tú) **vienes**, (él) **viene**, (nos.) venimos, (vos.) venís, (ellos) **vienen** <br>
   > oír: <br> (yo) **oigo**, (tú) **oyes**, (él) **oye**, (nos.) oímos, (vos.) oís, (ellos) **oyen** <br>
 
-  完全不规则的变位 `ir`：
+- 一般现在时：不规则变位(7)
+
+  第七种不规则变位，完全不规则的变位 `ir`：
 
   > ir: <br> (yo) **voy**, (tú) **vas**, (él) **va**, (nos.) **vamos**, (vos.) **vais**, (ellos) **van**
 
