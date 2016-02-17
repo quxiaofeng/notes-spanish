@@ -300,10 +300,22 @@
   | ![](images/a1/0294.jpg) | melocotón | s., m. | 桃子 | El niño come un melocotón. | durazno (en Argentina y México) | |
   | ![](images/a1/0295.jpg) | té | s., m. | 茶 | A María le gusta beber té. | infusión | |
   | ![](images/a1/0296.jpg) | cafetería | s., f. | 咖啡厅 | Las amigas toman algo en la cafetería. | café | |
-  | ![](images/a1/0297.jpg) | plaza | s., f. |  | Esta es la plaza Quancheng de la ciudad de Jinan. | glorieta, ciudadela | |
+  | ![](images/a1/0297.jpg) | plaza | s., f. | 广场 | Esta es la plaza Quancheng de la ciudad de Jinan. | glorieta, ciudadela | |
   | ![](images/a1/0298.jpg) | fuente | s., f. | 喷泉 | El perro bebe agua de la fuente. | fontana, manantial | |
   | ![](images/a1/0299.jpg) | terraza | s., f. | 屋顶，阳台 | Mis amigas y yo tomamos unas tapas en la terraza del bar. | | |
   | ![](images/a1/0300.jpg) | antiguo | adj., m. | 古老的 | Esta escultura es muy antigua. | viejo, anticuado, tradicional | reciente, actual, moderno |
   | ![](images/a1/0301.jpg) | dar una vuelta | expr. | 出去走走 | Ellos dan una vuelta por la playa. | | |
   | ![](images/a1/0302.jpg) | domingo | s., m. | 周日 | El domingo las tiendas están cerradas. | | |
   | ![](images/a1/0303.jpg) | acompañar | v., tr. | 陪伴 | La madre acompaña a sus hijas al colegio. | | abandonar |
+  | ![](images/a1/0304.jpg) | Derecho | s., m. | 法律 | La balanza es el símbolo del Derecho. | | |
+  | ![](images/a1/0305.jpg) | entrevista | s., f. | 面试 | La mujer hace una entrevista al candidato. | reunión, encuentro | |
+  | ![](images/a1/0306.jpg) | jornada laboral | s., f. | 工作时间 | Su jornada laboral es muy larga. | | |
+  | ![](images/a1/0307.jpg) | Arte | s., f. | 艺术 | Yo estudio Arte. | | |
+  | ![](images/a1/0308.jpg) | empresa | s., f. | 公司 | Este es el edificio de nuestra empresa. | compañía | |
+  | ![](images/a1/0309.jpg) | ejercicio | s., m. | 作业 | La niña hace un ejercicio para la clase de lengua. | práctica, prueba | |
+  | ![](images/a1/0310.jpg) | Medicina | s., f. | 医学 | Él es médico y ha estudiado Medicina. | | |
+  | ![](images/a1/0311.jpg) | oficina | s., f. | 办公室 | No hay nadie en la oficina. | despacho | |
+  | ![](images/a1/0312.jpg) | prueba | s., f. | 测试 | Hoy tienen una prueba. | examen, demostración, ejercicio | |
+  | ![](images/a1/0313.jpg) | temporal | adj., m./f. | 暂时的 | Los dientes de leche son temporales. | eventual, provisional | indefinido, permanente, fijo |
+  | ![](images/a1/0314.jpg) | anuncio | s., m. | 通知 | Este es un anuncio de una bebida muy famosa. | aviso, publicidad | |
+  | ![](images/a1/0315.jpg) | suerte | s., f. | 运气 | El trébol es un símbolo de buena suerte. | fortuna, ventura | desgracia |
