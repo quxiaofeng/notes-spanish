@@ -367,3 +367,27 @@
   | ![](images/a1/0361.jpg) | distancia | s., f. | 距离 | La distancia entre Barcelona y Madrid es de 622 kilómetros. | separación, lejanía | cercanía, proximidad |
   | ![](images/a1/0362.jpg) | botas | s., f. | 靴子 | La chica lleva botas de invierno. | | |
   | ![](images/a1/0363.jpg) | nevar | v., intr. | 下雪 | Hoy está nevando en la ciudad. | | |
+  | ![](images/a1/0364.jpg) | eco | s., m. | 回音 | En los lugares grandes se escucha el eco. | | |
+  | ![](images/a1/0365.jpg) | apartamento | s., m. | 公寓 | Mi nuevo apartamento tiene los muebles modernos. | piso, vivienda, alojamiento | |
+  | ![](images/a1/0366.jpg) | chalé | s., m. | 别墅 | El chalé de nuestros amigos tiene una piscina pequeña. | chalet, casa de campo | |
+  | ![](images/a1/0367.jpg) | mueble | s., m. | 家具 | Quiero comprar un mueble clásico para el salón. | | |
+  | ![](images/a1/0368.jpg) | agencia inmobiliaria | s., f. | 房产中介 | La agencia inmobiliaria tiene anuncios con fotografía. | inmobiliaria | |
+  | ![](images/a1/0369.jpg) | mudarse | v., tr. | 搬家 | Ellos guardan sus cosas en cajas para mudarse. | trasladarse | quedarse, permanecer |
+  | ![](images/a1/0370.jpg) | alquilar | v., tr. | 租，租用 | Se alquila este piso. | | |
+  | ![](images/a1/0371.jpg) | pasillo | s., m. | 走廊 | El pasillo de la casa de Ana es estrecho. | corredor | |
+  | ![](images/a1/0372.jpg) | final | s., m. | 尽头，终点 | Al final de las escaleras hay un árbol. | fin, término | comienzo, inicio, principio |
+  | ![](images/a1/0373.jpg) | ascensor | s., m. | 电梯 | La chica espera el ascensor. | elevador, montacargas | |
+  | ![](images/a1/0374.jpg) | octavo | adj., m. | 第 8 的 | Ella está en el octavo mes de embarazo. | | |
+  | ![](images/a1/0375.jpg) | balcón | s., m. | 阳台 | El balcón tiene muchas flores. | | |
+  | ![](images/a1/0376.jpg) | piso | s., m. | 层，公寓 | El piso está casi vacío. | vivienda, casa, apartamento | |
+  | ![](images/a1/0377.jpg) | salón | s., m. | 客厅 | La televisión está en el centro del salón. | sala | |
+  | ![](images/a1/0378.jpg) | comedor | s., m. | 餐厅 | La mesa del comedor tiene cuatro sillas. | | |
+  | ![](images/a1/0379.jpg) | armario | s., m. | 衣柜 | Su marido guarda la ropa en el armario. | | |
+  | ![](images/a1/0380.jpg) | lámpara | s., f. | 灯 | La lámpara de techo es de estilo moderno. | | |
+  | ![](images/a1/0381.jpg) | aire acondicionado | s., m. | 空调 | La chica enciende el aire acondicionado. | | |
+  | ![](images/a1/0382.jpg) | lavavajillas | s., m. | 洗碗机 | Carmen mete los platos sucios en el lavavajillas. | lavaplatos | |
+  | ![](images/a1/0383.jpg) | nevera | s., f. | 冰箱 | La nevera está llena de comida. | frigorífico, refrigerador, heladera (en Argentina) | |
+  | ![](images/a1/0384.jpg) | escritorio | s., m. | 办公桌 | El niño estudia en el escritorio. | estudio, mesa | |
+  | ![](images/a1/0385.jpg) | estantería | s., f. | 书架 | En la estantería hay libros de todos los tamaños. | | |
+  | ![](images/a1/0386.jpg) | decorar | v., tr. | 装饰 | En esta casa han decorado la pared con hojas de vinilo. | adornar | |
+  | ![](images/a1/0387.jpg) | cuadro | s., m. | 画 | "La Gioconda" es el cuadro más famoso de Leonardo da Vinci. | pintura | |
