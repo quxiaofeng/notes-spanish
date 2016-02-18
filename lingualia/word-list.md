@@ -319,3 +319,51 @@
   | ![](images/a1/0313.jpg) | temporal | adj., m./f. | 暂时的 | Los dientes de leche son temporales. | eventual, provisional | indefinido, permanente, fijo |
   | ![](images/a1/0314.jpg) | anuncio | s., m. | 通知 | Este es un anuncio de una bebida muy famosa. | aviso, publicidad | |
   | ![](images/a1/0315.jpg) | suerte | s., f. | 运气 | El trébol es un símbolo de buena suerte. | fortuna, ventura | desgracia |
+  | ![](images/a1/0316.jpg) | teléfono móvil | s., m. | 手机 | El señor habla por teléfono móvil con su mujer. | celular | |
+  | ![](images/a1/0317.jpg) | perder | v., tr. | 丢失 | La chica ha perdido peso. | | encontrar |
+  | ![](images/a1/0318.jpg) | hacer una perdida | expr. | 响一下就挂 | Juan hace una perdida a su amigo para avisarle de que ya ha llegado. | dar un toque, hacer una (llamada) perdida | |
+  | ![](images/a1/0319.jpg) | bolsillo | s., m. | 口袋 | Este pantalón tiene dos bolsillos. | | |
+  | ![](images/a1/0320.jpg) | cartera | s., f. | 钱包 | En mi cartera guardo las tarjetas de crédito. | monedero, portamonedas, billetero | |
+  | ![](images/a1/0321.jpg) | billete | s., m. | 钞票 | Estos billetes son de dólar. | | |
+  | ![](images/a1/0322.jpg) | moneda | s., f. | 硬币 | Estas monedas son de euro. | | |
+  | ![](images/a1/0323.jpg) | ladrón | s., m. | 小偷 | El ladrón lleva la cara tapada. | carterista | |
+  | ![](images/a1/0324.jpg) | robar | v., tr. | 抢劫 | El niño roba la comida de su hermano. | hurtar, mangar (coloquial) | |
+  | ![](images/a1/0325.jpg) | comisaría | s., f. | 警察局，派出所 | Ese es el edificio de la comisaría de policía. | policía | |
+  | ![](images/a1/0326.jpg) | denuncia | s., f. | 报告 | Hemos firmado un documento de denuncia. | | |
+  | ![](images/a1/0327.jpg) | esperar | v., tr. | 等待，期待 | Los pasajeros esperan el tren. | | |
+  | ![](images/a1/0328.jpg) | madre | s., f. | 母亲 | La madre besa a su bebé. | mamá (coloquial) | |
+  | ![](images/a1/0329.jpg) | marido | s., m. | 丈夫 | El marido de Victoria se llama David. | esposo, cónyuge | |
+  | ![](images/a1/0330.jpg) | mujer | s., f. | 妻子 | La mujer de David es Victoria. | ₁hembra, fémina, señora. ₂Esposa, consorte | |
+  | ![](images/a1/0331.jpg) | nieto | s., m. | 孙子 | El abuelo juega con su nieto. | | |
+  | ![](images/a1/0332.jpg) | padre | s., m. | 父亲 | El niño conversa con su padre. | papá (coloquial) | |
+  | ![](images/a1/0333.jpg) | sobrino | s., m. | 侄子，外甥 | Emma Roberts es la sobrina de la actriz Julia Roberts. | | |
+  | ![](images/a1/0334.jpg) | macarrones | s., m. | 通心面 | Me gustan los macarrones con tomate. | fideos (en Argentina) | |
+  | ![](images/a1/0335.jpg) | calor | s., m. | 热 | Hoy hace mucho calor. | | frío |
+  | ![](images/a1/0336.jpg) | cámara | s., f. | 照相机 | Los turistas siempre llevan una cámara. | | |
+  | ![](images/a1/0337.jpg) | salud | s., f. | 健康状况 | El médico comprueba la salud del paciente. | | enfermedad |
+  | ![](images/a1/0338.jpg) | tener una salud de hierro | expr. | 好身体 | Popeye tiene una salud de hierro gracias a las espinacas. | estar como un roble | tener una mala salud de hierro |
+  | ![](images/a1/0339.jpg) | estar pachucho | expr. coloq. | 不舒服 | El perro está un poco pachucho hoy. | | sano |
+  | ![](images/a1/0340.jpg) | medicamento | s., m. | 药 | Este medicamento es para el dolor de cabeza. | medicina, fármaco | |
+  | ![](images/a1/0341.jpg) | natural | adj., m./f. | 自然的 | La miel es un producto natural. | | artificial |
+  | ![](images/a1/0342.jpg) | uva | s., f. | 葡萄 | Este racimo de uva es de color violeta. | | |
+  | ![](images/a1/0343.jpg) | tomate | s., m. | 西红柿 | Yo siempre pongo tomate a la pizza. | | |
+  | ![](images/a1/0344.jpg) | lechuga | s., f. | 生菜 | La lechuga es redonda. | | |
+  | ![](images/a1/0345.jpg) | cerveza | s., f. | 啤酒 | A mis amigos les gusta la cerveza negra, a mí no. | | |
+  | ![](images/a1/0346.jpg) | alegre | adj., m./f. | 开心的 | El fin de semana estoy más alegre que el lunes. | contento | triste |
+  | ![](images/a1/0347.jpg) | escalera | s., f. | 楼梯 | La escalera es de aluminio. | | |
+  | ![](images/a1/0348.jpg) | subir | v., tr./intr. | 爬上 | Todos los días sube a casa de su vecina. | ascender | bajar, descender |
+  | ![](images/a1/0349.jpg) | gripe | s., f. | 感冒，流感 | Este invierno he tenido gripe. | influenza | |
+  | ![](images/a1/0350.jpg) | seguir | v., tr. | 继续 | Después de un año, nosotros seguimos estudiando español. | continuar | parar |
+  | ![](images/a1/0351.jpg) | ecológico | adj., m. | 生态的，绿色的 | Este coche es ecológico: utiliza poca gasolina. | | |
+  | ![](images/a1/0352.jpg) | genial | adj., m./f. | 极好的 | Comer fruta y verdura es genial para la salud. | magnífico, excelente | |
+  | ![](images/a1/0353.jpg) | divertirse | v., intr. | 玩得开心 | Nosotros nos divertimos el fin de semana en la disco. | pasarlo bien, entretenerse | aburrirse |
+  | ![](images/a1/0354.jpg) | echar de menos | expr. | 思念，想 | La niña echa de menos a su madre. | extrañar, recordar, pensar | olvidar |
+  | ![](images/a1/0355.jpg) | cuidar | v. tr. | 照顾 | La chica cuida su cara con crema. | proteger | descuidar |
+  | ![](images/a1/0356.jpg) | regalo | s., m. | 礼物 | Yo recibo un regalo de cumpleaños. | obsequio | |
+  | ![](images/a1/0357.jpg) | llavero | s., m. | 钥匙圈 | Este llavero es de metal. | | |
+  | ![](images/a1/0358.jpg) | llave | s., f. | 钥匙 | Abro la puerta de casa con la llave. | | |
+  | ![](images/a1/0359.jpg) | barco | s., m. | 船 | El barco pirata va por el mar. | embarcación | |
+  | ![](images/a1/0360.jpg) | puerto | s., m. | 港口 | En el puerto hay varias barcas pequeñas. | embarcadero, muelle | |
+  | ![](images/a1/0361.jpg) | distancia | s., f. | 距离 | La distancia entre Barcelona y Madrid es de 622 kilómetros. | separación, lejanía | cercanía, proximidad |
+  | ![](images/a1/0362.jpg) | botas | s., f. | 靴子 | La chica lleva botas de invierno. | | |
+  | ![](images/a1/0363.jpg) | nevar | v., intr. | 下雪 | Hoy está nevando en la ciudad. | | |
