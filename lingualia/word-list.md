@@ -391,3 +391,39 @@
   | ![](images/a1/0385.jpg) | estantería | s., f. | 书架 | En la estantería hay libros de todos los tamaños. | | |
   | ![](images/a1/0386.jpg) | decorar | v., tr. | 装饰 | En esta casa han decorado la pared con hojas de vinilo. | adornar | |
   | ![](images/a1/0387.jpg) | cuadro | s., m. | 画 | "La Gioconda" es el cuadro más famoso de Leonardo da Vinci. | pintura | |
+  | ![](images/a1/0388.jpg) | pasta | s., f. | 意大利面 | Hoy he tomado pasta con tomate. | | |
+  | ![](images/a1/0389.jpg) | huevo | s., m. | 鸡蛋 | Me encantan los huevos fritos. | | |
+  | ![](images/a1/0390.jpg) | carne | s., f. | 肉 | Mi amiga Neus no come carne, es vegetariana. | | |
+  | ![](images/a1/0391.jpg) | silla | s., f. | 椅子 | Esta silla es muy colorida y original. | asiento | |
+  | ![](images/a1/0392.jpg) | pimienta | s., f. | 胡椒，胡椒粉 | El cocinero usa pimienta para algunos platos. | | |
+  | ![](images/a1/0393.jpg) | sofá | s., m. | 沙发 | En este sofá hay espacio para tres personas. | | |
+  | ![](images/a1/0394.jpg) | séptimo | adj., m. | 第 7 的 | Al cine se le llama el séptimo arte. | | |
+  | ![](images/a1/0395.jpg) | publicidad | s., f. | 广告 | Esta publicidad es de un restaurante de comida rápida. | propaganda, anuncio | |
+  | ![](images/a1/0396.jpg) | ama de casa | s., f. | 家政服务者 | El amo de casa limpia el sofá con la aspiradora. | | |
+  | ![](images/a1/0397.jpg) | rico | adj., m. | 味道好 | Este pastel de chocolate está muy rico. | sabroso | |
+  | ![](images/a1/0398.jpg) | cocinar | v., tr. | 烹饪 | Toda la familia cocina el plato de hoy. | guisar | |
+  | ![](images/a1/0399.jpg) | inaugurar | v., tr. | 开始，创立 | Estos señores van a inaugurar su nueva empresa. | estrenar | clausurar |
+  | ![](images/a1/0400.jpg) | jarrón | s., m. | 花瓶 | Este jarrón de porcelana china es muy antiguo. | florero | |
+  | ![](images/a1/0401.jpg) | romper | v., tr. | 破坏 | Los niños han roto la ventana. | partir | reparar, arreglar |
+  | ![](images/a1/0402.jpg) | aperitivo | s., m. | 餐前酒，饭前零食 | Yo tomo un aperitivo en el bar. | tapa | |
+  | ![](images/a1/0403.jpg) | plato | s., m. | 盘子 | El plato no tiene nada de comida. | ₁fuente. ₂ comida | |
+  | ![](images/a1/0404.jpg) | vinagre | s., m. | 醋 | Yo siempre pongo aceite y vinagre a la ensalada. | | |
+  | ![](images/a1/0405.jpg) | costar | v., tr. | 花费 | El coche cuesta 39.90 ringgit de Malasia. | valer | |
+  | ![](images/a1/0406.jpg) | champán | s., m. | 香槟 | Nosotros brindamos con champán. | champaña, cava, espumoso | |
+  | ![](images/a1/0407.jpg) | jefe | s., m. | 老板，上司 | Su jefe siempre está nervioso y de mal humor. | superior, director | |
+  | ![](images/a1/0408.jpg) | junto a | loc., prep. | 靠近 | El pato está junto al perro. | cerca de, al lado de | |
+  | ![](images/a1/0409.jpg) | batido | s., m. | 奶昔 | En verano nos encanta beber batido de fresa. | sorbete | |
+  | ![](images/a1/0410.jpg) | hielo | s., m. | 冰块 | Yo pongo cubitos de hielo a la Coca Cola. | | |
+  | ![](images/a1/0411.jpg) | canela | s., f. | 桂皮 | Algunos postres típicos llevan canela. | | |
+  | ![](images/a1/0412.jpg) | reír | v., intr. | 笑 | El bebé ríe al ver a su madre. | | |
+  | ![](images/a1/0413.jpg) | tirar | v., tr. | 扔 | La chica tira la pelota a su amiga. | echar | |
+  | ![](images/a1/0414.jpg) | basura | s., f. | 垃圾 | Esta es la bolsa de basura del plástico. | | |
+  | ![](images/a1/0415.jpg) | botella | s., f. | 瓶子 | Ellos abren una botella de vino. | frasco (de perfume) | |
+  | ![](images/a1/0416.jpg) | contenedor | s., m. | 容器 | El contenedor para el plástico es de color amarillo. | container (voz inglesa) | |
+  | ![](images/a1/0417.jpg) | sucio | adj., m. | 脏的 | El niño tiene la cara sucia. | manchado | limpio |
+  | ![](images/a1/0418.jpg) | suelo | s., m. | 地板 | El suelo es de madera. | piso | |
+  | ![](images/a1/0419.jpg) | descansar | v., intr. | 休息 | El oso panda descansa en el árbol. | reposar | trabajar |
+  | ![](images/a1/0420.jpg) | éxito | s., m. | 成功 | La chica joven ha tenido mucho éxito en la reunión. | triunfo | fracaso |
+  | ![](images/a1/0421.jpg) | planta | s., f. | 植物 | El cactus es una planta. | árbol | |
+  | ![](images/a1/0422.jpg) | pijama | s., m. | 睡衣 | La mujer lleva puesto su pijama. | | |
+  | ![](images/a1/0423.jpg) | despertador | s., m | 闹钟 | El despertador está sonando. | alarma | |
