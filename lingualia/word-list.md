@@ -427,3 +427,39 @@
   | ![](images/a1/0421.jpg) | planta | s., f. | 植物 | El cactus es una planta. | árbol | |
   | ![](images/a1/0422.jpg) | pijama | s., m. | 睡衣 | La mujer lleva puesto su pijama. | | |
   | ![](images/a1/0423.jpg) | despertador | s., m | 闹钟 | El despertador está sonando. | alarma | |
+  | ![](images/a1/0424.jpg) | sopa | s., f. | 汤 | Esta sopa aún está muy caliente. | caldo | |
+  | ![](images/a1/0425.jpg) | cocinero | s., m. | 厨师 | El cocinero prepara el plato del día. | | |
+  | ![](images/a1/0426.jpg) | aprender | v., tr. | 学习 | La niña está aprendiendo a leer. | memorizar | olvidar |
+  | ![](images/a1/0427.jpg) | instituto | s., m. | 研究所 | Los estudiantes están entrando al instituto. | academia, centro, escuela | |
+  | ![](images/a1/0428.jpg) | actividad | s., m. | 活动 | Practicar deporte es una buena actividad para nuestra salud. | trabajo, tarea | |
+  | ![](images/a1/0429.jpg) | venir | v., intr. | 离开 | ¿Puedes venir un momento? | acudir | irse |
+  | ![](images/a1/0430.jpg) | parada | s., f. | 车站，停止 | Las personas esperan en la parada del autobús. | | |
+  | ![](images/a1/0431.jpg) | pueblo | s., m. | 村庄 | El pueblo está al lado de la montaña. | municipio, población | |
+  | ![](images/a1/0432.jpg) | kilo | s., m . | 千克 | El chocolate pesa medio kilo. | | |
+  | ![](images/a1/0433.jpg) | docena | s., f. | 一打 | He comprado una docena de huevos. | doce | |
+  | ![](images/a1/0434.jpg) | litro | s., m. | 升 | La botella de leche es de un litro. | | |
+  | ![](images/a1/0435.jpg) | par | s., m. | 一对 | Me han regalado un par de zapatos. | dos | |
+  | ![](images/a1/0436.jpg) | coliflor | s., f. | 花菜 | La coliflor es una verdura de color blanco. | | |
+  | ![](images/a1/0437.jpg) | hamburguesa | s., f. | 汉堡 | Esta hamburguesa lleva queso y lechuga. | | |
+  | ![](images/a1/0438.jpg) | pescado | s., m. | 鱼肉 | Mi padre limpia el pescado. | | |
+  | ![](images/a1/0439.jpg) | horno | s., m. | 烤箱 | El pollo está en el horno. | | |
+  | ![](images/a1/0440.jpg) | delantal | s., m. | 围裙 | El cocinero lleva delantal. | mandil | |
+  | ![](images/a1/0441.jpg) | libreta | s., f. | 笔记本 | Yo escribo en mi libreta. | cuaderno, bloc | |
+  | ![](images/a1/0442.jpg) | tomar nota | loc. verb. | 记笔记 | El periodista toma notas durante la entrevista. | apuntar | |
+  | ![](images/a1/0443.jpg) | comprar | v., tr. | 买 | La mujer compra en el supermercado. | adquirir | vender |
+  | ![](images/a1/0444.jpg) | vender | v., tr. | 卖 | La frutera vende piña. | | comprar |
+  | ![](images/a1/0445.jpg) | simpático | adj., m. | 令人喜爱的 | El niño es muy simpático. | cordial, amable, sociable | antipático |
+  | ![](images/a1/0446.jpg) | trabajador | adj., m. | 勤奋的 | Estos obreros son muy trabajadores. | diligente | vago |
+  | ![](images/a1/0447.jpg) | cenar | v., tr. | 吃晚餐 | La pareja va a cenar a la luz de las velas. | | |
+  | ![](images/a1/0448.jpg) | cebolla | s., f. | 洋葱 | Ella llora cuando corta cebollas. | | |
+  | ![](images/a1/0449.jpg) | sartén | s., f. | 平底锅 | El cocinero cocina las verduras en la sartén. | | |
+  | ![](images/a1/0450.jpg) | freír | v., tr. | 油炸 | Nosotros freímos huevos para la cena. | saltear | |
+  | ![](images/a1/0451.jpg) | hervir | v., tr. | 煮 | Yo hiervo agua para hacer té. | cocer | |
+  | ![](images/a1/0452.jpg) | pan | s., m. | 面包 | Voy a comprar una barra de pan. | | |
+  | ![](images/a1/0453.jpg) | patata | s., f. | 土豆 | Hoy vamos a comer patatas. | papa (en Canarias, Argentina y México) | |
+  | ![](images/a1/0454.jpg) | manzana | s., f. | 苹果 | Esta manzana tiene un color muy brillante. | | |
+  | ![](images/a1/0455.jpg) | a la plancha | loc. adv. | 铁板烤 | Me encanta el pescado a la plancha. | | |
+  | ![](images/a1/0456.jpg) | grasa | s., f. | 脂肪 | Algunos alimentos tienen mucha grasa. | | |
+  | ![](images/a1/0457.jpg) | fuego | s., m. | 火 | El fuego está encendido. | | |
+  | ![](images/a1/0458.jpg) | pera | s., f. | 梨子 | Hoy voy a comer una pera. | | |
+  | ![](images/a1/0459.jpg) | dar la vuelta | loc. verb. | 翻面 | Hay que dar la vuelta a la tortilla para cocinarla bien. | voltear, girar | |
