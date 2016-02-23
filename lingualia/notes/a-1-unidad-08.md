@@ -70,4 +70,23 @@
 
 - 命令式不规则变位
 
-  与一般现在时中的不规则变位一致，如　
+  与一般现在时中的不规则变位一致，如元音 `e < ie` 的变化 `cerrer`：
+
+  | 一般现在时 | 命令式 |
+  | --- | --- |
+  | Yo c**ie**rro | |
+  | Tú c**ie**rras | c**ie**rra (tú) |
+  | Él c**ie**rra | c**ie**rre (usted) |
+  | Nos. cerramos | cerremos (nosotros) |
+  | Vos. cerráis | cerrad (vosotros) |
+  | Ellos c**ie**rran | c**ie**rren (ustedes) |
+
+  其他不规则变化：
+
+  | | Poner |
+  | --- | --- |
+  | (tú) | pon |
+  | (usted) | ponga
+  | pongamos (nosotros) |
+  | poned (vosotros)
+  | pongan (ustedes)
