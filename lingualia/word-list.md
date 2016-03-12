@@ -7,7 +7,7 @@
   | ![](images/a1/0001.jpg) | nombre | s., m. | 名字 | Mi nombre es Isabel. | identidad | |
   | ![](images/a1/0002.jpg) | apellido | s., m. | 姓 | Mi apellido es Martínez. | nombre de familia | |
   | ![](images/a1/0003.jpg) | abecedario | s., m. | 字母表 | El abecedario español tiene 27 letras. | alfabeto | |
-  | ![](images/a1/0004.jpg) | saludar | v.,  tr. | 问候 | La niña saluda con la mano. | | despedirse |
+  | ![](images/a1/0004.jpg) | saludar | v., tr. | 问候 | La niña saluda con la mano. | | despedirse |
   | ![](images/a1/0005.jpg) | beso | s., m. | 亲吻 | Te mando un beso. | | |
   | ![](images/a1/0006.jpg) | abrazo | s., m. | 拥抱 | Los hermanos se dan un fuerte abrazo. | | |
   | ![](images/a1/0007.jpg) | alfabeto | s., m. | 字母表 | El alfabeto español tiene 27 letras. | abecedario | |
@@ -25,7 +25,7 @@
   | ![](images/a1/0019.jpg) | escuchar | v., tr. | 听 | El niño escucha música. | percibir, oír | |
   | ![](images/a1/0020.jpg) | estudiar | v., tr. | 学习 | Esta chica estudia mucho. | aprender, memorizar | |
   | ![](images/a1/0021.jpg) | examen | s., m. | 考试 | Hoy hay examen de la asignatura. | prueba, ejercicio |
-  | ![](images/a1/0022.jpg) | difícil | adj.,  m./f. | 困难的，困难 | Este salto es muy difícil. | complicado | fácil, sencillo |
+  | ![](images/a1/0022.jpg) | difícil | adj., m./f. | 困难的，困难 | Este salto es muy difícil. | complicado | fácil, sencillo |
   | ![](images/a1/0023.jpg) | biblioteca | s., f. | 图书馆 | Yo estudio en la biblioteca de la Universidad. | | |
   | ![](images/a1/0024.jpg) | preguntar | v., tr. | 提问 | El estudiante pregunta al profesor en clase. | interrogar, cuestionar | contestar, responder |
   | ![](images/a1/0025.jpg) | compañero | s., m. | 伙伴，伴侣 | Ana, Jose y Roberto son compañeros de clase. | colega | |
@@ -329,7 +329,7 @@
   | ![](images/a1/0323.jpg) | ladrón | s., m. | 小偷 | El ladrón lleva la cara tapada. | carterista | |
   | ![](images/a1/0324.jpg) | robar | v., tr. | 抢劫 | El niño roba la comida de su hermano. | hurtar, mangar (coloquial) | |
   | ![](images/a1/0325.jpg) | comisaría | s., f. | 警察局，派出所 | Ese es el edificio de la comisaría de policía. | policía | |
-  | ![](images/a1/0326.jpg) | denuncia | s., f. | 报告 | Hemos firmado un documento de denuncia. | | |
+  | ![](images/a1/0326.jpg) | denuncia | s., f. | 报案，举报 | Hemos firmado un documento de denuncia. | | |
   | ![](images/a1/0327.jpg) | esperar | v., tr. | 等待，期待 | Los pasajeros esperan el tren. | | |
   | ![](images/a1/0328.jpg) | madre | s., f. | 母亲 | La madre besa a su bebé. | mamá (coloquial) | |
   | ![](images/a1/0329.jpg) | marido | s., m. | 丈夫 | El marido de Victoria se llama David. | esposo, cónyuge | |
@@ -463,3 +463,27 @@
   | ![](images/a1/0457.jpg) | fuego | s., m. | 火 | El fuego está encendido. | | |
   | ![](images/a1/0458.jpg) | pera | s., f. | 梨子 | Hoy voy a comer una pera. | | |
   | ![](images/a1/0459.jpg) | dar la vuelta | loc. verb. | 翻面 | Hay que dar la vuelta a la tortilla para cocinarla bien. | voltear, girar | |
+  | ![](images/a1/0460.jpg) | deberes | s., m. | 作业，任务 | El niño tiene que hacer muchos deberes. | tarea, ejercicio | |
+  | ![](images/a1/0461.jpg) | idioma | s., m. | 语言 | Ellos hablan diferentes idiomas. | lengua, lenguaje | |
+  | ![](images/a1/0462.jpg) | literatura | s., f. | 文学 | A Pilar le gusta leer libros de literatura. | | |
+  | ![](images/a1/0463.jpg) | estudiante | s., m./f. | 学生 | Pedro es un buen estudiante. | alumno | |
+  | ![](images/a1/0464.jpg) | informe | s., m. | 报告书 | Ellos tienen que terminar el informe hoy. | memoria, resumen | |
+  | ![](images/a1/0465.jpg) | departamento | s., m. | 部门 | Estas personas forman el departamento comercial. | sección, sector | |
+  | ![](images/a1/0466.jpg) | clase | s., f. | 教室 | No hay nadie en la clase. | ₁ y ₃ aula, escuela, sala. ₂ Asignatura, lección | |
+  | ![](images/a1/0467.jpg) | grupo | s., m. | 群体 | Este es mi grupo de amigos. | conjunto | individuo, individual |
+  | ![](images/a1/0468.jpg) | obra | s., f. | 作品 | Esta tarde vamos a ver una obra de teatro. | creación | |
+  | ![](images/a1/0469.jpg) | lección | s., f. | 课程 | La profesora explica una lección nueva. | asignatura, materia, clase | |
+  | ![](images/a1/0470.jpg) | papel | s., m. | 纸 | Los periódicos están hechos con papel. | folio, hoja | |
+  | ![](images/a1/0471.jpg) | a mano | loc. adv. | 动手 | El chico lava la ropa a mano. | manualmente | |
+  | ![](images/a1/0472.jpg) | evidente | adj., m./f. | 明显的 | Es evidente que la comida rápida no es buena para la salud. | obvio, claro | dudoso |
+  | ![](images/a1/0473.jpg) | liso | adj., m. | 直的 | La modelo lleva el pelo completamente liso. | lacio (en Argentina) | rizado, enrulado (en Argentina) |
+  | ![](images/a1/0474.jpg) | caro | adj., m. | 昂贵的 | El Bugatti Veyron es uno de los coches más caros del mundo. | costoso | barato, económico |
+  | ![](images/a1/0475.jpg) | saber | v. tr. | 知道 | Esa persona no sabe cocinar. | comprender, conocer | ignorar |
+  | ![](images/a1/0476.jpg) | llegar | v. intr. | 到达 | Su avión llega a las 10 de la noche. | venir | marchar, salir, irse |
+  | ![](images/a1/0477.jpg) | información | s., f. | 信息 | Nosotros vamos a la oficina de información turística. | oficina de información, punto de información | |
+  | ![](images/a1/0478.jpg) | mar | s., m./f. | 海 | Hoy el mar está tranquilo. | agua | |
+  | ![](images/a1/0479.jpg) | ciudad | s., f. | 城市 | La ciudad de Nueva York es uno de los destinos turísticos mundiales. | urbe | pueblo |
+  | ![](images/a1/0480.jpg) | llover | v. intr. | 下雨 | Hoy está lloviendo muy fuerte. | | |
+  | ![](images/a1/0481.jpg) | canal | s., m. | 频道 | El chico controla los canales de televisión de la competencia. | cadena, emisora | |
+  | ![](images/a1/0482.jpg) | paraguas | s., m. | 雨伞 | La niña se tapa con un paraguas. | | |
+  | ![](images/a1/0483.jpg) | orilla | s., f. | 岸边 | La mujer está sentada en la orilla. | ribera | |

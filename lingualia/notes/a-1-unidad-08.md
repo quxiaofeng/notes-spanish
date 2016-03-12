@@ -20,7 +20,7 @@
 
   第二人称复数 `vosotros/-as` 的变位形式：将动词原型的 `R` 变成 `D`
 
-  > ¡limpiad! (vosotros) ¡cantad una canción! (vosotros)
+  > ¡limpiad! (vos.) ¡cantad una canción! (vos.)
 
   其他人称的变位与虚拟语气（`subjuntivo`）变位一致。
 
@@ -28,8 +28,8 @@
   | --- | --- | --- | --- |
   | (tú) | cant**a** | beb**e** | viv**e** |
   | (usted) | cant**e** | beb**a** | viv**a** |
-  | (nosotros/-as) | cant**emos** | beb**amos** | viv**amos** |
-  | (vosotros/-as) | cant**ad** | beb**ed** | viv**id** |
+  | (nos.) | cant**emos** | beb**amos** | viv**amos** |
+  | (vos.) | cant**ad** | beb**ed** | viv**id** |
   | (ustedes) | cant**en** | beb**an** | viv**an** |
 
 - 音节 `BL`
@@ -59,6 +59,8 @@
 
   > Da el libro a Pedro -> OD: el libro (lo); OI: a Pedro (le) -> Dáselo.
 
+  注意，为了保证重音的位置，必要时需要加上重音符号。
+
 - 音节 `FL`
 
   > La flaca y Pepín tocan con fluidez, <br>
@@ -72,21 +74,120 @@
 
   与一般现在时中的不规则变位一致，如元音 `e < ie` 的变化 `cerrer`：
 
-  | 一般现在时 | 命令式 |
-  | --- | --- |
-  | Yo c**ie**rro | |
-  | Tú c**ie**rras | c**ie**rra (tú) |
-  | Él c**ie**rra | c**ie**rre (usted) |
-  | Nos. cerramos | cerremos (nosotros) |
-  | Vos. cerráis | cerrad (vosotros) |
-  | Ellos c**ie**rran | c**ie**rren (ustedes) |
+  | | 一般现在时 | | 命令式 |
+  | --- | --- | --- | --- |
+  | (yo) | c**ie**rro | | |
+  | (tú) | c**ie**rras | (tú) | c**ie**rra |
+  | (él) | c**ie**rra | (usted) | c**ie**rre |
+  | (nos.) | cerramos | (nos.) | cerremos |
+  | (vos.) | cerráis | (vos.) |cerrad  |
+  | (ellos) | c**ie**rran | (ustedes) | c**ie**rren |
 
   其他不规则变化：
 
-  | | Poner |
-  | --- | --- |
-  | (tú) | pon |
-  | (usted) | ponga
-  | pongamos (nosotros) |
-  | poned (vosotros)
-  | pongan (ustedes)
+  | | Poner | Salir |
+  | --- | --- | --- |
+  | (tú) | **pon** | **sal** |
+  | (usted) | **ponga** | **salga** |
+  | (nos.) | **pongamos** | **salgamos** |
+  | (vos.) | poned | salid |
+  | (ustedes) | **pongan** | **salgan** |
+
+- 音节 `GL`
+
+  > A los gladiolos <br>
+  y a las glicinas <br>
+  de la glorieta <br>
+  de la iglesia, <br>
+  todos los días <br>
+  le pone agua <br>
+  la niña Gladis. <br>
+  [a.loz.γla.ðjó.los <br>
+  i.a.laz.γli.θí.nas <br>
+  de.la.γlo.ɾjé.ta <br>
+  ðe.la.i.γlé.sja, <br>
+  tó.ðoz.loz.ðí.az <br>
+  le.pó.ne.á.γwa <br>
+  la.ní.ɲa.γlá.ðis]
+
+## Lección 39: Haced los deberes para el próximo día
+
+- 命令式不规则变位 (2)
+
+  | | Decir | Hacer | Ir |
+  | --- | --- | --- | --- |
+  | (tú) | **di** | **haz** | **ve** |
+  | (usted) | **diga** | **haga** | **vaya** |
+  | (nos.) | **digamos** | **hagamos** | **vayamos** |
+  | (vos.) | decid | haced | id |
+  | (ustedes) | **digan** | **salgan** | **vayan** |
+
+- 自复动词的命令式
+
+  对于自复动词的第二人称复数形式，动词后面的 `d` 通常会省略：
+  > sentad + os = sentaos
+
+  例外情况是动词 `irse` 其第二人称复数形式为：`idos`
+
+- `Para`
+
+  表示未来的时间：
+
+  > Haced los deberes **para** mañana.
+
+  表示方向（可以跟 `a, hacia` 替换）：
+  > El avión va para Madrid.
+
+  间接补语表示目的（可以跟 `a` 替换）：
+  > Yo compro flores para mi madre.
+
+- 音节 `TL`
+
+  > Si en transatlántico <br>
+  > ese atleta viajara, <br>
+  > en transatlántico <br>
+  > el Atlántico cruzará. <br>
+  > [sj.en.tran.sa.tlán.ti.ko <br>
+  > é.se.a.tlé.ta.βja.xá.ra, <br>
+  > en.tran.sa.tlán.ti.ko <br>
+  > el.a.tlán.ti.ko.kru.θa.rá]
+
+## Lección 40: Dime cómo lo sabes
+
+- 命令式
+
+  不规则动词
+
+  与 `cerrar` 类似在一般现在时有元音变位的不规则动词，命令式也是不规则的，只有 `nosotros/-as` 和 `vosotros/-as` 不变位。
+
+  | | Dormir | Recordar | Volver |
+  | --- | --- | --- | --- |
+  | (tú) | **duerme** | **recuerda** | **vuelve** |
+  | (usted) | **duerma** | **recuerde** | **verlva** |
+  | (nos.) | dormamos | recordemos | volvamos |
+  | (vos.) | dormid | salid | volved |
+  | (ustedes) | **duerman** | **recuerden** | **vuelvan** |
+
+  一般直接使用命令式有种不礼貌的感觉，所以通常会加上 `por favor` 柔和语气。
+
+  > Ana, compra el pan. -> Ana, compra el pan, **por favor**.
+
+  间接宾语的重复
+
+  在使用第三人称间接宾语代词时，有时候为了说清楚指代的人，可以重复间接宾语：
+
+  > Cómpra**le a tu madre** estas flores. Seguro que le gustan.
+
+- Lo
+
+  `Lo` 做 `OD` 时可以指代单数阳性名词，也可以指代前面的一整句话，或者一个中性指示词 `esto, eso, aquello`
+
+  >Yo sé que tienes un hermano. -> Yo lo sé. <br>
+  > (Yo sé eso. Eso = tienes un hermano) <br>
+  > Dime cómo lo sabes. -> lo = eso <br>
+  > (información anteriormente dicha) <br>
+
+- Te, té
+
+  te 表示第二人称代词
+  té 表示茶，有重音
